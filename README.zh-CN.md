@@ -192,6 +192,10 @@
 | **Dawnward** | GavinLOrio | 3D 动作游戏。玩家要在一座陷入永夜的岛上点燃六座烽火。仓库中的 HTML 文件可在本地运行。 | [作者的制作提交](https://github.com/GavinLOrio/Fable-5.2-random-game/commit/6051b625701c68e9fcef4bef30f2476f287830e5) | [HTML 源文件](https://github.com/GavinLOrio/Fable-5.2-random-game/blob/6051b625701c68e9fcef4bef30f2476f287830e5/index.html)<br>项目代码 · 许可协议未知 | GitHub：0 星标，0 次复刻<br>2026-11-11 16:13 UTC |
 | **ringfall**<br><a href="https://x.com/rehan_shei/status/2119994607291584962"><img src="https://pbs.twimg.com/amplify_video_thumb/2119993937079459841/img/xg4Sk4HhxFQa7XAd.jpg" alt="预览：ringfall" width="180"></a> | Rehan Sheikh | 受《Destiny》启发的 FPS，场景设在一颗带行星环的星球下的拆船场。玩家要摧毁三座塔，再进入残骸击败工头。 | [试玩](https://patch.gg/play/rehan/ringfall) · [项目页](https://patch.gg/games/rehan/ringfall) · [作者原帖](https://x.com/rehan_shei/status/2119994607291584962) | [Git 仓库](https://git.patch.gg/rehan/ringfall.git)<br>项目代码 · 许可协议未知 | X：6,480 次浏览，61 次点赞，8 次转发，8 条回复<br>2026-11-11 16:13 UTC |
 
+### 相关游戏
+
+- **海克斯大乱斗 (Hextech ARAM)** 是《英雄联盟》嚎哭深渊模式的同人网页游戏，支持选英雄、海克斯强化和联机对战。开发者守望星空はは在演示中注明原版使用 **GPT-6** 制作。[试玩](https://lol.hanyue.io/) · [B 站作者演示](https://www.bilibili.com/video/BV1Z7Y768EpR/)
+
 ## 交互世界与模拟体验
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |

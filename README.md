@@ -192,6 +192,10 @@ Popularity figures are snapshots of the linked post, video, or repository, not t
 | **Dawnward** | GavinLOrio | A 3D action game about relighting six beacons on an island trapped in an endless night. Runs locally from the repository’s HTML file. | [Creator’s build commit](https://github.com/GavinLOrio/Fable-5.2-random-game/commit/6051b625701c68e9fcef4bef30f2476f287830e5) | [HTML source](https://github.com/GavinLOrio/Fable-5.2-random-game/blob/6051b625701c68e9fcef4bef30f2476f287830e5/index.html)<br>Project code · License unknown | GitHub: 0 stars, 0 forks<br>2026-11-11 16:13 UTC |
 | **ringfall**<br><a href="https://x.com/rehan_shei/status/2119994607291584962"><img src="https://pbs.twimg.com/amplify_video_thumb/2119993937079459841/img/xg4Sk4HhxFQa7XAd.jpg" alt="Preview: ringfall" width="180"></a> | Rehan Sheikh | A Destiny-inspired FPS set in a shipbreaking yard beneath a ringed planet. Destroy three pylons and defeat the foreman inside a wreck. | [Play](https://patch.gg/play/rehan/ringfall) · [Project page](https://patch.gg/games/rehan/ringfall) · [Creator’s post](https://x.com/rehan_shei/status/2119994607291584962) | [Git repository](https://git.patch.gg/rehan/ringfall.git)<br>Project code · License unknown | X: 6,480 views, 61 likes, 8 reposts, 8 replies<br>2026-11-11 16:13 UTC |
 
+### Related games
+
+- **海克斯大乱斗 (Hextech ARAM)** is a fan-made browser version of League of Legends’ Howling Abyss mode, with champion selection, Hextech augments, and online multiplayer. The developer, 守望星空はは, credits **GPT-6** for the original build. [Play](https://lol.hanyue.io/) · [Creator’s demo on Bilibili](https://www.bilibili.com/video/BV1Z7Y768EpR/)
+
 ## Interactive worlds and simulations
 
 | Work | Creator | Description | Watch / play | Code | Popularity (last checked, UTC) |
