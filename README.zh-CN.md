@@ -49,6 +49,9 @@
 | CEBA | [代码仓库](https://github.com/gavilanbe/ceba) | 项目代码 · 许可协议未知 |
 | Atelier Vesper: Heure Bleue 38 | [HTML 源文件](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/047-atelier-vesper-watch.html) | HTML 作品 · 许可协议未知 |
 | The Astrolabe | [HTML 源文件](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/063-the-astrolabe.html) | HTML 作品 · 许可协议未知 |
+| Tria Prima | [代码仓库](https://github.com/winchxyz/tria-prima) | 项目代码 · MIT |
+| Null Horizon | [代码仓库](https://github.com/dantecomedia/null-horizon) | 项目代码 · 许可协议未知 |
+
 
 ## 游戏
 
@@ -84,6 +87,27 @@
 | **Soccer 3D**<br><a href="https://github.com/ShaunPrice/soccer-3d"><img src="https://raw.githubusercontent.com/ShaunPrice/soccer-3d/main/art/start-background.jpg" alt="Start artwork: Soccer 3D" width="180"></a> | Shaun Price | 一款七人制 3D 足球游戏，使用 Fable 5.2 在一次对话中完成。 | [体验](https://shaunprice.github.io/soccer-3d/) · [创作者的代码仓库](https://github.com/ShaunPrice/soccer-3d) | [代码仓库](https://github.com/ShaunPrice/soccer-3d)<br>项目代码 · 许可协议未知 | GitHub： 0 星标, 0 复刻<br>2026-11-11 12:04 UTC |
 | **Fable 5.2 Flight Simulator**<br><a href="https://github.com/Para-FR/claude-fable-5.2-flight-sim"><img src="https://opengraph.githubassets.com/1/Para-FR/claude-fable-5.2-flight-sim" alt="Repository card: Fable 5.2 Flight Simulator" width="180"></a> | Para-FR | A browser-based 3D flight simulator generated from a prompt. | [创作者的代码仓库](https://github.com/Para-FR/claude-fable-5.2-flight-sim) | [代码仓库](https://github.com/Para-FR/claude-fable-5.2-flight-sim)<br>项目代码 · 许可协议未知 | GitHub： 1 星标， 0 复刻<br>2026-11-11 12:04 UTC |
 | **CEBA**<br><a href="https://github.com/gavilanbe/ceba"><img src="https://opengraph.githubassets.com/1/gavilanbe/ceba" alt="Repository card: CEBA" width="180"></a> | gavilanbe | A 3D Zelda-like adventure starring an onion. | [体验](https://gavilanbe.github.io/ceba/) · [创作者的代码仓库](https://github.com/gavilanbe/ceba) | [代码仓库](https://github.com/gavilanbe/ceba)<br>项目代码 · 许可协议未知 | GitHub： 0 星标, 0 复刻<br>2026-11-11 12:04 UTC |
+| **Tria Prima** | winchxyz | 第一人称炼金冒险。调配药剂烧掉荆棘、冻结水面，在荒岛废墟中开辟通路。 | [体验](https://winchxyz.github.io/tria-prima/) · [创作者帖子](https://www.reddit.com/r/vibecoding/comments/1xsslew/created_a_dark_fantasy_game_with_fable_52_one/) | [代码仓库](https://github.com/winchxyz/tria-prima)<br>项目代码 · MIT | — |
+| **CinderDeep** | Nil Ni | 结合落沙模拟的动作 Roguelike。深入洞穴时，可以用法术改变水、油和岩浆。 | [体验](https://www.aigameshare.com/games/falling-sand-roguelike) · [创作者帖子](https://x.com/_nilni/status/2119977575053443467) | — | — |
+| **Skyflare** | August Castillo | 一款战斗机游戏，可以在海岸和山地上空飞行并用导弹锁定目标。 | [体验](https://skyflare-game.vercel.app/) · [创作者帖子](https://x.com/AugustCastilIo/status/2120290751502581879) | — | — |
+| **Crater Clash** | Shubham | 回合制炮战。根据风向调整角度和力度，炮弹会在地形上炸出弹坑。 | [体验](https://tanks.madebyshubham.in/) · [创作者帖子](https://x.com/i_am_bug/status/2120350813344190639) | — | — |
+| **Dread & District** | Ethan Mollick | 经营奇幻交通网络，连接村庄、运送旅客，并应对龙带来的麻烦。 | [体验](https://dread-and-district.netlify.app/) · [创作者帖子](https://x.com/emollick/status/2120248525254742318) | — | — |
+| **HITOFUDE 一筆** | @positronx_ | 水墨风横版动作原型，能挥砍、格挡和打出墨浪。 | [体验](https://shubhu121.github.io/hitdude/play/) · [创作者帖子](https://x.com/positronx_/status/2120374208043876422) | — | — |
+| **Larkhollow** | u/SuspiciousHunter1359 | 受《星露谷物语》启发的单文件 3D 农场原型，可以播种、浇水和收获。 | [在 Claude 中体验](https://claude.ai/artifact/D8t6NHbpDJXtCovZU6KADP) · [创作者制作记录](https://www.reddit.com/r/TopologyAI/comments/1xte85z/what_raw_fable_52_built_in_4_hours_a/) | — | — |
+| **Contra recreation**<br>魂斗罗风格原型 | Prasad Pilla | 受《魂斗罗》启发的像素风横版射击原型。创作者称精灵、动画、音乐和音效均由模型用代码生成。 | [在 Claude 中体验](https://claude.ai/artifact/3tX4R1U95SUxKUQ2Dkz3m3) · [创作者帖子](https://www.reddit.com/r/claude/comments/1xtb0zu/i_recreated_classic_contra_kinda_using_fable_52/) | — | — |
+| **Dead Raid** | u/Sweaty_Breakfast2822 | 可单人或合作的僵尸生存射击。创作者用 Opus 5.5 起步，再用 Fable 5.2 补充功能、武器皮肤和角色动画。 | [体验](https://deadraid.com/) · [创作者制作记录](https://www.reddit.com/r/ClaudeGameDev/comments/1xtct7e/fable_52_made_this/) | — | — |
+| **IRONDUSK — Yard 7** | 向阳乔木 (@vista8) | 使用与 Saltline 相近的提示词独立生成的单关卡第一人称射击游戏。 | [体验](https://qiaomu.t5t6.com/irondusk-yard-7/) · [创作者帖子](https://x.com/vista8/status/2120383046239285264) | — | — |
+| **霓虹对撞 3D 打砖块** | 向阳乔木 (@vista8) | 带道具的霓虹风 3D 打砖块。英文译名为 Neon Clash 3D Brick Breaker。 | [体验](https://qiaomu.t5t6.com/3d/) · [创作者帖子](https://x.com/vista8/status/2120383046239285264) | — | — |
+| **TSURANUKI KAI**<br>突貫砲艦ツラヌキ改 | Gigabit Game Lab | 驾驶战舰撞破要塞护盾，再从内部用激光击沉要塞。Fable 5.2 参与重做早期的 Opus 5.5 版本。 | [体验](https://gigabitgamelab.com/arcade/play/tsuranuki-kai/) · [创作者游戏页](https://gigabitgamelab.com/arcade/games/tsuranuki-kai/) · [制作记录](https://note.com/gigabit_million/n/ne32fe2e855e3) | — | — |
+| **SUPERNOVA GACHA / ASTRA NOVA**<br>超新星ガチャ ASTRA NOVA | Gigabit Game Lab | 一款抽卡游戏。给星星充能后，可以召唤像素画风的星灵。 | [体验](https://gigabitgamelab.com/arcade/play/supernova-gacha/) · [Claude Artifact](https://claude.ai/artifact/WqjEZsJf8Ah53p9vBqspc9) · [创作者游戏页](https://gigabitgamelab.com/arcade/games/supernova-gacha/) | — | — |
+| **Null Horizon** | dantecomedia | 程序化 3D 潜入射击游戏，有三关、巡逻、警报和夜视。运行 `python3 run.py` 后可在本地浏览器游玩。 | [观看及制作记录](https://www.reddit.com/r/ClaudeAI/comments/1xt2kax/i_gave_claude_fable_52_one_prompt_and_got_a/) | [代码仓库](https://github.com/dantecomedia/null-horizon)<br>项目代码 · 许可协议未知 | — |
+| **Shard Storm** | Matt Wolfe | 在水晶卫星上抵挡成群敌人的 3D 生存 Roguelite，见创作者的 Fable 5.2 实测。 | [YouTube 演示（09:26）](https://www.youtube.com/watch?v=2TM8W66NI_8&t=566s) | — | — |
+| **Tumble Beans**<br>糖豆人风格派对游戏 | Matthew Berman | 受《糖豆人》启发的多人闯关游戏，见 Berman 的 Fable 5.2 实测。 | [YouTube 演示（06:04）](https://www.youtube.com/watch?v=0vNyVMDFdkg&t=364s) | — | — |
+| **Emberwake** | u/shiny_guruw (ppu.toys) | 超任动作平台游戏，有五个关卡和五个 Boss。创作者报告它能在原版硬件上运行。 | [Reddit 演示](https://www.reddit.com/r/vibecoding/comments/1xsuqwm/fable_52_oneshot_a_super_nintendo_game_overnight/) | — | — |
+| **Cat catches fish**<br>猫咪接鱼 | 七深麗音 (@singa_44) | 同一提示词对比中的小游戏。Fable 5.2 版本加入了金鱼、连击得分和需要躲开的靴子。 | [创作者对比](https://note.com/nanami_leo/n/n0a7648629704) | — | — |
+| **TENSEN NO KOJIN / FABLE**<br>天穿ノ光刃 FABLE | Gigabit Game Lab | 与晶角龙交战的 3D Boss 战，可击碎龙角、背部和尾部的结晶。 | [体验](https://gigabitgamelab.com/arcade/play/tensen-fable/) · [创作者游戏页](https://gigabitgamelab.com/arcade/games/tensen-fable/) · [创作者对比](https://note.com/gigabit_million/n/ne32fe2e855e3) | — | — |
+| **Tin Knight: After Dark** | Higgsfield | 从一张玩具店插画制作的 3D 恐怖游戏。Fable 5.2 负责编写游戏逻辑，其他工具生成素材。 | [创作者演示及制作说明](https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game) | — | — |
+
 
 ## 交互世界与模拟体验
 
