@@ -6,10 +6,24 @@
 
 Resources for making code-driven 3D games, scenes, interactive experiences and films. They are **not all Fable 5.2 examples**: the model or tools are named when the source identifies them; otherwise they are general techniques. This is a curated starting point, not an endorsement or a claim that the resources were used by projects in the main catalog. Links were checked on 12 November 2026 (UTC+8), subject to the access limits below.
 
+### Start here
+
+- **Prototype a browser game:** follow [Three.js: Making a Game](https://threejs.org/manual/pages/game.html) or [PlayCanvas: make a game](https://developer.playcanvas.com/tutorials/crash-course/), then playtest controls and loading on the target device.
+- **Create and check assets:** start with [Kenney](https://kenney.nl/assets), [ambientCG](https://ambientcg.com/) or [Poly Haven](https://polyhaven.com/), and check the terms and formats of each asset.
+- **Work with an agent:** choose a skill for the engine and task, such as [Three.js Game Skills](https://github.com/majidmanzarpour/threejs-game-skills) or [Blender Skill](https://github.com/kajisho5/blender-skill); inspect its instructions and dependencies first.
+- **Iterate on the result:** compare renders and annotated sketches in the [Reddit workflow](https://www.reddit.com/r/aigamedev/comments/1x8x7v2/a_nice_workflow_for_generating_basic_3d_assets_i/), then check game readability and performance during actual play.
+
 ### Agent Skills
 
 | Resource | Best for | Notes |
 | --- | --- | --- |
+| [image-blaster](https://github.com/neilsonnn/image-blaster) · [Creator’s X demonstration](https://x.com/neilsonks/status/2055013782771134479) | Explore a Claude skill workflow that separates a source image into a static world, object meshes and sound effects. | MIT repository. Its documented workflow uses Claude, World Labs and FAL; service costs and output rights vary. Not run here; the X post returned 403. |
+| [Codex GameDev Kit](https://github.com/IlyasGameDev/codex-gamedev-kit) | Browse game-development skills and roles for Unity, Godot and Unreal workflows. | MIT; designed for OpenAI Codex and requires the relevant engine/tool setup. Maintainer claims and workflows not independently tested. |
+| [Makone](https://github.com/wormholeportal/Makone) | Create procedural Three.js worlds with an agent workflow, screenshot review and browser checks. | MIT; the repository describes an integrated runtime, examples and validation harness. Not independently run. |
+| [Gua](https://github.com/gua-project/gua) | Automate Godot and Unity playtests through semantic scene inspection, inputs, recording and MCP. | MIT; requires a supported engine setup. Maintainer-described testing and CI workflows have not been independently run. |
+| [Kiln](https://github.com/instruktlabs/kiln) | Create editable procedural 3D assets with an agent, review rendered views and export GLB. | MIT; local MCP/CLI requires Node.js. Maintainer-described validation has not been independently tested; check licenses for downloaded packs. |
+| [Godot Create 3D Assets](https://github.com/LuigiDeFacci/godot-create-3d-assets) | Build reusable Godot-native 3D scenes and inspect traversal, interaction and multi-angle screenshots. | MIT; requires Godot, Python and the described MCP setup. Maintainer-reported workflow has not been independently run. |
+| [Godogen](https://github.com/htdt/godogen) | Scaffold a game project for Claude Code or Codex, with multi-engine instructions and a local asset-generation option. | MIT; engine and platform requirements vary. Its documented local asset route requires NVIDIA hardware; external services may incur costs. Not independently run. |
 | [img2threejs](https://github.com/img2threejs/img2threejs) · [SKILL.md](https://github.com/img2threejs/img2threejs/blob/main/SKILL.md) | Reconstructing objects from reference images as procedural Three.js code, with geometry and visual review. | Apache-2.0. The [island workflow below](https://www.reddit.com/r/threejs/comments/1x9ze32/i_built_an_animated_3d_island_with_claude_code/) reports using it for small props; its larger terrain and cabin used separate image-to-3D tools. |
 | [Three.js Game Skills](https://github.com/majidmanzarpour/threejs-game-skills) | A coordinated browser-game workflow covering gameplay, graphics, interface and verification. | MIT; repository description and capabilities are maintainer claims, not independent tests. |
 | [Blender Game Skills](https://github.com/majidmanzarpour/blender-game-skills) | Blender-based game assets, from reference to modeled and rigged assets. | MIT; designed for Claude Code and Blender. Check the project's setup and applicable tool versions. |
@@ -40,6 +54,11 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 | [Kenney assets](https://kenney.nl/assets) | Game-ready models, sprites, textures and prototyping packs. | [Official support](https://kenney.nl/support) says assets on its asset pages are CC0; check the individual asset's included terms. |
 | [3DAssets.dev](https://3dassets.dev/) | Search GLB models and packs from the website or its agent integration. | Site describes its assets as CC0; verify each asset’s provenance and terms. Agent integration not tested here. |
 | [Poly Haven](https://polyhaven.com/) | HDRIs, textures and 3D models for lighting and environments. | Its [asset license](https://polyhaven.com/license) states CC0 for its assets. |
+| [ambientCG](https://ambientcg.com/) · [API documentation](https://docs.ambientcg.com/api/v3/) | PBR materials, models and HDRIs; the API exposes asset metadata for tooling. | [Official license](https://docs.ambientcg.com/license/) identifies downloadable assets as CC0. API not independently exercised. |
+| [KayKit Prototype Bits](https://godotengine.org/asset-library/asset/2122) | Low-poly prototyping meshes using a shared texture atlas. | The creator's Godot Asset Library listing marks this specific pack CC0; check other KayKit packs individually. |
+| [LazyTextures](https://www.lazytextures.com/) · [Public API](https://www.lazytextures.com/PublicAPI) | Search materials, models, HDRIs and textures manually or via the documented API. | The site describes its assets as CC0; check asset formats and provenance. API availability was not tested. |
+| [Codels](https://codels.download/) | Browse parametric Three.js models as editable code or export GLB, OBJ and STL. | The provider labels the models CC0; verify individual provenance. Agent pages and MCP are documented but have not been tested. |
+| [Gobkit](https://gobkit.com/) · [Free asset API](https://gobkit.com/api/free) | Find character and environment GLB assets with machine-readable animation metadata for agent-assisted prototypes. | The provider labels its free packs CC0; verify the license and animation convention for each asset. Generation is a separate paid service; API and models were not independently tested. |
 | [Mixamo](https://www.mixamo.com/) | Humanoid character auto-rigging and animation library. | Adobe ID required; the [FAQ](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html) describes royalty-free uses and says China country-code accounts are unsupported. Check current terms and availability. |
 | [Fab](https://www.fab.com/) | Marketplace for 3D models, materials, animations and other assets. | Licenses and prices vary; [Fab's EULA](https://www.fab.com/eula?lang=en) distinguishes its Standard and CC-BY licenses and reference-only tier. |
 | [Freesound](https://freesound.org/) | Search sound effects and recordings for games and films. | [Licenses vary by sound](https://freesound.org/help/faq/); check attribution and noncommercial restrictions individually. |
@@ -58,6 +77,9 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 
 | Source | Practical takeaways | Scope and limits |
 | --- | --- | --- |
+| [Sketch, annotate, render, repeat](https://www.reddit.com/r/aigamedev/comments/1x8x7v2/a_nice_workflow_for_generating_basic_3d_assets_i/) · u/HuWeiliu | Send a sketch to a local queue, inspect the Blender render, draw changes over it and repeat. | Individual workflow using Claude and Blender; the creator says simple static assets work better than animals, which need more iterations. Specific model not stated. |
+| [Six weeks building a cozy game](https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/) · u/Gambo7592 | Compare a 2D-reference → Meshy → Blender cleanup/rigging → Unity workflow with repeated human review. | Ongoing project; creator reports Opus 5.5, Sonnet, Gemini and Meshy as well as automated tests. Results and test coverage are not independently verified. |
+| [ASCII shader readability in motion](https://www.reddit.com/r/TopologyAI/comments/1xf97z3/made_this_whole_thing_with_claude_code/) · u/czioscerny | Check whether a visual style stays readable during gameplay, not only in a still image. | One creator reports dropping the effect from a game because motion was hard to read and retaining it for an animation. No reusable prompt was provided. |
 | [Animated island with Claude Code and img2threejs](https://www.reddit.com/r/threejs/comments/1x9ze32/i_built_an_animated_3d_island_with_claude_code/) · u/Quirky_Success8287 | Use a reference and separate prop sheet; review props individually; simplify larger imported meshes and rebake normal maps; keep a boat synchronized with the water's wave function. | Creator-reported workflow and measurements; the scoring threshold is the creator's own. Model version not specified in the post. |
 | [Code-generated walkable street](https://www.reddit.com/r/TopologyAI/comments/1vobf1y/an_llm_generated_this_complete_3d_scene_in_the/) · u/Certain_Friendship16 | The post links [source and five prompts](https://github.com/StarKnightt/night-street). Comments question whether building and vehicle geometry makes sense up close; inspect geometry rather than judging only a moving preview. | Claude and Three.js/R3F; specific Claude version not stated in the post. Useful as a prototype and critique, not evidence of production quality. |
 | [3D roguelite: three sessions and a playtest](https://www.reddit.com/r/aigamedev/comments/1vjv3z8/i_left_claude_code_running_for_24h_it_built_a_3d/) · u/victorrseloy2 | The creator describes a base build, a follow-up after a real playtest, then a finishing session; the post links the original prompt and describes a deterministic frame-by-frame trailer. | Creator says Opus 5, existing Kenney/KayKit assets and generated audio were also used. It was not a single uninterrupted prompt; performance and cost are author reports. |
@@ -68,7 +90,13 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 
 | Source | Practical use | Scope and limits |
 | --- | --- | --- |
+| [PlayCanvas: make a game](https://developer.playcanvas.com/tutorials/crash-course/) | Follow a browser game tutorial covering entities, scripts, physics, animation and events. | Official PlayCanvas material; the page states that the polish-and-publish stage is not yet complete. |
+| [Unreal Engine: procedural content generation](https://dev.epicgames.com/documentation/unreal-engine/procedural-content-generation-framework-in-unreal-engine) | Explore procedural asset placement, biomes and world-building tools, with links to GPU and runtime-debugging guidance. | Epic's engine-specific documentation; not an AI-model demonstration. |
+| [Babylon.js: procedural textures](https://doc.babylonjs.com/features/featuresDeepDive/materials/advanced/custom_procedural_textures/) | Study configurable GPU-generated textures for browser scenes. | Official Babylon.js documentation; requires familiarity with shaders and the engine. |
+| [Three.js: textures](https://threejs.org/manual/pages/textures.html) | Understand texture loading, filtering and GPU memory when optimizing interactive scenes. | General rendering guidance; actual memory and performance depend on device and asset settings. |
+| [Tripo: Vibe Gaming Playbook](https://www.tripo3d.ai/tutorials/vibe-gaming) | Work through a staged Three.js browser-game workflow: playable greybox, asset list, model replacement and device checks. | Vendor playbook uses Claude Code or Codex and Tripo Studio; generated assets and features depend on the plan and terms. Not independently run. |
 | [Sunny Valley Studio on X: Claude Code + Unity MCP 3D platformer](https://x.com/SunnyVStudio/status/2061879369950282060) · [linked tutorial](https://youtu.be/gSFHyso_uuI) | Entry point to a Unity 3D platformer prototyping tutorial. | The post text was visible in search; X returned 403 and the video was throttled when checked. Detailed steps and model version were not independently verified. |
+| [Meta Model API: one-shot game dev](https://dev.meta.ai/docs/cookbook/one-shot-game-dev) | Study a structured Three.js game prompt with explicit coordinates, collision and moving-platform rules. | Vendor example uses Muse Spark and OpenCode; no iterative repair or evaluation harness is described. Results vary and were not independently reproduced. |
 | [Meta Model API: iterative game dev](https://dev.meta.ai/docs/cookbook/iterative-game-dev) | Build a Three.js racing game with existing 3D assets and a browser playtest/refinement loop. | Vendor cookbook using Muse Spark, OpenCode and Playwright MCP; API access required. The page gives inconsistent model-version references. |
 | [Meta Horizon: GenAI Assistant scripting](https://developers.meta.com/horizon-worlds/learn/videos/unlocking-worlds-with-genai-assistant/) | Practice generating, refining and testing interactive world scripts from prompts. | Official Horizon Worlds tutorial; requires its desktop editor on Windows. |
 | [Roblox: AI Assistant tutorial](https://create.roblox.com/docs/tutorials/curriculums/building/code-with-assistant) | Ask Studio’s assistant to modify 3D object behavior, then review and playtest its code. | Official Roblox-specific beginner tutorial; not a Fable 5.2 example. |
@@ -88,10 +116,24 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 
 这里收集制作代码驱动的 3D 游戏、场景、互动体验和影片时可参考的资源。**并非所有资源都使用 Fable 5.2**：来源明确说明时才标注模型或工具，其余作为通用方法。这里是经过筛选的起点，不代表我们已验证每个 Skill 的效果，也不意味着案例库中的作品都使用了这些资源。链接于 2026 年 11 月 12 日（北京时间）检查，访问限制见下文。
 
+### 从哪里开始
+
+- **做浏览器游戏原型：** 可从 [Three.js 游戏教程](https://threejs.org/manual/pages/game.html)或 [PlayCanvas 游戏入门](https://developer.playcanvas.com/tutorials/crash-course/)开始，再在目标设备上试玩操控和加载。
+- **选择和检查资产：** 先浏览 [Kenney](https://kenney.nl/assets)、[ambientCG](https://ambientcg.com/) 或 [Poly Haven](https://polyhaven.com/)，逐项核对格式与使用条款。
+- **使用智能体协助制作：** 按引擎和任务选择技能，例如 [Three.js Game Skills](https://github.com/majidmanzarpour/threejs-game-skills) 或 [Blender Skill](https://github.com/kajisho5/blender-skill)；先阅读具体指令和依赖。
+- **反复改进：** 参考[草图批注工作流](https://www.reddit.com/r/aigamedev/comments/1x8x7v2/a_nice_workflow_for_generating_basic_3d_assets_i/)对照渲染结果，并在实际试玩时检查画面可读性与性能。
+
 ### Agent Skills
 
 | 资源 | 适合做什么 | 说明 |
 | --- | --- | --- |
+| [image-blaster](https://github.com/neilsonnn/image-blaster) · [作者 X 演示](https://x.com/neilsonks/status/2055013782771134479) | 了解 Claude Skill 工作流：将一张参考图拆分为静态世界、物体网格和音效。 | 仓库为 MIT；文档流程使用 Claude、World Labs 和 FAL，服务费用和产物权利依服务而异。未独立运行；X 原帖返回 403。 |
+| [Codex GameDev Kit](https://github.com/IlyasGameDev/codex-gamedev-kit) | 查找面向 Unity、Godot 和 Unreal 的游戏开发技能与角色。 | MIT；面向 OpenAI Codex，需要相应引擎与工具配置。维护者的能力说明及工作流尚未独立测试。 |
+| [Makone](https://github.com/wormholeportal/Makone) | 使用智能体流程制作程序化 Three.js 世界，并结合截图审查和浏览器检查。 | MIT；仓库介绍了集成运行环境、示例与验证工具，尚未独立运行。 |
+| [Gua](https://github.com/gua-project/gua) | 通过语义场景检查、输入、录制和 MCP 自动化 Godot 与 Unity 试玩测试。 | MIT；需要受支持的引擎配置。维护者描述的测试和 CI 流程尚未独立运行。 |
+| [Kiln](https://github.com/instruktlabs/kiln) | 配合智能体创建可编辑的程序化 3D 资产，审查渲染视图并导出 GLB。 | MIT；本地 MCP／命令行工具需要 Node.js。维护者描述的验证流程尚未独立测试；下载素材包需分别核对许可。 |
+| [Godot Create 3D Assets](https://github.com/LuigiDeFacci/godot-create-3d-assets) | 在 Godot 内构建可复用的 3D 场景，并检查通行、交互与多角度截图。 | MIT；需要 Godot、Python 和文档中的 MCP 配置。维护者描述的流程尚未独立运行。 |
+| [Godogen](https://github.com/htdt/godogen) | 为 Claude Code 或 Codex 创建游戏项目，提供多引擎指引及本地资产生成选项。 | MIT；引擎及系统要求各异。文档中的本地资产生成需要 NVIDIA 硬件，外部服务可能收费；尚未独立运行。 |
 | [img2threejs](https://github.com/img2threejs/img2threejs) · [SKILL.md](https://github.com/img2threejs/img2threejs/blob/main/SKILL.md) | 根据参考图用程序化 Three.js 代码重建物体，并做几何和视觉检查。 | Apache-2.0。下方[岛屿案例](https://www.reddit.com/r/threejs/comments/1x9ze32/i_built_an_animated_3d_island_with_claude_code/)的作者说小道具使用了它；较复杂的地形和房屋另用了图生 3D 工具。 |
 | [Three.js Game Skills](https://github.com/majidmanzarpour/threejs-game-skills) | 组织浏览器游戏的玩法、画面、界面和验证工作。 | MIT；能力范围依据维护者介绍，尚未独立运行测试。 |
 | [Blender Game Skills](https://github.com/majidmanzarpour/blender-game-skills) | 从参考图出发，在 Blender 中制作、绑定游戏 3D 资产。 | MIT；面向 Claude Code 和 Blender，使用前应核对项目说明及工具版本。 |
@@ -122,6 +164,11 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 | [Kenney 资产库](https://kenney.nl/assets) | 游戏模型、精灵、纹理和原型素材包。 | [官方说明](https://kenney.nl/support)称资产页上的游戏素材采用 CC0；仍应查看具体素材附带的条款。 |
 | [3DAssets.dev](https://3dassets.dev/) | 从网站或智能体接口查找 GLB 模型和素材包。 | 网站称其资产为 CC0；请逐项核对来源及条款。智能体接口尚未测试。 |
 | [Poly Haven](https://polyhaven.com/) | HDRI、纹理和 3D 模型，适合环境与灯光制作。 | 其[资产许可](https://polyhaven.com/license)说明站内素材采用 CC0。 |
+| [ambientCG](https://ambientcg.com/) · [API 文档](https://docs.ambientcg.com/api/v3/) | PBR 材质、模型和 HDRI；可通过 API 查询资产元数据。 | [官方许可](https://docs.ambientcg.com/license/)将可下载资产标为 CC0；未独立测试 API。 |
+| [KayKit Prototype Bits](https://godotengine.org/asset-library/asset/2122) | 使用共享纹理图集的低多边形原型模型。 | 创作者在 Godot 资产库中将这个素材包标为 CC0；其他 KayKit 素材包需逐项核对。 |
+| [LazyTextures](https://www.lazytextures.com/) · [公开 API](https://www.lazytextures.com/PublicAPI) | 手动或通过文档所述 API 查找材质、模型、HDRI 和纹理。 | 网站称其资产为 CC0；使用前核对格式与来源。API 可用性尚未独立测试。 |
+| [Codels](https://codels.download/) | 查找可编辑代码形式的参数化 Three.js 模型，也可导出 GLB、OBJ 和 STL。 | 网站将模型标为 CC0；请核对具体来源。智能体页面与 MCP 功能有文档说明，但尚未测试。 |
+| [Gobkit](https://gobkit.com/) · [免费资产 API](https://gobkit.com/api/free) | 查找角色和环境 GLB 资产及可供智能体读取的动画元数据，用于制作原型。 | 服务方将免费素材包标为 CC0；请逐项核对许可证和动画约定。生成服务另行收费，API 和模型尚未独立测试。 |
 | [Mixamo](https://www.mixamo.com/) | 人形角色自动绑定和动作库。 | 需要 Adobe ID；[官方问答](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)说明免版税用途，并称不支持中国地区代码的账户。请核对当前条款和可用性。 |
 | [Fab](https://www.fab.com/) | 3D 模型、材质、动画等资产市场。 | 价格和许可依素材而异；[Fab EULA](https://www.fab.com/eula?lang=en)区分标准许可、CC-BY 和仅引用层级。 |
 | [Freesound](https://freesound.org/) | 查找适用于游戏和影片的音效与录音。 | [各音频许可不同](https://freesound.org/help/faq/)，需逐项核对署名及非商业限制。 |
@@ -140,6 +187,9 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 
 | 来源 | 值得参考的做法 | 适用范围与限制 |
 | --- | --- | --- |
+| [草图批注与渲染迭代](https://www.reddit.com/r/aigamedev/comments/1x8x7v2/a_nice_workflow_for_generating_basic_3d_assets_i/) · u/HuWeiliu | 将草图交给本地队列，查看 Blender 渲染图，再直接画出修改意见并重复。 | 使用 Claude 和 Blender 的个人流程；作者称简单静态资产效果较好，动物需要更多轮迭代。帖子未说明具体模型。 |
+| [六周制作治愈系游戏](https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/) · u/Gambo7592 | 参考“二维设定图 → Meshy → Blender 清理和绑定 → Unity”的流程，并反复由人审查。 | 项目仍在制作；作者自述使用 Opus 5.5、Sonnet、Gemini 和 Meshy，也使用自动化测试。效果与测试覆盖未经独立核验。 |
+| [ASCII 着色器的动态可读性](https://www.reddit.com/r/TopologyAI/comments/1xf97z3/made_this_whole_thing_with_claude_code/) · u/czioscerny | 检查视觉风格在游戏运动过程中是否仍然清晰。 | 一位创作者称动态画面难以辨认，因此放弃用于游戏，改为保留动画实验；未提供可复用提示词。 |
 | [用 Claude Code 和 img2threejs 制作动态岛屿](https://www.reddit.com/r/threejs/comments/1x9ze32/i_built_an_animated_3d_island_with_claude_code/) · u/Quirky_Success8287 | 准备参考图和分物件素材图，逐项检查小道具；简化较大的导入模型后重新烘焙法线贴图；让船与海水使用同一套波浪函数。 | 流程和性能数字来自作者自述；评分门槛是作者自己的选择。帖子未注明具体模型版本。 |
 | [纯代码生成的可漫游街景](https://www.reddit.com/r/TopologyAI/comments/1vobf1y/an_llm_generated_this_complete_3d_scene_in_the/) · u/Certain_Friendship16 | 帖子链接了[源码和五条提示词](https://github.com/StarKnightt/night-street)。评论者指出建筑和车辆的局部结构可能不合理，提醒我们近距离检查几何，而不仅看移动镜头。 | 使用 Claude 和 Three.js/R3F；帖子未注明 Claude 具体版本。适合作为原型与批评案例，不代表达到产品级质量。 |
 | [3D Roguelite：分三次构建并穿插试玩](https://www.reddit.com/r/aigamedev/comments/1vjv3z8/i_left_claude_code_running_for_24h_it_built_a_3d/) · u/victorrseloy2 | 作者描述先做基础版本、实际试玩后继续迭代，再做收尾；帖子提供原始提示词，并介绍逐帧生成预告片的方法。 | 作者称使用 Opus 5，也使用了现成 Kenney/KayKit 资产和生成音频；并非单次不间断提示。性能与成本为作者自述。 |
@@ -150,7 +200,13 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 
 | 来源 | 值得参考的内容 | 适用范围与限制 |
 | --- | --- | --- |
+| [PlayCanvas：制作游戏入门](https://developer.playcanvas.com/tutorials/crash-course/) | 按浏览器游戏教程学习实体、脚本、物理、动画和事件。 | PlayCanvas 官方资料；页面注明润色与发布阶段尚未完成。 |
+| [Unreal Engine：程序化内容生成](https://dev.epicgames.com/documentation/unreal-engine/procedural-content-generation-framework-in-unreal-engine) | 了解程序化资产布局、生态群系和世界构建，并查阅 GPU 与运行时调试指南。 | Epic 的引擎文档，并非 AI 模型演示。 |
+| [Babylon.js：程序化纹理](https://doc.babylonjs.com/features/featuresDeepDive/materials/advanced/custom_procedural_textures/) | 学习为浏览器场景配置 GPU 生成的纹理。 | Babylon.js 官方文档，需要了解着色器和引擎。 |
+| [Three.js：纹理](https://threejs.org/manual/pages/textures.html) | 了解纹理加载、过滤和显存占用，辅助优化交互场景。 | 通用渲染资料；实际显存和性能取决于设备及资产设置。 |
+| [Tripo：Vibe Gaming 制作指南](https://www.tripo3d.ai/tutorials/vibe-gaming) | 分阶段制作 Three.js 浏览器游戏：可玩的灰盒、资产清单、模型替换和设备检查。 | 厂商指南使用 Claude Code 或 Codex 与 Tripo Studio；生成资产和功能受方案及条款约束。尚未独立运行。 |
 | [Sunny Valley Studio 的 X 帖：Claude Code + Unity MCP 制作 3D 平台游戏](https://x.com/SunnyVStudio/status/2061879369950282060) · [关联教程](https://youtu.be/gSFHyso_uuI) | 使用 Unity 快速制作 3D 平台游戏原型的教程入口。 | 搜索结果可见帖子文字；检查时 X 返回 403，视频被限流，具体步骤和模型版本未能独立核实。 |
+| [Meta Model API：单次生成游戏](https://dev.meta.ai/docs/cookbook/one-shot-game-dev) | 研究 Three.js 游戏提示词中如何明确坐标、碰撞和移动平台规则。 | 厂商示例使用 Muse Spark 与 OpenCode；未采用迭代修复或评测工具。生成结果会变化，尚未独立复现。 |
 | [Meta Model API：迭代制作游戏](https://dev.meta.ai/docs/cookbook/iterative-game-dev) | 使用现有 3D 资产制作 Three.js 赛车游戏，并通过浏览器试玩反复调整。 | 厂商教程，使用 Muse Spark、OpenCode 和 Playwright MCP，需要 API；页面中的模型版本表述不一致。 |
 | [Meta Horizon：GenAI Assistant 脚本教程](https://developers.meta.com/horizon-worlds/learn/videos/unlocking-worlds-with-genai-assistant/) | 练习通过提示词生成、修改和测试互动世界脚本。 | Horizon Worlds 官方教程；需要 Windows 和其桌面编辑器。 |
 | [Roblox：AI Assistant 教程](https://create.roblox.com/docs/tutorials/curriculums/building/code-with-assistant) | 让 Studio 助手修改 3D 物体行为，再阅读代码并试玩验证。 | Roblox 官方入门教程，并非 Fable 5.2 案例。 |

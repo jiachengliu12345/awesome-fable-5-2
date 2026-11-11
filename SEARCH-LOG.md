@@ -66,3 +66,21 @@ The later work-by-work audit supersedes the earlier checkpoint above: 48 verifie
 Revisited all 34 entries pending at the previous checkpoint. Fifteen were promoted after matching source, work and model evidence, resulting in 63 verified, 19 pending and 3 outside scope among 85 code-index entries. This is a conservative verified minimum. See the [audit](CODE-AUDIT.md) for source-specific limitations, including inaccessible X originals and the 11 supplied MiaAI files. No additional work was added to the catalog in this follow-up.
 
 复查上一检查点的全部 34 条待核条目后，15 条因作品、源码和模型证据能够对应而转为已核实；85 条代码索引现为 63 条已核实、19 条待核、3 条不在范围内。该数量是保守下限。具体证据与限制见[核验表](CODE-AUDIT.md)，包括 X 原站无法访问和 11 个来源待查的 MiaAI 文件。本次复核未新增作品条目。
+
+## Resource follow-up / 资源后续检索（2026-11-12）
+
+This follow-up reviewed Reddit, X, GitHub, official developer documentation and asset libraries, and added 21 distinct resources to the bilingual directory. X returned 403 for the image-blaster demonstration; its repository README was accessible. Tools, APIs and asset-generation workflows were not independently run. The early `3d-asset-auto` project was left as a lead because its license and real-world use were not established. A PCG4U store listing was also left as a lead: its indexed feature summary could not be checked in the accessible vendor page. Times below are UTC on 2026-11-11.
+
+本轮检索了 Reddit、X、GitHub、官方开发者文档和资产库，向双语目录新增 21 项有独立用途的资料。image-blaster 的 X 演示帖返回 403，但其仓库说明可读取。我们没有独立运行这些工具、API 或资产生成流程。早期项目 `3d-asset-auto` 因许可证及实际使用证据未明确，仅作线索；PCG4U 商店条目的索引功能摘要无法从可访问的厂商页面核实，也仅作线索。下表时间均为 2026-11-11 UTC。
+
+After adding Gua, the following five completed searches found no further suitable, distinct resource; opening pages to check candidates was not counted as an extra search round. Duplicate categories and sources without sufficient first-hand evidence were excluded. This is a stopping rule for these queries, not proof the platforms have been exhausted.
+
+收录 Gua 之后，以下五次完成的检索没有找到其他合适且具有独立价值的资源；打开页面核查候选不另算一轮。与已有目录重叠或一手证据不足的候选未加入。这是针对本轮查询的停止条件，并不表示已穷尽各平台。
+
+| UTC | Query / 查询范围 | Result / 结果 |
+| --- | --- | --- |
+| 20:32:21 | `AI agent game runtime semantic world testing Godot Unity alternative Gua open source MCP playtest automation` | Gua and similar existing tools; no distinct addition / 已收录 Gua 及同类工具，无新增 |
+| 20:32:44 | `AI coding agent open source rigged animated 3D game asset library MCP API GLB alternatives Gobkit Codels` | Existing asset libraries and overlapping tools / 已有资产库及功能重叠工具 |
+| 20:33:12 | `AI coding agent interactive 3D world authoring tool open source Unity Godot Blender skill alternatives game agent world building` | Existing game assistants and out-of-scope robotics environments / 已有游戏助手及范围外的机器人环境 |
+| 20:33:35 | `Unity AI coding agent skill procedural 3D level design tutorial terrain environment generation GitHub official` | Existing Unity tools; PCG4U features not independently confirmed / 已有 Unity 工具；PCG4U 功能未能独立确认 |
+| 20:34:23 | `AI coding agent Three.js 3D browser game visual playtesting automation skill open source GitHub` | Existing Three.js skills, overlapping forks or benchmarks / 已有 Three.js 技能、重叠分支或基准 |
