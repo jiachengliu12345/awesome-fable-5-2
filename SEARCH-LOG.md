@@ -60,3 +60,9 @@ An intervening search (`AI coding agent skill official game engine 3D creation i
 The later work-by-work audit supersedes the earlier checkpoint above: 48 verified, 34 pending and 3 outside scope among 85 code-index entries. See [CODE-AUDIT.md](CODE-AUDIT.md) for statuses, evidence links and limits. The full catalog has 139 work rows; Siege Wing was the one addition in this session. The 8 Evals outputs were rechecked successfully after the earlier intermittent 403 responses.
 
 后续逐项核验取代上方早期检查点：85 条代码索引中，48 条已核实、34 条待核实、3 条不在范围内。状态、证据链接及限制见[代码核验表](CODE-AUDIT.md)。完整清单有 139 条作品，本轮新增 Siege Wing 1 件。早先部分 Evals 文件曾返回 403，后续 8 个输出已重新核验成功。
+
+## Follow-up code review / 代码复核（2026-11-12）
+
+Revisited all 34 entries pending at the previous checkpoint. Fifteen were promoted after matching source, work and model evidence, resulting in 63 verified, 19 pending and 3 outside scope among 85 code-index entries. This is a conservative verified minimum. See the [audit](CODE-AUDIT.md) for source-specific limitations, including inaccessible X originals and the 11 supplied MiaAI files. No additional work was added to the catalog in this follow-up.
+
+复查上一检查点的全部 34 条待核条目后，15 条因作品、源码和模型证据能够对应而转为已核实；85 条代码索引现为 63 条已核实、19 条待核、3 条不在范围内。该数量是保守下限。具体证据与限制见[核验表](CODE-AUDIT.md)，包括 X 原站无法访问和 11 个来源待查的 MiaAI 文件。本次复核未新增作品条目。

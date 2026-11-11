@@ -18,7 +18,7 @@ Popularity figures are snapshots of the linked post, video, or repository, not t
 
 ## Code index
 
-Entries marked as unverified are retained as leads and do not count toward the verified-code target. The index also preserves entries awaiting further audit; it is not itself a verified total. See the [work-by-work audit](CODE-AUDIT.md) and [search and verification log](SEARCH-LOG.md).
+As of 12 November 2026, **63 works** meet the verified-code criteria; **19 index entries** remain pending and **3** are outside the requested scope. Entries marked as unverified are retained as leads and do not count toward the verified-code target. The index also preserves entries awaiting further audit; it is not itself a verified total. See the [work-by-work audit](CODE-AUDIT.md) and [search and verification log](SEARCH-LOG.md).
 
 | Work | Code | Type / license |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Entries marked as unverified are retained as leads and do not count toward the v
 | Dustfall | [Repository](https://github.com/webKing021/dustfall) | Project code · License unknown |
 | Cyberpunk Tokyo Motorcycle | [JavaScript build](https://amanndev.com/_next/static/chunks/2gdq495c_bsx_.js) | Browser build · License unknown · Verification pending; excluded from verified count |
 | Earth: The Whole Story | [Repository](https://github.com/arpitpatel25/earth-whole-story) | Project code · License unknown |
-| Soccer 3D | [Repository](https://github.com/ShaunPrice/soccer-3d) | Project code · License unknown · Verification pending; excluded from verified count |
+| Soccer 3D | [Repository](https://github.com/ShaunPrice/soccer-3d) | Project code · License unknown |
 | Emberfall Forge | [Repository](https://github.com/NineTigers/emberfall-forge-claude-fable-5.2) | Project code · MIT |
 | Boeing 787-9 | [Repository](https://github.com/xiaozhenliu/boeing-fable-5-2) | Project code · License unknown · Model attribution not independently confirmed |
 | Fable 5.2 Flight Simulator | [Repository](https://github.com/Para-FR/claude-fable-5.2-flight-sim) | Project code · License unknown |
@@ -55,29 +55,29 @@ Entries marked as unverified are retained as leads and do not count toward the v
 | CEBA | [Repository](https://github.com/gavilanbe/ceba) | Project code · License unknown |
 | Atelier Vesper: Heure Bleue 38 | [HTML source](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/047-atelier-vesper-watch.html) | HTML study · License unknown · Verification pending; excluded from verified count |
 | The Astrolabe | [HTML source](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/063-the-astrolabe.html) | HTML study · License unknown · Verification pending; excluded from verified count |
-| Tidebell | [Project code](https://github.com/hahaliu1029/fable5.2demo/tree/main/tidebell) | Project code · Apache-2.0 · Verification pending; excluded from verified count |
-| Qingyun Sword Flight | [Project code](https://github.com/hahaliu1029/fable5.2demo/tree/main/game) | Project code · Apache-2.0 · Verification pending; excluded from verified count |
-| MOTHLIGHT: Vesper-9 | [Project code](https://github.com/hahaliu1029/fable5.2demo/tree/main/mothlight) | Project code · Apache-2.0 · Verification pending; excluded from verified count |
+| Tidebell | [Project code](https://github.com/hahaliu1029/fable5.2demo/tree/main/tidebell) | Project code · Apache-2.0 |
+| Qingyun Sword Flight | [Project code](https://github.com/hahaliu1029/fable5.2demo/tree/main/game) | Project code · Apache-2.0 |
+| MOTHLIGHT: Vesper-9 | [Project code](https://github.com/hahaliu1029/fable5.2demo/tree/main/mothlight) | Project code · Apache-2.0 |
 | Kekenon: Cotonou | [Project code](https://github.com/Akotch/kekenon-cotonou) | Project code · License unknown |
-| Indy’s Adventure 3D: Näsinneula | [Project code](https://github.com/ohylli/indys-adventure-3d) | Project code · License unknown · Verification pending; excluded from verified count |
+| Indy’s Adventure 3D: Näsinneula | [Project code](https://github.com/ohylli/indys-adventure-3d) | Project code · License unknown |
 | Neon Night Racer: Fable build | [Project code](https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2/tree/main/1-race/fable) | Project code · License unknown · Verification pending; excluded from verified count |
-| Night Market: Fable build | [Project code](https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2/tree/main/2-diorama/fable) | Project code · License unknown · Verification pending; excluded from verified count |
+| Night Market: Fable build | [Project code](https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2/tree/main/2-diorama/fable) | Project code · License unknown |
 | Boring Game | [Project code](https://github.com/jakozaur/sf_bay_area_transit_fable_5_2_game/tree/main/apps/game) | Project code · License unknown · Verification pending; excluded from verified count |
 | Pinscreen | [HTML source](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.html) | HTML study · License unknown · Verification pending; excluded from verified count |
 | Par Avion: The Journey of One Letter | [HTML source](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.html) | HTML study · License unknown · Verification pending; excluded from verified count |
-| Earth: Neuro Rich | [Download ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Earth/index.html`) | HTML project · License unknown · Verification pending; excluded from verified count |
-| Zombie FPS: AK-47 | [Download ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Shooter/fps.html`) | HTML project · License unknown · Verification pending; excluded from verified count |
+| Earth: Neuro Rich | [Download ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Earth/index.html`) | HTML project · License unknown |
+| Zombie FPS: AK-47 | [Download ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Shooter/fps.html`) | HTML project · License unknown |
 | Blameless | [Project code](https://github.com/Petyok/blameless) | Project code · MIT |
 | Three Writing Desks | [Project code](https://github.com/az9713/fable-5.2-typewriter-demos) | Project code · License unknown |
 | Custom Suit Studio | [Project code](https://github.com/KooEmmanuel/custom-suit-studio) | Project code · Apache-2.0 |
-| ShuttleStrike | [Project code](https://github.com/fedifianto/shuttlestrike) | Project code · License unknown · Verification pending; excluded from verified count |
+| ShuttleStrike | [Project code](https://github.com/fedifianto/shuttlestrike) | Project code · License unknown |
 | Oriel 38 | [Project code](https://github.com/akashmakesdesigns/fable-sites/tree/main/sites/04-oriel) | Project code · License unknown |
 | Tacta 75 | [Project code](https://github.com/akashmakesdesigns/fable-sites/tree/main/sites/05-tacta) | Project code · License unknown |
 | Paper Dusk | [HTML artifact](https://evals.ag/api/v1/media/assets/ast_2QF9TYAX7FEA4H8Y3Y838M8ZA3/content) | Single-file HTML · License unknown |
 | Tria Prima | [Repository](https://github.com/winchxyz/tria-prima) | Project code · MIT |
 | Null Horizon | [Repository](https://github.com/dantecomedia/null-horizon) | Project code · License unknown |
-| IRONDUSK — Yard 7 | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/) | Single-page browser code · License unknown · Verification pending; excluded from verified count |
-| 霓虹对撞 3D 打砖块 | [HTML](https://qiaomu.t5t6.com/3d/) | Single-page browser code · License unknown · Verification pending; excluded from verified count |
+| IRONDUSK — Yard 7 | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/) | Single-page browser code · License unknown |
+| 霓虹对撞 3D 打砖块 | [HTML](https://qiaomu.t5t6.com/3d/) | Single-page browser code · License unknown |
 | Skyflare | [JavaScript build](https://skyflare-game.vercel.app/assets/index-DI975xOs.js) | Browser build · License unknown |
 | Snow Globe | [HTML artifact](https://evals.ag/api/v1/media/assets/ast_4FK7HPGSDT7WEGHDGDWXZ0738W/content) | Single-file HTML · License unknown |
 | Sands of the Black Sun | [HTML artifact](https://evals.ag/api/v1/media/assets/ast_01K0N55YXGZGDV24CGYHFWPR7P/content) | Single-file HTML · License unknown |
@@ -87,10 +87,10 @@ Entries marked as unverified are retained as leads and do not count toward the v
 | SPIREFALL: Assault on the Terraforming Spire | [HTML artifact](https://evals.ag/api/v1/media/assets/ast_7G3X8N7GY5TX46BAE1H7HBFW99/content) | Single-file HTML · License unknown |
 | LAST LIGHT: Dockside Refinery | [HTML artifact](https://evals.ag/api/v1/media/assets/ast_1AZW7W4223G2KWGJVR9WF54K3F/content) | Single-file HTML · License unknown |
 | IRON TIDE: Terminal 7 | [HTML artifact](https://evals.ag/api/v1/media/assets/ast_0JAMNBYNJNTMAM502JBG09HY48/content) | Single-file HTML · License unknown |
-| Fable 5.2 FPS Reproduction | [HTML source](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/04-fps/index.html) | Project code · MIT · Verification pending; excluded from verified count |
-| Rainy Dock Materials | [HTML source](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html) | Project code · MIT · Verification pending; excluded from verified count |
-| Hard-Surface Modeling Studio | [HTML source](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/03-models/index.html) | Project code · MIT · Verification pending; excluded from verified count |
-| X-Ray Mirror | [Repository](https://github.com/MasterOfVFX2070/xray-mirror) | Project code · License unknown · Verification pending; excluded from verified count |
+| Fable 5.2 FPS Reproduction | [HTML source](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/04-fps/index.html) | Project code · MIT |
+| Rainy Dock Materials | [HTML source](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html) | Project code · MIT |
+| Hard-Surface Modeling Studio | [HTML source](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/03-models/index.html) | Project code · MIT |
+| X-Ray Mirror | [Repository](https://github.com/MasterOfVFX2070/xray-mirror) | Project code · License unknown |
 | Impossible Spaces | [Core source](https://git.patch.gg/blendi/impossible-spaces/raw/a9db30c95ad7bf7805848c85c362d9ecf0c9133a/src/lib/portals.ts) · [Git repository](https://git.patch.gg/blendi/impossible-spaces.git) | Project code · MIT |
 | Starry Nightrider | [HTML](https://starrynightrider.com/) · [JS bundle](https://starrynightrider.com/assets/index-CXqZzAc4.js) | Browser build · License unknown |
 | LANTERNFALL | [Repository](https://github.com/loktar00/lanternfall) | Project code · License unknown |
@@ -163,8 +163,8 @@ Entries marked as unverified are retained as leads and do not count toward the v
 | **Larkhollow** | @lucian__03 (credited in Reddit write-up) | A single-file 3D farming prototype inspired by Stardew Valley, with planting, watering, and harvesting. | [Play on Claude](https://claude.ai/artifact/D8t6NHbpDJXtCovZU6KADP) · [Reddit write-up](https://www.reddit.com/r/TopologyAI/comments/1xte85z/what_raw_fable_52_built_in_4_hours_a/) | — | — |
 | **Contra recreation** | Prasad Pilla | A pixel-art run-and-gun prototype inspired by Contra. The creator credits the model with generating sprites, animation, music, and sound in code. | [Play on Claude](https://claude.ai/artifact/3tX4R1U95SUxKUQ2Dkz3m3) · [Creator’s post](https://www.reddit.com/r/claude/comments/1xtb0zu/i_recreated_classic_contra_kinda_using_fable_52/) | — | — |
 | **Dead Raid**<br><a href="https://deadraid.com/"><img src="https://deadraid.com/media/og-image.jpg" alt="Preview: Dead Raid" width="180"></a> | u/Sweaty_Breakfast2822 | A solo and co-op zombie survival shooter. The creator began with Opus 5.5 and used Fable 5.2 for features, weapon skins, and character animation. | [Play](https://deadraid.com/) · [Creator’s build notes](https://www.reddit.com/r/ClaudeGameDev/comments/1xtct7e/fable_52_made_this/) | — | — |
-| **IRONDUSK — Yard 7**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0b8DgacAA-46f.jpg?name=orig" alt="Preview: IRONDUSK — Yard 7" width="180"></a> | 向阳乔木 (@vista8) | A single-level FPS generated in a separate run from a prompt similar to the one used for Saltline. | [Play](https://qiaomu.t5t6.com/irondusk-yard-7/) · [Creator’s post](https://x.com/vista8/status/2120383046239285264) | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/)<br>Single-page browser code · License unknown | X: 4,136 views, 19 likes, 3 reposts, 31 replies<br>2026-11-11 12:51 UTC |
-| **霓虹对撞 3D 打砖块**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0cDWTaIAE35u4.jpg?name=orig" alt="Preview: 霓虹对撞 3D 打砖块" width="180"></a> | 向阳乔木 (@vista8) | A neon-themed 3D brick breaker with power-ups. “Neon Clash 3D Brick Breaker” is a translation of the Chinese title. | [Play](https://qiaomu.t5t6.com/3d/) · [Creator’s post](https://x.com/vista8/status/2120383046239285264) | [HTML](https://qiaomu.t5t6.com/3d/)<br>Single-page browser code · License unknown | X: 4,136 views, 19 likes, 3 reposts, 31 replies<br>2026-11-11 12:51 UTC |
+| **IRONDUSK — Yard 7**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0b8DgacAA-46f.jpg?name=orig" alt="Preview: IRONDUSK — Yard 7" width="180"></a> | 向阳乔木 (@vista8) | A single-level FPS generated in a separate run from a prompt similar to the one used for Saltline. | [Play](https://qiaomu.t5t6.com/irondusk-yard-7/) · [Creator’s post](https://x.com/vista8/status/2120383046239285264) · [Creator’s links](https://x.com/vista8/status/2120383172127097088) | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/)<br>Single-page browser code · License unknown | X: 4,136 views, 19 likes, 3 reposts, 31 replies<br>2026-11-11 12:51 UTC |
+| **霓虹对撞 3D 打砖块**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0cDWTaIAE35u4.jpg?name=orig" alt="Preview: 霓虹对撞 3D 打砖块" width="180"></a> | 向阳乔木 (@vista8) | A neon-themed 3D brick breaker with power-ups. “Neon Clash 3D Brick Breaker” is a translation of the Chinese title. | [Play](https://qiaomu.t5t6.com/3d/) · [Creator’s post](https://x.com/vista8/status/2120383046239285264) · [Creator’s links](https://x.com/vista8/status/2120383172127097088) | [HTML](https://qiaomu.t5t6.com/3d/)<br>Single-page browser code · License unknown | X: 4,136 views, 19 likes, 3 reposts, 31 replies<br>2026-11-11 12:51 UTC |
 | **TSURANUKI KAI** | Gigabit Game Lab | Ram a gunship through a fortress shield and fire lasers from inside. Fable 5.2 reworked the earlier Opus 5.5 version. | [Play](https://gigabitgamelab.com/arcade/play/tsuranuki-kai/) · [Creator’s game page](https://gigabitgamelab.com/arcade/games/tsuranuki-kai/) · [Build notes](https://note.com/gigabit_million/n/ne32fe2e855e3) | — | — |
 | **SUPERNOVA GACHA / ASTRA NOVA** | Gigabit Game Lab | A gacha game in which players charge a star and summon pixel-art spirits. | [Play](https://gigabitgamelab.com/arcade/play/supernova-gacha/) · [Claude Artifact](https://claude.ai/artifact/WqjEZsJf8Ah53p9vBqspc9) · [Creator’s game page](https://gigabitgamelab.com/arcade/games/supernova-gacha/) | — | — |
 | **Null Horizon**<br><a href="https://www.reddit.com/r/ClaudeAI/comments/1xt2kax/i_gave_claude_fable_52_one_prompt_and_got_a/"><img src="https://external-preview.redd.it/i-gave-claude-fable-5-2-one-prompt-and-got-a-playable-3d-v0-OWluZGptMnlndjBpMbknp8vVKdGmGNQr8AXb_M8W7Lo7NZrlEVwSpBxL5W1q.png?auto=webp&amp;crop=smart&amp;format=pjpg&amp;s=66df31458fa41b48145c3bc83ae22f636e580736&amp;width=640" alt="Preview: Null Horizon" width="180"></a> | dantecomedia | A procedural 3D stealth shooter with three missions, patrols, alarms, and night vision. Run `python3 run.py` to play locally in a browser. | [Watch and read build notes](https://www.reddit.com/r/ClaudeAI/comments/1xt2kax/i_gave_claude_fable_52_one_prompt_and_got_a/) | [Repository](https://github.com/dantecomedia/null-horizon)<br>Project code · License unknown | GitHub: 1 star, 0 forks<br>2026-11-11 12:47 UTC |

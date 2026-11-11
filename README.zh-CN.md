@@ -18,7 +18,7 @@
 
 ## 代码索引
 
-逐项状态及保守计数见[代码与模型证据核验](CODE-AUDIT.md)。
+截至 2026 年 11 月 12 日，**63 个作品**已符合代码核验标准，另有 **19 条索引**待核、**3 条**不在目标范围内。逐项状态及保守计数见[代码与模型证据核验](CODE-AUDIT.md)。
 
 标为尚未核实的条目作为线索保留，不计入已核实代码作品目标。索引也保留仍待进一步审查的条目，不能直接作为合格总数。详见[检索与核验记录](SEARCH-LOG.md)。
 
@@ -49,7 +49,7 @@
 | Dustfall | [代码仓库](https://github.com/webKing021/dustfall) | 项目代码 · 许可协议未知 |
 | Cyberpunk Tokyo Motorcycle | [JavaScript 构建文件](https://amanndev.com/_next/static/chunks/2gdq495c_bsx_.js) | 浏览器构建文件 · 许可协议未知 · 待核实，未计入已核实数量 |
 | Earth: The Whole Story | [代码仓库](https://github.com/arpitpatel25/earth-whole-story) | 项目代码 · 许可协议未知 |
-| Soccer 3D | [代码仓库](https://github.com/ShaunPrice/soccer-3d) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
+| Soccer 3D | [代码仓库](https://github.com/ShaunPrice/soccer-3d) | 项目代码 · 许可协议未知 |
 | Emberfall Forge | [代码仓库](https://github.com/NineTigers/emberfall-forge-claude-fable-5.2) | 项目代码 · MIT |
 | Boeing 787-9 | [代码仓库](https://github.com/xiaozhenliu/boeing-fable-5-2) | 项目代码 · 许可协议未知 · 模型归因尚未核实 |
 | Fable 5.2 Flight Simulator | [代码仓库](https://github.com/Para-FR/claude-fable-5.2-flight-sim) | 项目代码 · 许可协议未知 |
@@ -57,29 +57,29 @@
 | CEBA | [代码仓库](https://github.com/gavilanbe/ceba) | 项目代码 · 许可协议未知 |
 | Atelier Vesper: Heure Bleue 38 | [HTML 源文件](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/047-atelier-vesper-watch.html) | HTML 作品 · 许可协议未知 · 待核实，未计入已核实数量 |
 | The Astrolabe | [HTML 源文件](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/063-the-astrolabe.html) | HTML 作品 · 许可协议未知 · 待核实，未计入已核实数量 |
-| Tidebell | [项目代码](https://github.com/hahaliu1029/fable5.2demo/tree/main/tidebell) | 项目代码 · Apache-2.0 · 待核实，未计入已核实数量 |
-| Qingyun Sword Flight | [项目代码](https://github.com/hahaliu1029/fable5.2demo/tree/main/game) | 项目代码 · Apache-2.0 · 待核实，未计入已核实数量 |
-| MOTHLIGHT: Vesper-9 | [项目代码](https://github.com/hahaliu1029/fable5.2demo/tree/main/mothlight) | 项目代码 · Apache-2.0 · 待核实，未计入已核实数量 |
+| Tidebell | [项目代码](https://github.com/hahaliu1029/fable5.2demo/tree/main/tidebell) | 项目代码 · Apache-2.0 |
+| Qingyun Sword Flight | [项目代码](https://github.com/hahaliu1029/fable5.2demo/tree/main/game) | 项目代码 · Apache-2.0 |
+| MOTHLIGHT: Vesper-9 | [项目代码](https://github.com/hahaliu1029/fable5.2demo/tree/main/mothlight) | 项目代码 · Apache-2.0 |
 | Kekenon: Cotonou | [项目代码](https://github.com/Akotch/kekenon-cotonou) | 项目代码 · 许可协议未知 |
-| Indy’s Adventure 3D: Näsinneula | [项目代码](https://github.com/ohylli/indys-adventure-3d) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
+| Indy’s Adventure 3D: Näsinneula | [项目代码](https://github.com/ohylli/indys-adventure-3d) | 项目代码 · 许可协议未知 |
 | Neon Night Racer: Fable build | [项目代码](https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2/tree/main/1-race/fable) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
-| Night Market: Fable build | [项目代码](https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2/tree/main/2-diorama/fable) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
+| Night Market: Fable build | [项目代码](https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2/tree/main/2-diorama/fable) | 项目代码 · 许可协议未知 |
 | Boring Game | [项目代码](https://github.com/jakozaur/sf_bay_area_transit_fable_5_2_game/tree/main/apps/game) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
 | Pinscreen | [HTML 源文件](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.html) | HTML 作品 · 许可协议未知 · 待核实，未计入已核实数量 |
 | Par Avion: The Journey of One Letter | [HTML 源文件](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.html) | HTML 作品 · 许可协议未知 · 待核实，未计入已核实数量 |
-| Earth: Neuro Rich | [下载 ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Earth/index.html`) | HTML 项目 · 许可协议未知 · 待核实，未计入已核实数量 |
-| Zombie FPS: AK-47 | [下载 ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Shooter/fps.html`) | HTML 项目 · 许可协议未知 · 待核实，未计入已核实数量 |
+| Earth: Neuro Rich | [下载 ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Earth/index.html`) | HTML 项目 · 许可协议未知 |
+| Zombie FPS: AK-47 | [下载 ZIP](https://neurorich.ru/files/claude-fable-5-2-proekty.zip) (`Shooter/fps.html`) | HTML 项目 · 许可协议未知 |
 | Blameless | [项目代码](https://github.com/Petyok/blameless) | 项目代码 · MIT |
 | Three Writing Desks | [项目代码](https://github.com/az9713/fable-5.2-typewriter-demos) | 项目代码 · 许可协议未知 |
 | Custom Suit Studio | [项目代码](https://github.com/KooEmmanuel/custom-suit-studio) | 项目代码 · Apache-2.0 |
-| ShuttleStrike | [项目代码](https://github.com/fedifianto/shuttlestrike) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
+| ShuttleStrike | [项目代码](https://github.com/fedifianto/shuttlestrike) | 项目代码 · 许可协议未知 |
 | Oriel 38 | [项目代码](https://github.com/akashmakesdesigns/fable-sites/tree/main/sites/04-oriel) | 项目代码 · 许可协议未知 |
 | Tacta 75 | [项目代码](https://github.com/akashmakesdesigns/fable-sites/tree/main/sites/05-tacta) | 项目代码 · 许可协议未知 |
 | Paper Dusk | [HTML Artifact 页面](https://evals.ag/api/v1/media/assets/ast_2QF9TYAX7FEA4H8Y3Y838M8ZA3/content) | 单个 HTML 文件 · 许可协议未知  |
 | Tria Prima | [代码仓库](https://github.com/winchxyz/tria-prima) | 项目代码 · MIT |
 | Null Horizon | [代码仓库](https://github.com/dantecomedia/null-horizon) | 项目代码 · 许可协议未知 |
-| IRONDUSK — Yard 7 | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/) | 单页浏览器代码 · 许可协议未知 · 待核实，未计入已核实数量 |
-| 霓虹对撞 3D 打砖块 | [HTML](https://qiaomu.t5t6.com/3d/) | 单页浏览器代码 · 许可协议未知 · 待核实，未计入已核实数量 |
+| IRONDUSK — Yard 7 | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/) | 单页浏览器代码 · 许可协议未知 |
+| 霓虹对撞 3D 打砖块 | [HTML](https://qiaomu.t5t6.com/3d/) | 单页浏览器代码 · 许可协议未知 |
 | Skyflare | [JavaScript 构建文件](https://skyflare-game.vercel.app/assets/index-DI975xOs.js) | 浏览器构建文件 · 许可协议未知 |
 | Snow Globe | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_4FK7HPGSDT7WEGHDGDWXZ0738W/content) | 单文件 HTML · 许可协议未知 |
 | Sands of the Black Sun | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_01K0N55YXGZGDV24CGYHFWPR7P/content) | 单文件 HTML · 许可协议未知 |
@@ -89,10 +89,10 @@
 | SPIREFALL: Assault on the Terraforming Spire | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_7G3X8N7GY5TX46BAE1H7HBFW99/content) | 单文件 HTML · 许可协议未知 |
 | LAST LIGHT: Dockside Refinery | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_1AZW7W4223G2KWGJVR9WF54K3F/content) | 单文件 HTML · 许可协议未知 |
 | IRON TIDE: Terminal 7 | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_0JAMNBYNJNTMAM502JBG09HY48/content) | 单文件 HTML · 许可协议未知 |
-| Fable 5.2 FPS Reproduction | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/04-fps/index.html) | 项目代码 · MIT · 待核实，未计入已核实数量 |
-| Rainy Dock Materials | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html) | 项目代码 · MIT · 待核实，未计入已核实数量 |
-| Hard-Surface Modeling Studio | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/03-models/index.html) | 项目代码 · MIT · 待核实，未计入已核实数量 |
-| X-Ray Mirror | [代码仓库](https://github.com/MasterOfVFX2070/xray-mirror) | 项目代码 · 许可协议未知 · 待核实，未计入已核实数量 |
+| Fable 5.2 FPS Reproduction | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/04-fps/index.html) | 项目代码 · MIT |
+| Rainy Dock Materials | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html) | 项目代码 · MIT |
+| Hard-Surface Modeling Studio | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/03-models/index.html) | 项目代码 · MIT |
+| X-Ray Mirror | [代码仓库](https://github.com/MasterOfVFX2070/xray-mirror) | 项目代码 · 许可协议未知 |
 | Impossible Spaces | [核心源码](https://git.patch.gg/blendi/impossible-spaces/raw/a9db30c95ad7bf7805848c85c362d9ecf0c9133a/src/lib/portals.ts) · [Git 仓库](https://git.patch.gg/blendi/impossible-spaces.git) | 项目代码 · MIT |
 | Starry Nightrider | [HTML](https://starrynightrider.com/) · [JS 构建文件](https://starrynightrider.com/assets/index-CXqZzAc4.js) | 浏览器构建文件 · 许可协议未知 |
 | LANTERNFALL | [代码仓库](https://github.com/loktar00/lanternfall) | 项目代码 · 许可协议未知 |
@@ -165,8 +165,8 @@
 | **Larkhollow** | @lucian__03（Reddit 帖子署名） | 一款受《星露谷物语》启发的单文件 3D 农场原型，包含播种、浇水和收获。 | [在 Claude 上体验](https://claude.ai/artifact/D8t6NHbpDJXtCovZU6KADP) · [Reddit 介绍](https://www.reddit.com/r/TopologyAI/comments/1xte85z/what_raw_fable_52_built_in_4_hours_a/) | — | — |
 | **Contra recreation** | Prasad Pilla | 一款受《魂斗罗》启发的像素风横版射击原型。创作者表示，精灵图、动画、音乐和音效均由模型通过代码生成。 | [在 Claude 上体验](https://claude.ai/artifact/3tX4R1U95SUxKUQ2Dkz3m3) · [创作者帖子](https://www.reddit.com/r/claude/comments/1xtb0zu/i_recreated_classic_contra_kinda_using_fable_52/) | — | — |
 | **Dead Raid**<br><a href="https://deadraid.com/"><img src="https://deadraid.com/media/og-image.jpg" alt="预览：Dead Raid" width="180"></a> | u/Sweaty_Breakfast2822 | 一款支持单人和合作模式的僵尸生存射击游戏。创作者先使用 Opus 5.5，再用 Fable 5.2 制作功能、武器皮肤和角色动画。 | [体验](https://deadraid.com/) · [创作者的制作说明](https://www.reddit.com/r/ClaudeGameDev/comments/1xtct7e/fable_52_made_this/) | — | — |
-| **IRONDUSK — Yard 7**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0b8DgacAA-46f.jpg?name=orig" alt="预览：IRONDUSK — Yard 7" width="180"></a> | 向阳乔木 (@vista8) | 一款单关卡第一人称射击游戏，使用与 Saltline 提示词相近的提示词，在另一次独立运行中生成。 | [体验](https://qiaomu.t5t6.com/irondusk-yard-7/) · [创作者帖子](https://x.com/vista8/status/2120383046239285264) | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/)<br>单页浏览器代码 · 许可协议未知 | X：4,136 次浏览，19 次点赞，3 次转发，31 条回复<br>2026-11-11 12:51 UTC |
-| **霓虹对撞 3D 打砖块**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0cDWTaIAE35u4.jpg?name=orig" alt="预览：霓虹对撞 3D 打砖块" width="180"></a> | 向阳乔木 (@vista8) | 一款霓虹主题的 3D 打砖块游戏，包含强化道具。“Neon Clash 3D Brick Breaker”是其中文标题的英文译名。 | [体验](https://qiaomu.t5t6.com/3d/) · [创作者帖子](https://x.com/vista8/status/2120383046239285264) | [HTML](https://qiaomu.t5t6.com/3d/)<br>单页浏览器代码 · 许可协议未知 | X：4,136 次浏览，19 次点赞，3 次转发，31 条回复<br>2026-11-11 12:51 UTC |
+| **IRONDUSK — Yard 7**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0b8DgacAA-46f.jpg?name=orig" alt="预览：IRONDUSK — Yard 7" width="180"></a> | 向阳乔木 (@vista8) | 一款单关卡第一人称射击游戏，使用与 Saltline 提示词相近的提示词，在另一次独立运行中生成。 | [体验](https://qiaomu.t5t6.com/irondusk-yard-7/) · [创作者帖子](https://x.com/vista8/status/2120383046239285264) · [作者发布的链接](https://x.com/vista8/status/2120383172127097088) | [HTML](https://qiaomu.t5t6.com/irondusk-yard-7/)<br>单页浏览器代码 · 许可协议未知 | X：4,136 次浏览，19 次点赞，3 次转发，31 条回复<br>2026-11-11 12:51 UTC |
+| **霓虹对撞 3D 打砖块**<br><a href="https://x.com/vista8/status/2120383046239285264"><img src="https://pbs.twimg.com/media/HW0cDWTaIAE35u4.jpg?name=orig" alt="预览：霓虹对撞 3D 打砖块" width="180"></a> | 向阳乔木 (@vista8) | 一款霓虹主题的 3D 打砖块游戏，包含强化道具。“Neon Clash 3D Brick Breaker”是其中文标题的英文译名。 | [体验](https://qiaomu.t5t6.com/3d/) · [创作者帖子](https://x.com/vista8/status/2120383046239285264) · [作者发布的链接](https://x.com/vista8/status/2120383172127097088) | [HTML](https://qiaomu.t5t6.com/3d/)<br>单页浏览器代码 · 许可协议未知 | X：4,136 次浏览，19 次点赞，3 次转发，31 条回复<br>2026-11-11 12:51 UTC |
 | **TSURANUKI KAI** | Gigabit Game Lab | 驾驶炮艇撞破堡垒护盾，并从内部发射激光。Fable 5.2 对早先由 Opus 5.5 制作的版本进行了重做。 | [体验](https://gigabitgamelab.com/arcade/play/tsuranuki-kai/) · [创作者的游戏页面](https://gigabitgamelab.com/arcade/games/tsuranuki-kai/) · [制作说明](https://note.com/gigabit_million/n/ne32fe2e855e3) | — | — |
 | **SUPERNOVA GACHA / ASTRA NOVA** | Gigabit Game Lab | 一款抽卡游戏，玩家为星星蓄力并召唤像素风精灵。 | [体验](https://gigabitgamelab.com/arcade/play/supernova-gacha/) · [Claude Artifact 页面](https://claude.ai/artifact/WqjEZsJf8Ah53p9vBqspc9) · [创作者的游戏页面](https://gigabitgamelab.com/arcade/games/supernova-gacha/) | — | — |
 | **Null Horizon**<br><a href="https://www.reddit.com/r/ClaudeAI/comments/1xt2kax/i_gave_claude_fable_52_one_prompt_and_got_a/"><img src="https://external-preview.redd.it/i-gave-claude-fable-5-2-one-prompt-and-got-a-playable-3d-v0-OWluZGptMnlndjBpMbknp8vVKdGmGNQr8AXb_M8W7Lo7NZrlEVwSpBxL5W1q.png?auto=webp&amp;crop=smart&amp;format=pjpg&amp;s=66df31458fa41b48145c3bc83ae22f636e580736&amp;width=640" alt="预览：Null Horizon" width="180"></a> | dantecomedia | 一款程序化生成的 3D 潜行射击游戏，包含三个任务、巡逻敌人、警报和夜视功能。运行 `python3 run.py` 即可在本地浏览器中游玩。 | [观看并阅读制作说明](https://www.reddit.com/r/ClaudeAI/comments/1xt2kax/i_gave_claude_fable_52_one_prompt_and_got_a/) | [代码仓库](https://github.com/dantecomedia/null-horizon)<br>项目代码 · 许可协议未知 | GitHub：1 星标，0 复刻<br>2026-11-11 12:47 UTC |
