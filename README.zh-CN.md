@@ -88,6 +88,7 @@
 | Hard-Surface Modeling Studio | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/03-models/index.html) | 项目代码 · MIT |
 | X-Ray Mirror | [代码仓库](https://github.com/MasterOfVFX2070/xray-mirror) | 项目代码 · 许可协议未知 |
 | Impossible Spaces | [核心源码](https://git.patch.gg/blendi/impossible-spaces/raw/a9db30c95ad7bf7805848c85c362d9ecf0c9133a/src/lib/portals.ts) · [Git 仓库](https://git.patch.gg/blendi/impossible-spaces.git) | 项目代码 · MIT |
+| Starry Nightrider | [HTML](https://starrynightrider.com/) · [JS 构建文件](https://starrynightrider.com/assets/index-CXqZzAc4.js) | 浏览器构建文件 · 许可协议未知 |
 
 ## 游戏
 
@@ -160,6 +161,7 @@
 | **LAST LIGHT: Dockside Refinery**<br><a href="https://evals.ag/outputs/out_32XV66QX3Q8088XDCG15YQ2R19"><img src="https://evals.ag/outputs/out_32XV66QX3Q8088XDCG15YQ2R19/opengraph-image" alt="LAST LIGHT 作品卡片" width="180"></a> | Evan Cha / Evals | 以码头炼油厂为背景的 3D 第一人称射击游戏；作品记录显示使用 Fable 5.2。 | [作品记录](https://evals.ag/outputs/out_32XV66QX3Q8088XDCG15YQ2R19) | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_1AZW7W4223G2KWGJVR9WF54K3F/content)<br>单文件 HTML · 许可协议未知 | Evals 互动数据暂不可用<br>2026-11-11 13:13 UTC |
 | **IRON TIDE: Terminal 7**<br><a href="https://evals.ag/outputs/out_18S2MGB2ZVFFX7HX842YNWYCF2"><img src="https://evals.ag/outputs/out_18S2MGB2ZVFFX7HX842YNWYCF2/opengraph-image" alt="IRON TIDE 作品卡片" width="180"></a> | Evan Cha / Evals | 发生在集装箱港口的 3D 第一人称射击游戏；作品记录显示使用 Fable 5.2。 | [作品记录](https://evals.ag/outputs/out_18S2MGB2ZVFFX7HX842YNWYCF2) | [HTML 作品文件](https://evals.ag/api/v1/media/assets/ast_0JAMNBYNJNTMAM502JBG09HY48/content)<br>单文件 HTML · 许可协议未知 | Evals 互动数据暂不可用<br>2026-11-11 13:14 UTC |
 | **Fable 5.2 FPS Reproduction**<br><a href="https://github.com/wquguru/fable52-fps-repro"><img src="https://raw.githubusercontent.com/wquguru/fable52-fps-repro/main/docs/demo.gif" alt="游戏演示：Fable 5.2 FPS Reproduction" width="180"></a> | wquguru | 独立制作的 3D 第一人称射击实验，包含三波无人机；作者记录了 Fable 5.2 的使用方式。 | [体验](https://wquguru.github.io/fable52-fps-repro/) · [创作者代码仓库](https://github.com/wquguru/fable52-fps-repro) | [HTML 源文件](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/04-fps/index.html)<br>项目代码 · MIT | GitHub：36 星标，5 次复刻<br>2026-11-11 13:15 UTC |
+| **Starry Nightrider**<br><a href="https://starrynightrider.com/"><img src="https://starrynightrider.com/og-painting.jpg" alt="预览：Starry Nightrider" width="180"></a> | Ebby Amir | 用 Fable 5.2 制作的骑行游戏。玩家在梵高的《星月夜》中收集光球，把它们送到教堂尖塔，再提交得分。 | [试玩](https://starrynightrider.com/) · [作者原帖](https://x.com/ebbyamir/status/2120284261089673376) | [HTML](https://starrynightrider.com/) · [JS 构建文件](https://starrynightrider.com/assets/index-CXqZzAc4.js)<br>浏览器构建文件 · 许可协议未知 | X：161,907 次浏览，2,758 次点赞，200 次转发，203 条回复<br>2026-11-11 15:33 UTC |
 
 ## 交互世界与模拟体验
 
