@@ -12,6 +12,11 @@ These licenses permit commercial use of the cited project code or assets under t
 
 | Resource | Editable material | License and practical notes |
 | --- | --- | --- |
+| [Infinitode Material Library](https://github.com/Infinitode/Material-Library) | More than 200 editable procedural Blender node materials in `.blend` files. | Repository MIT; Blender 3.3 LTS+. The library describes a custom generator, whose source was not found in the repository. Not independently run. |
+| [Easy-Tree](https://github.com/jacobcjohnston/Easy-Tree) | Editable Blender Geometry Nodes trees, including presets, branch and wind controls. | GPL-3.0 code; included ambientCG bark and leaf textures are credited as CC0. Requires Blender 4.5+; output rights are not separately stated. Not independently run. |
+| [Heightmap Level Generator](https://github.com/m-w-marker/heightmap-level-generator) | Browser terrain generation with editable JSON presets, heightmaps and GLB export. | MIT; WebGPU desktop browser required. The maintainer labels included textures CC0 and records their sources; check individual notices. Not independently run. |
+| [Asset Assistant](https://github.com/jhodges0845/Asset-Assistant) | Procedural editable character and object starting points, with a Blender adapter for rigging, animation and export. | Code GPL-3.0-or-later; the maintainer says generated models do not inherit the tool's GPL. Pre-alpha; check third-party content and tool-distribution obligations. Not independently run. |
+| [Mesh Workbench](https://github.com/shakystar/mesh-workbench) | Blender Python and JSON command tools for editing and procedurally assembling meshes. | MIT code; early release. Requires Blender; check third-party notices and output rights separately. Not independently run. |
 | [French town Geometry Nodes](https://github.com/IRCSS/Blender-Geometry-Node-French-Houses) | Editable Blender nodes for buildings, bridges, vegetation, water and other town assets. | Repository MIT; Blender 5.0 per README. Check included materials and third-party rights; not independently run. |
 | [Cloud Generator for Blender](https://github.com/bgivenb/blender-cloud-generator) | Parameterized stylized clouds, generated as mesh or volume in Blender. | Repository CC0-1.0; Blender 3.6+. The maintainer reports testing version 2.1 with Blender 4.5.11; not independently run. |
 | [FIELDWORK](https://github.com/purzbeats/fieldwork) | Editable Blender shader node groups and material examples for procedural surfaces. | Add-on code GPL-3.0-or-later; generated node groups, examples and previews CC0-1.0 according to the project. Requires Blender 5.0+; not independently run. |
@@ -83,6 +88,11 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可编辑内容 | 许可与使用说明 |
 | --- | --- | --- |
+| [Infinitode Material Library](https://github.com/Infinitode/Material-Library) | 200 多个可编辑的 Blender 程序化节点材质，提供 `.blend` 文件。 | 仓库为 MIT；需要 Blender 3.3 LTS+。项目介绍了自制生成器，但仓库中未找到其源码。尚未独立运行。 |
+| [Easy-Tree](https://github.com/jacobcjohnston/Easy-Tree) | 可编辑的 Blender 几何节点树木，包含预设以及枝干、风效控制。 | 代码为 GPL-3.0；项目将附带的 ambientCG 树皮和叶片纹理注明为 CC0。需要 Blender 4.5+；生成结果权利未单独说明。尚未独立运行。 |
+| [Heightmap Level Generator](https://github.com/m-w-marker/heightmap-level-generator) | 浏览器地形生成器，支持可编辑的 JSON 预设、高度图及 GLB 导出。 | MIT；需要支持 WebGPU 的桌面浏览器。维护者将内置纹理标为 CC0 并记录其来源；请查看各项声明。尚未独立运行。 |
+| [Asset Assistant](https://github.com/jhodges0845/Asset-Assistant) | 程序化生成可编辑的角色和物体基础模型，通过 Blender 适配器进行绑定、动画和导出。 | 代码为 GPL-3.0-or-later；维护者说明生成模型不因此继承工具的 GPL。处于 pre-alpha；需核对第三方内容和工具分发义务。尚未独立运行。 |
+| [Mesh Workbench](https://github.com/shakystar/mesh-workbench) | 使用 Blender Python 与 JSON 命令编辑、程序化组装网格。 | 代码为 MIT，处于早期版本；需要 Blender。第三方声明和输出权利需分别核对；尚未独立运行。 |
 | [法式小镇几何节点](https://github.com/IRCSS/Blender-Geometry-Node-French-Houses) | 可编辑的 Blender 节点，可生成建筑、桥梁、植物、水体及其他城镇资产。 | 仓库为 MIT；README 标注 Blender 5.0。需核对附带材质和第三方权利；尚未独立运行。 |
 | [Cloud Generator for Blender](https://github.com/bgivenb/blender-cloud-generator) | 在 Blender 中通过参数生成风格化网格云或体积云。 | 仓库为 CC0-1.0；需要 Blender 3.6+。维护者说明版本 2.1 已在 Blender 4.5.11 测试；尚未独立运行。 |
 | [FIELDWORK](https://github.com/purzbeats/fieldwork) | 可编辑的 Blender 着色器节点组及程序化表面材质示例。 | 插件代码为 GPL-3.0-or-later；项目称生成的节点组、示例和预览为 CC0-1.0。需要 Blender 5.0+；尚未独立运行。 |

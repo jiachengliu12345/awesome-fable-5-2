@@ -12,6 +12,7 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 
 | Resource | Best for | Notes |
 | --- | --- | --- |
+| [Procedural Modeling Skill](https://github.com/arjun988/blender-skills/blob/main/.claude/skills/procedural-modeling/SKILL.md) | Create parametric Blender assets with Geometry Nodes and modifiers, then bake or export game meshes. | MIT repository and skill; requires Blender and the documented MCP workflow. Not independently run. |
 | [Blender Skills](https://github.com/EL4CTEO/blender-skills) | Blender modeling, rigging, materials, optimization and export skills. | MIT; requires Blender and optionally an MCP connection. Maintainer-reported tests were not independently run. |
 | [Open Game Skills](https://github.com/jammyfu/open-game-skills) | Explore game-feel, camera, combat and engine-specific implementation skills. | MIT; Python and target-engine requirements vary. The maintainer notes that CI does not establish agent routing or playability. Not independently run. |
 | [BlenderXAlpha 3DGenSkill](https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill) | Generate and place 3D assets in Blender using supported provider integrations. | MIT; Blender MCP, provider account and credits may be required. Inspect the skill's cost and approval steps; not independently run. |
@@ -57,6 +58,7 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 
 | 资源 | 适合做什么 | 说明 |
 | --- | --- | --- |
+| [程序化建模 Skill](https://github.com/arjun988/blender-skills/blob/main/.claude/skills/procedural-modeling/SKILL.md) | 使用 Blender 几何节点和修改器制作参数化资产，再烘焙或导出游戏网格。 | 仓库及技能为 MIT；需要 Blender 和文档所述 MCP 工作流。尚未独立运行。 |
 | [Blender Skills](https://github.com/EL4CTEO/blender-skills) | 查找 Blender 建模、绑定、材质、优化与导出技能。 | MIT；需要 Blender，可选连接 MCP。维护者所述测试尚未独立运行。 |
 | [Open Game Skills](https://github.com/jammyfu/open-game-skills) | 查找游戏手感、镜头、战斗及引擎实现相关技能。 | MIT；Python 和目标引擎要求因技能而异。维护者说明 CI 不能证明智能体路由或游戏可玩性；尚未独立运行。 |
 | [BlenderXAlpha 3DGenSkill](https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill) | 通过支持的生成服务在 Blender 中生成并放置 3D 资产。 | MIT；可能需要 Blender MCP、服务账号和额度。使用前阅读技能中的费用与确认步骤；尚未独立运行。 |

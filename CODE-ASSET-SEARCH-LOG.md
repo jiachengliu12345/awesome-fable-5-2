@@ -89,3 +89,25 @@ After the last accepted addition, five sequential web-index searches around 21:3
 | 3 | Hugging Face index: `site:huggingface.co/datasets "Blender" "procedural" "code" "cc0"` | Material images and unrelated dataset indexes, no new verified procedural source / 材质图片与数据索引，未核实新的程序化源码 |
 | 4 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
 | 5 | Reddit index: `site:reddit.com/r/proceduralgeneration "open source" "asset library" blender` | Previously assessed Patch lead and existing resources; no new qualified entry / 既有 Patch 线索和已收录资源，无新合格条目 |
+
+## Open-source assets and skills / 开源资产与技能续查 — 2026-11-12
+
+Four Luna workers searched for editable procedural 3D assets, generators, skills and relevant Reddit/X leads. This pass added five assets or tools to the code-asset catalog and one Skill to the dedicated skills document. Repositories, licensing notices and the Skill entry point were checked; we did not install or run the projects. GPL obligations, bundled texture rights and uncertain output rights are identified per entry.
+
+四个 Luna 子任务分别检索可编辑程序化 3D 资产、生成器、技能及 Reddit/X 线索。本轮在代码资产目录新增五项资产或工具，并在技能专题文档新增一项 Skill。已核查项目仓库、许可说明及技能入口；没有安装或运行项目。各条目分别说明 GPL 义务、附带纹理权利和未确认的生成结果许可。
+
+Discovery queries included `GitHub procedural 3D asset generator open source MIT Blender procedural models`, `site:github.com "SKILL.md" procedural 3D Blender game assets agent skill`, and `GitHub skill Blender procedural modeling game assets SKILL.md`. Kiln and Procedura were excluded as existing entries after a broader repository check. Space Robotics Bench Assets was retained only as a lead: its authors label their assets and pipeline outputs CC0, but the code license and third-party assets require separate confirmation. Failed or restricted checks were not counted as no-result rounds.
+
+发现阶段的查询包括 `GitHub procedural 3D asset generator open source MIT Blender procedural models`、`site:github.com "SKILL.md" procedural 3D Blender game assets agent skill` 和 `GitHub skill Blender procedural modeling game assets SKILL.md`。经扩大范围查重，Kiln 和 Procedura 均已收录。Space Robotics Bench Assets 暂留作线索：作者将自制素材与流水线输出标为 CC0，但代码许可及第三方资产仍需分别核对。失败或受限操作不计入无结果轮次。
+
+After the final accepted increment, five sequential web-index searches around 23:56–23:57 UTC+8 returned no further qualified resource. The stop condition was met. The searches below were actually rerun, including queries used in an earlier pass; they cover public indexes, not exhaustive platform-native search. X and YouTube were sparse; no login, CAPTCHA or access restriction was bypassed.
+
+最后一个合格增量之后，约 23:56–23:57（UTC+8）依次完成五次网页索引检索，未发现新的合格资源，达到停止条件。以下查询均已实际重新执行，其中部分与此前一轮相同；覆盖范围是公开索引，并非平台站内全面检索。X 和 YouTube 索引结果稀疏，未绕过登录、验证码或访问限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | X index: `site:x.com "procedural 3d" "asset library" "open source"` | No indexed results / 索引无结果 |
+| 2 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without newly verified source and terms / 教程及合集，未核实新的源码与条款 |
+| 3 | Hugging Face index: `site:huggingface.co/datasets "Blender" "procedural" "code" "cc0"` | Material images and indexes; no newly verified editable procedural source / 材质图片与索引，未核实新的可编辑程序化源码 |
+| 4 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
+| 5 | Reddit index: `site:reddit.com/r/proceduralgeneration "open source" "asset library" blender` | Previously assessed Patch lead and existing resources; no qualified addition / 既有 Patch 线索及已收录资源，无新合格增量 |
