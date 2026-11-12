@@ -57,6 +57,8 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 
 ### Asset libraries and production tools
 
+For editable procedural assets and research datasets, see [3D assets as code](CODE-ASSETS.md#english).
+
 | Resource | Use | Access and license |
 | --- | --- | --- |
 | [Sand3D](https://github.com/Sandflow-ai/sand3d) · [Documentation](https://sand3d.sandflow.ai/) | Build named, parameterized 3D parts, assemblies and joints in Python over Blender; export to formats including GLB, URDF, USD, OBJ and STL. | Apache-2.0 library; requires compatible Python and Blender `bpy`. General modeling tool, not a Fable 5.2-specific project; not independently run. |
@@ -178,6 +180,8 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 使用前应阅读具体 Skill 和依赖。收录链接不等于安装，也不保证其适合所有引擎版本或项目。标注的许可仅指链接仓库，不自动覆盖用它制作的资产或游戏。
 
 ### 资产库与制作工具
+
+可编辑的程序化资产和研究数据集见[代码构建的 3D 资产](CODE-ASSETS.md#简体中文)。
 
 | 资源 | 用途 | 访问与许可 |
 | --- | --- | --- |
