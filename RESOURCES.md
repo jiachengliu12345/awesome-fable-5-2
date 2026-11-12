@@ -59,6 +59,8 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 
 | Resource | Use | Access and license |
 | --- | --- | --- |
+| [Sand3D](https://github.com/Sandflow-ai/sand3d) · [Documentation](https://sand3d.sandflow.ai/) | Build named, parameterized 3D parts, assemblies and joints in Python over Blender; export to formats including GLB, URDF, USD, OBJ and STL. | Apache-2.0 library; requires compatible Python and Blender `bpy`. General modeling tool, not a Fable 5.2-specific project; not independently run. |
+| [Sand3D datasets](https://huggingface.co/collections/Sandflow/sand3d) · [Explorer](https://huggingface.co/spaces/Sandflow/sand3d-explorer) | Browse five collections of code-reconstructed 3D objects and articulated assets; the publisher reports 106,094 objects. | Dataset cards label the Sand3D programs, renders and USD files CC BY 4.0; each object also retains source-license and attribution information. See the source notes below. |
 | [Kenney assets](https://kenney.nl/assets) | Game-ready models, sprites, textures and prototyping packs. | [Official support](https://kenney.nl/support) says assets on its asset pages are CC0; check the individual asset's included terms. |
 | [3DAssets.dev](https://3dassets.dev/) | Search GLB models and packs from the website or its agent integration. | Site describes its assets as CC0; verify each asset’s provenance and terms. Agent integration not tested here. |
 | [Poly Haven](https://polyhaven.com/) | HDRIs, textures and 3D models for lighting and environments. | Its [asset license](https://polyhaven.com/license) states CC0 for its assets. |
@@ -80,6 +82,8 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 | [Roblox model generation](https://create.roblox.com/docs/parts/model-generation) | Generate 3D assets from prompts and use preset behavior scripts for functional models. | Roblox-specific; the documented schemas and access may change. |
 | [Unreal MCP](https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor?lang=en-US) | Let a compatible agent work with Unreal Editor tools, including scenes, materials and animation. | Epic labels this feature experimental; API and formats can change. |
 | [Blender](https://www.blender.org/) | Model, animate and render 3D scenes and assets. | Free/open-source production software; its license does not establish the rights to third-party assets. |
+
+**Sand3D dataset sources:** [Objaverse](https://huggingface.co/datasets/Sandflow/sand3d-objaverse), [CAD](https://huggingface.co/datasets/Sandflow/sand3d-cad), [Articraft](https://huggingface.co/datasets/Sandflow/sand3d-articraft), [AutoMate](https://huggingface.co/datasets/Sandflow/sand3d-automate), and [NVIDIA SimReady](https://huggingface.co/datasets/Sandflow/sand3d-simready). The publisher says each record includes its `source_license` and `attribution`; check these and retain the required notices and modification information. The CADFS portion of CAD and AutoMate derive from public Onshape designs whose authors may hold rights not covered by the source license, according to their dataset cards. The 106,094-object total is the publisher's reported snapshot, not an independently counted inventory; the explorer is a sample, not the complete collection, and was paused when checked on 12 November 2026 (UTC+8).
 
 ### Reddit: workflows and critiques
 
@@ -177,6 +181,8 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 
 | 资源 | 用途 | 访问与许可 |
 | --- | --- | --- |
+| [Sand3D](https://github.com/Sandflow-ai/sand3d) · [文档](https://sand3d.sandflow.ai/) | 基于 Blender 的 Python 接口，用代码创建具名、可调参数的 3D 零件、装配体和关节，并导出 GLB、URDF、USD、OBJ、STL 等格式。 | 建模库采用 Apache-2.0，需要兼容的 Python 与 Blender `bpy`。这是通用建模工具，并非 Fable 5.2 专属；尚未独立运行。 |
+| [Sand3D 数据集](https://huggingface.co/collections/Sandflow/sand3d) · [在线浏览](https://huggingface.co/spaces/Sandflow/sand3d-explorer) | 查找五组以代码重建的 3D 对象和可动资产；发布方称共 106,094 个对象。 | 数据卡将 Sand3D 程序、渲染图和 USD 文件标为 CC BY 4.0；每个对象还保留来源许可和署名信息，详见下方来源说明。 |
 | [Kenney 资产库](https://kenney.nl/assets) | 游戏模型、精灵、纹理和原型素材包。 | [官方说明](https://kenney.nl/support)称资产页上的游戏素材采用 CC0；仍应查看具体素材附带的条款。 |
 | [3DAssets.dev](https://3dassets.dev/) | 从网站或智能体接口查找 GLB 模型和素材包。 | 网站称其资产为 CC0；请逐项核对来源及条款。智能体接口尚未测试。 |
 | [Poly Haven](https://polyhaven.com/) | HDRI、纹理和 3D 模型，适合环境与灯光制作。 | 其[资产许可](https://polyhaven.com/license)说明站内素材采用 CC0。 |
@@ -198,6 +204,8 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 | [Roblox 模型生成](https://create.roblox.com/docs/parts/model-generation) | 通过提示词生成 3D 资产，并用预设行为脚本制作可交互模型。 | 适用于 Roblox；所支持的模型结构和访问条件可能变化。 |
 | [Unreal MCP](https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor?lang=en-US) | 让兼容智能体调用 Unreal Editor 工具，操作场景、材质和动画等。 | Epic 将其标为实验性功能，API 和数据格式可能变化。 |
 | [Blender](https://www.blender.org/) | 制作模型、动画并渲染 3D 场景和资产。 | 免费开源制作软件；软件许可不等于第三方资产的使用许可。 |
+
+**Sand3D 数据集来源：**[Objaverse](https://huggingface.co/datasets/Sandflow/sand3d-objaverse)、[CAD](https://huggingface.co/datasets/Sandflow/sand3d-cad)、[Articraft](https://huggingface.co/datasets/Sandflow/sand3d-articraft)、[AutoMate](https://huggingface.co/datasets/Sandflow/sand3d-automate) 和 [NVIDIA SimReady](https://huggingface.co/datasets/Sandflow/sand3d-simready)。发布方说明每条记录包含 `source_license` 和 `attribution`；使用时应检查并保留所需的许可、署名与修改说明。CAD 中的 CADFS 部分和 AutoMate 来自公开的 Onshape 设计，其数据卡提示原设计作者可能拥有来源许可证未覆盖的权利。106,094 是发布方报告的数量快照，并非本项目独立清点；在线浏览器展示的是样例，不是完整资产库；2026 年 11 月 12 日（UTC+8）检查时该 Space 处于暂停状态。
 
 ### Reddit：工作流与反面意见
 
