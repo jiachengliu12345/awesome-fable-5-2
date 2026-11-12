@@ -6,6 +6,28 @@
 
 A selection of editable code, procedural generators and research datasets for 3D objects. These are **general 3D resources**, not claims of Fable 5.2 use. Sources were checked on 12 November 2026 (UTC+8); see the [search log](CODE-ASSET-SEARCH-LOG.md). Projects and assets were not independently run or rendered. Check the license of each codebase, dataset, third-party asset and output separately.
 
+### Open-source, commercial-use code and node assets
+
+These licenses permit commercial use of the cited project code or assets under their terms; check separate third-party assets and outputs where noted. Nothing here was independently run.
+
+| Resource | Editable material | License and practical notes |
+| --- | --- | --- |
+| [ModKit](https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity) | Procedurally generated modular buildings and props, with Blender source, scripts and GLB/FBX exports. | Project declares meshes, scripts and renders CC0-1.0; inspect any third-party content separately. |
+| [NeuralStock](https://github.com/Neuralstock/neuralstock) | Room Zero collection of Blender source, procedural generators and GLB assets for assembling rooms. | Repository software MIT; published asset content CC0-1.0 according to its asset policy. Provenance and validation are maintainer-reported; verify the rights for each release. |
+| [CGFigures Asset Library](https://www.cgfigures.ca/assetlibrary) | Blender Asset Browser library for scientific visualization, including editable models and node tools. | CC0 1.0 per its creator; free and paid editions are described as identical. Download contents were not independently inspected. |
+| [RFX Blender Asset Library](https://github.com/Pixelguru26/RFX-Blender-Asset-Library) | Blender geometry nodes, modifiers, materials and textures, including hard-surface and science-fiction tools. | CC0-1.0; the maintainer permits use, modification and redistribution. Some assets are work in progress. |
+| [Primitive Assets Library](https://github.com/pesaksintondji/primitive-assets-library) | Blender Geometry Nodes primitives and hard-surface parts, with a Python script to rebuild the library. | Assets and scripts CC0-1.0; requires a compatible Blender version. |
+| [Geometry Node Asset Files](https://github.com/johnnygizmo/node_assets) | Editable Blender `.blend` node groups for use in the Asset Browser. | CC0-1.0. The maintainer says the files were created with Blender daily builds; check version compatibility. |
+| [Procedural 3D assets](https://github.com/boytchev/3d-assets) | Three.js source for individually editable procedural objects. | Repository MIT; retain the copyright and license notice when redistributing code. Check any separate content and output rights. |
+| [Cosmo Tree Gen](https://github.com/FrogCosmonaut/cosmo_tree_gen) | Godot tree generator with editable parameters, presets, LOD and GLB/glTF export. | MIT code; requires Godot 4.6+. The project credits CC0 leaf textures and ambientCG bark; check the included third-party notices. |
+| [SimpleXTerrain](https://github.com/prajwal-mx/SimpleXTerrain) | Godot node-graph terrain generator with editable biome, noise and erosion rules. | MIT code; requires Godot .NET and Terrain3D. It generates terrain inside the engine, not a standalone model pack. |
+| [Godot Road Generator](https://github.com/TheDuckCow/godot-road-generator) | Parametric roads, intersections and lanes with editable Godot source and glTF export. | MIT code; Godot 4.4+. Review the project and third-party notices for bundled assets. |
+| [TreeForge](https://github.com/Kapilthakur1520/treeforge) | Parameterized procedural tree generation for visualization and 3D assets. | MIT code, including commercial use subject to its notice; output rights are not separately established. |
+| [Enzo](https://github.com/parkerbritt/enzo) · [website](https://enzo3d.com/) | Node-based procedural modeling with scripting and a headless engine. | MIT code; the maintainer says commercial use is allowed. Early alpha, not production-ready; macOS support is not official. Not an asset pack. |
+| [CADAM](https://github.com/Adam-CAD/CADAM) | Web-based text-to-CAD workflow producing editable OpenSCAD programs and STL/DXF exports. | Application GPL-3.0; distribution carries GPL obligations. AI generation requires external model services; output rights are not separately established. |
+| [ZENO](https://github.com/zenustech/zeno) | Node-based procedural modeling and simulation with editable example graphs. | Code MPL-2.0, which permits commercial use subject to its file-level conditions; example-asset and output rights need separate confirmation. |
+| [TopoTopo](https://github.com/topotopo-dev/topotopo) | Editable JSON node graphs and a procedural geometry engine, with example graphs and exports to 3D tools. | Apache-2.0 code; check third-party notices and asset rights. An engine and examples rather than a finished game-asset pack. |
+
 ### Create or customize assets
 
 | Resource | What is available | Requirements and license |
@@ -37,6 +59,7 @@ These tools expose editable nodes or parameters; their application source code i
 
 | Resource | What is available | Requirements and license |
 | --- | --- | --- |
+| [CadQuarry](https://huggingface.co/datasets/jacobjennings/cadquarry) · [generator](https://github.com/jacobjennings/CadQuarry) | Parameterized CadQuery programs and mechanical CAD models, including STEP/STL. | Dataset card states data CC0-1.0 and generator Apache-2.0; check dependencies. Engineering research data, not a game-ready pack; not independently run. |
 | [NovaSceneSmith](https://huggingface.co/datasets/raresense/nova-scenesmith) | 20 generated indoor simulation scenes with editable Python source, GLB and simulation exports. | Dataset card marks Apache-2.0; its credits distinguish the original descriptions and other upstream material. Research scenes, not a curated game pack; files were not independently run. |
 | [SpaceCode-Bench](https://huggingface.co/datasets/KurtDu/SpaceCode-Bench) | Research benchmark with native Blender environments, construction, reconstruction and editing tasks. | Dataset card labels CC BY 4.0. Native scenes are evaluation data, not a curated game-asset pack; source rights and dependencies should be checked separately. |
 | [FoldNet](https://huggingface.co/datasets/Bowie375/FoldNet) · [generator code](https://github.com/chen01yx/FoldNet_code) | Research dataset of procedurally generated clothing assets and associated reconstruction code. | Dataset card labels CC BY 4.0; a separate generator-code license was not found. The full dataset viewer reported a generation error when checked; files and generator were not independently tested. |
@@ -48,6 +71,28 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 ## 简体中文
 
 这里收录可编辑代码、程序化生成器和 3D 对象研究数据集。这些都是**通用 3D 资源**，不代表项目使用了 Fable 5.2。来源核查于 2026 年 11 月 12 日（UTC+8），详见[检索记录](CODE-ASSET-SEARCH-LOG.md)；本项目未独立运行或渲染这些资源。代码库、数据集、第三方素材与生成结果的许可应分别核对。
+
+### 可商用的开源代码与节点资产
+
+下列项目代码或素材的许可允许按各自条款商用；涉及第三方素材和生成结果时，仍需分别查看。项目尚未由我们独立运行。
+
+| 资源 | 可编辑内容 | 许可与使用说明 |
+| --- | --- | --- |
+| [ModKit](https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity) | 程序化生成的模块化建筑与道具，提供 Blender 源文件、脚本和 GLB/FBX 导出。 | 项目将网格、脚本和渲染图标为 CC0-1.0；第三方内容仍须单独核对。 |
+| [NeuralStock](https://github.com/Neuralstock/neuralstock) | Room Zero 室内组合资产，含 Blender 源文件、程序化生成器和 GLB 素材。 | 仓库软件为 MIT；资产政策将已发布素材标为 CC0-1.0。来源和验证情况由维护者报告，使用时核对各版本的权利记录。 |
+| [CGFigures Asset Library](https://www.cgfigures.ca/assetlibrary) | 面向科学可视化的 Blender 资产浏览器素材库，含可编辑模型和节点工具。 | 创建者标为 CC0 1.0；免费和付费版本据称内容相同。尚未独立检查下载文件。 |
+| [RFX Blender Asset Library](https://github.com/Pixelguru26/RFX-Blender-Asset-Library) | Blender 几何节点、修改器、材质和纹理，包括硬表面与科幻建模工具。 | CC0-1.0；维护者允许使用、修改和再分发。部分资产仍在制作中。 |
+| [Primitive Assets Library](https://github.com/pesaksintondji/primitive-assets-library) | Blender 几何节点基础形状和硬表面零件，附重建素材库的 Python 脚本。 | 素材和脚本为 CC0-1.0；需要兼容的 Blender 版本。 |
+| [Geometry Node Asset Files](https://github.com/johnnygizmo/node_assets) | 可用于 Blender 资产浏览器的 `.blend` 节点组。 | CC0-1.0；维护者说明文件使用 Blender 每日构建版制作，需检查版本兼容性。 |
+| [Procedural 3D assets](https://github.com/boytchev/3d-assets) | 一组可逐项编辑的 Three.js 程序化物件源码。 | 仓库为 MIT；再分发代码时保留版权及许可声明。单独的素材与输出权利需核对。 |
+| [Cosmo Tree Gen](https://github.com/FrogCosmonaut/cosmo_tree_gen) | Godot 树木生成器，可调整参数与预设，支持 LOD 和 GLB/glTF 导出。 | 代码为 MIT；需要 Godot 4.6+。项目注明叶片纹理为 CC0、树皮纹理来自 ambientCG；使用时查看附带的第三方说明。 |
+| [SimpleXTerrain](https://github.com/prajwal-mx/SimpleXTerrain) | Godot 节点式地形生成器，可编辑生物群系、噪声和侵蚀规则。 | 代码为 MIT；需要 Godot .NET 和 Terrain3D。它在引擎内生成地形，不是独立模型素材包。 |
+| [Godot Road Generator](https://github.com/TheDuckCow/godot-road-generator) | 参数化道路、路口和车道，提供可编辑的 Godot 源码及 glTF 导出。 | 代码为 MIT；需要 Godot 4.4+。内置素材应查看项目与第三方许可说明。 |
+| [TreeForge](https://github.com/Kapilthakur1520/treeforge) | 用于可视化与 3D 资产的参数化树木生成器。 | 代码为 MIT，可按条款商用并保留许可声明；生成结果权利未单独确认。 |
+| [Enzo](https://github.com/parkerbritt/enzo) · [官网](https://enzo3d.com/) | 支持脚本和无界面运行的节点式程序化建模引擎。 | 代码为 MIT；维护者说明可商用。处于早期 alpha，不建议直接用于生产流程；macOS 尚无官方支持。这是工具而非现成素材包。 |
+| [CADAM](https://github.com/Adam-CAD/CADAM) | 网页文字转 CAD 工具，可生成可编辑的 OpenSCAD 程序并导出 STL/DXF。 | 应用为 GPL-3.0；分发时须履行 GPL 义务。AI 生成功能需要外部模型服务；生成结果权利未单独确认。 |
+| [ZENO](https://github.com/zenustech/zeno) | 节点式程序化建模与仿真工具，附可编辑示例节点图。 | 代码为 MPL-2.0，允许按其文件级条件商用；示例素材与生成结果的权利须单独确认。 |
+| [TopoTopo](https://github.com/topotopo-dev/topotopo) | 可编辑 JSON 节点图与程序化几何引擎，附示例图并支持导出到 3D 工具。 | 代码为 Apache-2.0；需查看第三方声明与素材权利。这是引擎和示例，而非成品游戏素材包。 |
 
 ### 创建和定制资产
 
@@ -80,6 +125,7 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可获得什么 | 依赖与许可 |
 | --- | --- | --- |
+| [CadQuarry](https://huggingface.co/datasets/jacobjennings/cadquarry) · [生成器](https://github.com/jacobjennings/CadQuarry) | 参数化 CadQuery 程序和机械 CAD 模型，包括 STEP/STL。 | 数据卡注明数据为 CC0-1.0、生成器为 Apache-2.0；需核对依赖。这是工程研究数据，并非现成游戏素材包；尚未独立运行。 |
 | [NovaSceneSmith](https://huggingface.co/datasets/raresense/nova-scenesmith) | 20 个生成式室内仿真场景，附可编辑 Python 源码、GLB 和仿真格式导出。 | 数据卡标为 Apache-2.0；来源说明区分原始场景描述及其他上游材料。这是研究场景，并非专门整理的游戏素材包；尚未独立运行文件。 |
 | [SpaceCode-Bench](https://huggingface.co/datasets/KurtDu/SpaceCode-Bench) | 含 Blender 原生场景的研究评测集，覆盖场景构建、重建和编辑任务。 | 数据卡标为 CC BY 4.0。原生场景属于评测数据，并非专门整理的游戏素材包；应分别核对来源权利和依赖。 |
 | [FoldNet](https://huggingface.co/datasets/Bowie375/FoldNet) · [生成代码](https://github.com/chen01yx/FoldNet_code) | 程序化生成的服装资产研究数据及相关重建代码。 | 数据卡标为 CC BY 4.0；未找到生成代码的独立许可证。检查时完整数据集浏览器报告生成错误；文件和生成器尚未独立测试。 |

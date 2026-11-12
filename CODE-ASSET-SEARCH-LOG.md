@@ -41,3 +41,29 @@ After accepting the last discovery, five sequential web-index searches around 19
 | 3 | X index: `site:x.com "procedural" "3d" "asset" generator github` | Simulation announcement; no newly verified editable asset library / 仿真项目介绍，未找到新核实的可编辑素材库 |
 | 4 | Bilibili index: `site:bilibili.com 程序化 资产库 建模 源码 blender 生成器` | Tutorials and listings without a verified new library and terms / 教程及合集，未核实新的素材库及其条款 |
 | 5 | YouTube index: `site:youtube.com/watch "procedural" "asset library" "source" blender` | No indexed results / 索引无结果 |
+
+## Commercial-friendly open-source search / 开源及可商用资源续查 — 2026-11-12
+
+Four Luna workers searched GitHub, Hugging Face, Reddit and project websites for editable procedural 3D programs, node assets and related datasets. We checked the original project descriptions and stated licenses and compared project identities against this catalog and the general resource guide. Software licenses, asset licenses, third-party components and generated-output rights are described separately; GPL/MPL obligations and early-stage limitations are retained. We did not independently install, generate or render the assets. Resources are general-purpose and are not claims of Fable 5.2 authorship.
+
+四个 Luna 子任务检索 GitHub、Hugging Face、Reddit 及项目官网，寻找可编辑的程序化 3D 程序、节点资产和相关数据集。我们核对项目原始说明及其声明的许可，并对照本目录和通用资源指南去重。文档分别记录软件、素材、第三方组件及生成结果的权利，并保留 GPL/MPL 分发义务和项目早期状态等限制；未独立安装、生成或渲染资产。这些是通用资源，不代表使用了 Fable 5.2 制作。
+
+Discovery queries included `Blender Geometry Nodes assets license CC0 procedural asset library`, `site:reddit.com Godot procedural tree generator github license`, `site:huggingface.co/datasets procedural 3D scene Blender Python environment dataset code generation scenes`, and `procedural 3D asset generator Blender license MIT geometry nodes assets`. Wadi was excluded from commercial-asset recommendations because its repository distinguishes the app license from reusable house designs. CAD-Coder's Apache label did not establish rights to its upstream Text2CAD source, which has non-commercial restrictions; it was not added as a verified commercial asset dataset. General asset stores without editable procedural sources were excluded from this pass.
+
+发现阶段的查询包括 `Blender Geometry Nodes assets license CC0 procedural asset library`、`site:reddit.com Godot procedural tree generator github license`、`site:huggingface.co/datasets procedural 3D scene Blender Python environment dataset code generation scenes` 和 `procedural 3D asset generator Blender license MIT geometry nodes assets`。Wadi 的仓库区分应用代码许可与房屋设计的复用许可，因此未作为商用资产推荐；CAD-Coder 的 Apache 标签不能消除其上游 Text2CAD 的非商业限制，未列为已核实的可商用资产数据集。本轮不将缺少可编辑程序化源码的普通素材商店计入。
+
+Additional leads included Shoals fish-school nodes (the addon download and its own code license were not confirmed) and a CC0 barbed-wire `.blend` shared in a creator post (the file itself was not inspected). Neither was presented as a verified reusable code library. A scientific Blender asset library, CGFigures, was added with its CC0 declaration and the unchecked download clearly noted.
+
+其他线索包括 Shoals 鱼群节点插件（未确认插件下载入口及其代码许可）和创作者帖子中声明为 CC0 的刺丝网 `.blend` 文件（未检查文件本身）；均未作为已核实的可复用代码库收录。另新增科学可视化 Blender 素材库 CGFigures，并明确标注其 CC0 声明和下载内容未独立检查。
+
+After the final accepted increment, five completed web-index searches around 21:14–21:15 UTC+8 returned no additional qualified resource, meeting the stopping condition. These searches reflect indexed public pages rather than exhaustive platform-native coverage; sparse X/YouTube results and inaccessible individual asset pages limit coverage. Failed page fetches and unverified leads were not themselves treated as successful searches. No login, CAPTCHA or platform limit was bypassed.
+
+最后一个合格增量之后，约 21:14–21:15（UTC+8）依次完成五次网页索引检索，未发现新的合格资源，达到停止条件。这些是公开网页索引，而非平台站内的完整覆盖；X、YouTube 结果稀疏，部分素材页面无法访问。页面读取失败和未核实线索本身不计为成功检索；未绕过登录、验证码或平台限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | X index: `site:x.com "procedural 3d" "asset library" "open source"` | No indexed results / 索引无结果 |
+| 2 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without a newly verified license and source / 教程及素材清单，未核实新的源码与许可 |
+| 3 | Hugging Face index: `site:huggingface.co/datasets "Blender" "procedural" "code" "cc0"` | Material images and unrelated dataset indexes, not newly verified editable procedural code / 材质图片及无关数据索引，未核实新的可编辑程序化代码 |
+| 4 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
+| 5 | Reddit index: `site:reddit.com/r/proceduralgeneration "open source" "asset library" blender` | Previously assessed Patch catalog and already-listed generators; no new qualified resource / 已核查的 Patch 目录和已收录生成器，未找到新合格资源 |
