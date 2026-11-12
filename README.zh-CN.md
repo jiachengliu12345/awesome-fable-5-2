@@ -16,11 +16,13 @@
 各平台按累计浏览量或 Star 独立排名，共用来源只计一次。图中日期为实际观测时间，缓存数值并非实时数据；缺失不计零。
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/x-zh-CN-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/rankings/x-zh-CN-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/x-zh-CN-dark.svg">
-  <img src="assets/rankings/x-zh-CN-light.svg" alt="X · 前三条. 来源浏览量 · 58 个来源有数据. 1. Saltline: 4,228,304; 2026-11-12 09:59:39 UTC · 已采集; 2. Untitled open-world driving game: 3,206,564; 2026-11-12 10:01:11 UTC · 已采集; 3. The Edge: 853,458; 2026-11-12 10:01:49 UTC · 已采集" width="840">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/platforms-zh-CN-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/platforms-zh-CN-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/platforms-zh-CN-dark.svg">
+  <img src="assets/rankings/platforms-zh-CN-light.svg" alt="X · 前三条. 来源浏览量 · 58 个来源有数据. 1. Saltline: 4,228,304; 2026-11-12 09:59:39 UTC · 已采集; 2. Untitled open-world driving game: 3,206,564; 2026-11-12 10:01:11 UTC · 已采集; 3. The Edge: 853,458; 2026-11-12 10:01:49 UTC · 已采集 GitHub · 前三条. 仓库 Star · 29 个来源有数据. 1. Portals: 132; 2026-11-11 11:33:00 UTC · 缓存；刷新失败; 2. X-Ray Mirror: 36; 2026-11-11 13:20:00 UTC · 缓存；刷新失败; 2. fable52-fps-repro · 共用仓库（3 件作品）: 36; 2026-11-11 13:15:00 UTC · 缓存；刷新失败" width="840">
 </picture>
+
+**X**
 
 - **1.** [Saltline](<https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp>) — 4,228,304 次浏览 · [来源](<https://x.com/felixrieseberg/status/2119925633564463609>)
 - **2.** [Untitled open-world driving game](<https://x.com/mattshumer_/status/2120282133503820150>) — 3,206,564 次浏览 · [来源](<https://x.com/mattshumer_/status/2120282133503820150>)
@@ -28,12 +30,7 @@
 
 [查看完整 X 榜单](<POPULARITY.md#x>)
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/github-zh-CN-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/rankings/github-zh-CN-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/github-zh-CN-dark.svg">
-  <img src="assets/rankings/github-zh-CN-light.svg" alt="GitHub · 前三条. 仓库 Star · 29 个来源有数据. 1. Portals: 132; 2026-11-11 11:33:00 UTC · 缓存；刷新失败; 2. X-Ray Mirror: 36; 2026-11-11 13:20:00 UTC · 缓存；刷新失败; 2. fable52-fps-repro · 共用仓库（3 件作品）: 36; 2026-11-11 13:15:00 UTC · 缓存；刷新失败" width="840">
-</picture>
+**GitHub**
 
 - **1.** [Portals](<https://portals-endless-worlds.netlify.app/>) — 132 Star · [来源](<https://github.com/emollick/ai-portals>)
 - **2.** [X-Ray Mirror](<https://github.com/MasterOfVFX2070/xray-mirror>) — 36 Star · [来源](<https://github.com/MasterOfVFX2070/xray-mirror>)

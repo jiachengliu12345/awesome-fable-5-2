@@ -51,13 +51,25 @@ class ReadmeRankingsTest(unittest.TestCase):
     def test_all_picture_variants_exist_are_valid_and_keep_source_scope(self):
         self.render()
         svgs = list((self.root / h.ASSETS).glob('*.svg'))
-        self.assertEqual(len(svgs), 40)
+        self.assertEqual(len(svgs), 48)
         for path in svgs:
             tree = ET.parse(path)
             svg = tree.getroot()
             self.assertNotIn('nan', path.read_text().lower())
-            self.assertEqual(svg.attrib['width'], '480' if '-mobile' in path.name else '840')
+            paired = path.name.startswith('platforms-')
+            mobile = '-mobile' in path.name
+            self.assertEqual(svg.attrib['width'], '480' if mobile else ('984' if paired else '840'))
             self.assertIsNotNone(svg.find('{http://www.w3.org/2000/svg}desc'))
+            if paired:
+                cards = svg.findall('{http://www.w3.org/2000/svg}svg')
+                self.assertEqual(len(cards), 2)
+                self.assertEqual([card.attrib['x'] for card in cards], ['0', '0' if mobile else '504'])
+                self.assertEqual(cards[0].attrib['y'], '0')
+                self.assertEqual(cards[1].attrib['y'], str(int(cards[0].attrib['height']) + 16) if mobile else '0')
+                for card in cards:
+                    self.assertLessEqual(int(card.attrib['y']) + int(card.attrib['height']), int(svg.attrib['height']))
+                ids = [node.attrib['id'] for node in svg.iter() if 'id' in node.attrib]
+                self.assertEqual(len(ids), len(set(ids)))
             for node in svg.findall('{http://www.w3.org/2000/svg}text'):
                 self.assertLess(float(node.attrib['y']), float(svg.attrib['height']))
         for filename in h.LANGUAGES.values():
@@ -65,6 +77,9 @@ class ReadmeRankingsTest(unittest.TestCase):
             section = readme.split(h.START)[1].split(h.END)[0]
             for path in re.findall(r'(?:src|srcset)="([^"]+)"', section):
                 self.assertTrue((self.root / path).is_file(), path)
+            self.assertIn('assets/rankings/platforms-', section)
+            self.assertNotIn('src="assets/rankings/x-', section)
+            self.assertNotIn('src="assets/rankings/github-', section)
             self.assertEqual(section.count('<details>'), 1)
             self.assertEqual(section.count('</details>'), 1)
             self.assertIn('Fable 5.2 FPS Reproduction', section)

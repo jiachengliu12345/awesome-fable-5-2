@@ -16,11 +16,13 @@ A collection of code-created 3D games, interactive worlds, films, and animations
 Platforms rank independently by cumulative views or stars. Each shared source counts once. Dates belong to observations; cached values are not live. Missing data is not zero.
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/x-en-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/rankings/x-en-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/x-en-dark.svg">
-  <img src="assets/rankings/x-en-light.svg" alt="X · Top 3. Source views · 58 measured sources. 1. Saltline: 4,228,304; 2026-11-12 09:59:39 UTC · Fetched; 2. Untitled open-world driving game: 3,206,564; 2026-11-12 10:01:11 UTC · Fetched; 3. The Edge: 853,458; 2026-11-12 10:01:49 UTC · Fetched" width="840">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/platforms-en-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/platforms-en-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/platforms-en-dark.svg">
+  <img src="assets/rankings/platforms-en-light.svg" alt="X · Top 3. Source views · 58 measured sources. 1. Saltline: 4,228,304; 2026-11-12 09:59:39 UTC · Fetched; 2. Untitled open-world driving game: 3,206,564; 2026-11-12 10:01:11 UTC · Fetched; 3. The Edge: 853,458; 2026-11-12 10:01:49 UTC · Fetched GitHub · Top 3. Repository stars · 29 measured sources. 1. Portals: 132; 2026-11-11 11:33:00 UTC · Cached; refresh failed; 2. X-Ray Mirror: 36; 2026-11-11 13:20:00 UTC · Cached; refresh failed; 2. fable52-fps-repro · shared by 3 works: 36; 2026-11-11 13:15:00 UTC · Cached; refresh failed" width="840">
 </picture>
+
+**X**
 
 - **1.** [Saltline](<https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp>) — 4,228,304 views · [source](<https://x.com/felixrieseberg/status/2119925633564463609>)
 - **2.** [Untitled open-world driving game](<https://x.com/mattshumer_/status/2120282133503820150>) — 3,206,564 views · [source](<https://x.com/mattshumer_/status/2120282133503820150>)
@@ -28,12 +30,7 @@ Platforms rank independently by cumulative views or stars. Each shared source co
 
 [Full X ranking](<POPULARITY.md#x>)
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/github-en-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/rankings/github-en-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/github-en-dark.svg">
-  <img src="assets/rankings/github-en-light.svg" alt="GitHub · Top 3. Repository stars · 29 measured sources. 1. Portals: 132; 2026-11-11 11:33:00 UTC · Cached; refresh failed; 2. X-Ray Mirror: 36; 2026-11-11 13:20:00 UTC · Cached; refresh failed; 2. fable52-fps-repro · shared by 3 works: 36; 2026-11-11 13:15:00 UTC · Cached; refresh failed" width="840">
-</picture>
+**GitHub**
 
 - **1.** [Portals](<https://portals-endless-worlds.netlify.app/>) — 132 stars · [source](<https://github.com/emollick/ai-portals>)
 - **2.** [X-Ray Mirror](<https://github.com/MasterOfVFX2070/xray-mirror>) — 36 stars · [source](<https://github.com/MasterOfVFX2070/xray-mirror>)

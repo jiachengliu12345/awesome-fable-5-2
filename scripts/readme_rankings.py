@@ -1,6 +1,7 @@
 """Generate bilingual README previews and self-contained SVGs, without network I/O."""
 from html import escape
 import unicodedata
+import xml.etree.ElementTree as ET
 
 START = "<!-- rankings-preview:start -->"
 END = "<!-- rankings-preview:end -->"
@@ -105,6 +106,40 @@ def svg_card(title, subtitle, rows, empty, language, theme, mobile, accent):
     ])
 
 
+def svg_pair(first, second, language, mobile):
+    """Place compact cards beside each other, or stack them on narrow screens."""
+    namespace = "http://www.w3.org/2000/svg"
+    ET.register_namespace("", namespace)
+    cards = [ET.fromstring(first), ET.fromstring(second)]
+    heights = [int(card.attrib["height"]) for card in cards]
+    gap = 16 if mobile else 24
+    width = 480 if mobile else 480 * 2 + gap
+    height = sum(heights) + gap if mobile else max(heights)
+    root = ET.Element(f"{{{namespace}}}svg", {
+        "width": str(width), "height": str(height), "viewBox": f"0 0 {width} {height}",
+        "role": "img", "aria-labelledby": "title description", "lang": language,
+    })
+    ET.SubElement(root, f"{{{namespace}}}title", id="title").text = tr(language, "X and GitHub popularity", "X 与 GitHub 热度榜")
+    ET.SubElement(root, f"{{{namespace}}}desc", id="description").text = tr(language, "Independent rankings and scales for each platform.", "各平台独立排名，横条使用各自的数值尺度。")
+    for index, (prefix, card) in enumerate(zip(("x", "github"), cards)):
+        for node in card.iter():
+            if "id" in node.attrib:
+                node.set("id", prefix + "-" + node.attrib["id"])
+            if "aria-labelledby" in node.attrib:
+                node.set("aria-labelledby", " ".join(prefix + "-" + name for name in node.attrib["aria-labelledby"].split()))
+        card.set("x", "0" if mobile else str(index * (480 + gap)))
+        card.set("y", str(heights[0] + gap) if mobile and index else "0")
+        if not mobile:
+            # Equal-height panels without stretching text or bars.
+            card.set("height", str(height))
+            card.set("viewBox", f"0 0 480 {height}")
+            background, accent, *_ = card.findall(f"{{{namespace}}}rect")
+            background.set("height", str(height - 1))
+            accent.set("height", str(height - 16))
+        root.append(card)
+    return ET.tostring(root, encoding="unicode") + "\n"
+
+
 def picture(stem, alt):
     prefix = f"{ASSETS}/{stem}"
     return "\n".join([
@@ -166,7 +201,7 @@ def render_homepages(root, works, platform_rows, registry, votes, vote_rows):
                  tr(language, "Platforms rank independently by cumulative views or stars. Each shared source counts once. Dates belong to observations; cached values are not live. Missing data is not zero.",
                     "各平台按累计浏览量或 Star 独立排名，共用来源只计一次。图中日期为实际观测时间，缓存数值并非实时数据；缺失不计零。"), ""]
 
-        def add_card(stem, title, subtitle, rows, empty, accent):
+        def add_card(stem, title, subtitle, rows, empty, accent, show=True):
             for theme in COLORS:
                 for mobile in (False, True):
                     suffix = "-mobile" if mobile else ""
@@ -174,8 +209,11 @@ def render_homepages(root, works, platform_rows, registry, votes, vote_rows):
                     assets[path] = svg_card(title, subtitle, rows, empty, language, theme, mobile, accent)
             alt = title + ". " + subtitle + ". "
             alt += "; ".join(f'{r["rank"]}. {r["label"]}: {r["value"]:,}; {r.get("note", "")}' for r in rows) if rows else " ".join(empty)
-            lines.extend([picture(stem, alt), ""])
+            if show:
+                lines.extend([picture(stem, alt), ""])
+            return alt
 
+        pair_alts, pair_links = [], []
         for platform, entries in platform_rows.items():
             if platform == "Bilibili":
                 lines += ["<details>", "<summary>" + tr(language, "Bilibili and YouTube rankings", "展开 Bilibili、YouTube 榜单") + "</summary>", ""]
@@ -187,13 +225,28 @@ def render_homepages(root, works, platform_rows, registry, votes, vote_rows):
             subtitle = unit + tr(language, f" · {len(entries)} measured sources", f" · {len(entries)} 个来源有数据")
             empty = (tr(language, "No measured sources yet", "暂无可用热度数据"),
                      tr(language, "Unmeasured sources remain in the catalog.", "尚未获得数据的作品仍保留在清单中。"))
-            add_card(f"{platform.lower()}-{language}", platform + tr(language, " · Top 3", " · 前三条"), subtitle, rows, empty, platform.lower())
+            paired = platform in {"X", "GitHub"}
+            alt = add_card(f"{platform.lower()}-{language}", platform + tr(language, " · Top 3", " · 前三条"), subtitle, rows, empty, platform.lower(), show=not paired)
+            platform_links = [f"**{platform}**", ""] if paired else []
             for rank, (_, entry) in top:
                 links = " · ".join(md_link(works[i]["name"], works[i]["url"]) for i in entry["works"])
                 source = md_link(tr(language, "source", "来源"), entry["url"])
                 count_unit = tr(language, "stars", "Star") if primary == "stars" else tr(language, "views", "次浏览")
-                lines.append(f"- **{rank}.** {links} — {entry['metrics'][primary]:,} {count_unit} · {source}")
-            lines += ["", md_link(tr(language, f"Full {platform} ranking", f"查看完整 {platform} 榜单"), f"POPULARITY.md#{platform.lower()}"), ""]
+                platform_links.append(f"- **{rank}.** {links} — {entry['metrics'][primary]:,} {count_unit} · {source}")
+            platform_links += ["", md_link(tr(language, f"Full {platform} ranking", f"查看完整 {platform} 榜单"), f"POPULARITY.md#{platform.lower()}"), ""]
+            if paired:
+                pair_alts.append(alt)
+                pair_links.extend(platform_links)
+                if platform == "GitHub":
+                    for theme in COLORS:
+                        for mobile in (False, True):
+                            suffix = "-mobile" if mobile else ""
+                            first = assets[f"{ASSETS}/x-{language}-{theme}-mobile.svg"]
+                            second = assets[f"{ASSETS}/github-{language}-{theme}-mobile.svg"]
+                            assets[f"{ASSETS}/platforms-{language}-{theme}{suffix}.svg"] = svg_pair(first, second, language, mobile)
+                    lines += [picture(f"platforms-{language}", " ".join(pair_alts)), "", *pair_links]
+            else:
+                lines.extend(platform_links)
         lines += ["</details>", "", tr(language, "Up to three sources per platform; equal values share a rank, with stable ordering within ties. Overview and comparison-video views belong to the whole video.",
                     "每个平台预览最多三条来源，同数值同名次，组内保持稳定顺序。总览或比较视频的播放量属于整段视频。"), "",
                   tr(language, "### Reader choice", "### 读者选择"), ""]
