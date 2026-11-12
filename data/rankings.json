@@ -1,0 +1,3358 @@
+{
+  "schema_version": 1,
+  "works": {
+    "27642f0321d2ada8": {
+      "name": "Graveyard Shift",
+      "category": "Games",
+      "creator": "Ethan (u/Rare_Guide_9830)",
+      "url": "https://zombies.ethanplus.ai/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:ethanplusai/zombies"
+      ]
+    },
+    "1314c4207b16f128": {
+      "name": "Siege Wing",
+      "category": "Games",
+      "creator": "bannerfall",
+      "url": "https://bannerfall.itch.io/siege-wing",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "f2e95bd062da7aea": {
+      "name": "Saltline",
+      "category": "Games",
+      "creator": "Felix Rieseberg",
+      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "X:2119925633564463609"
+      ]
+    },
+    "72efbcbd4e1cf7a7": {
+      "name": "Turbo Tails",
+      "category": "Games",
+      "creator": "Peter Yang",
+      "url": "https://turbo-tails.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119901658394358005",
+        "YouTube:SsSKJA0EHD4"
+      ]
+    },
+    "c0fcab678236fce2": {
+      "name": "VELA BAY",
+      "category": "Games",
+      "creator": "7mpy / GitHub30",
+      "url": "https://github30.github.io/fable52-gta6/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:github30/fable52-gta6"
+      ]
+    },
+    "42777eae1bc8cfdb": {
+      "name": "Evensong",
+      "category": "Games",
+      "creator": "Kevin Ngo",
+      "url": "https://evensong-phi.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120238844754923874"
+      ]
+    },
+    "2b0c9a24ef0411f7": {
+      "name": "I Would Have Gotten Away With It",
+      "category": "Games",
+      "creator": "Ethan Mollick",
+      "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119876449494540554"
+      ]
+    },
+    "78dade88a979edab": {
+      "name": "Hogwarts Royale",
+      "category": "Games",
+      "creator": "Matt Shumer",
+      "url": "https://www.spawn.co/@mattshumer/hogwarts-royale",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119872098306810226"
+      ]
+    },
+    "08db437b0edf1c64": {
+      "name": "Blueline",
+      "category": "Games",
+      "creator": "Alex St Louis",
+      "url": "https://playblueline.pages.dev/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120024471100907802"
+      ]
+    },
+    "644ee05308bec3ee": {
+      "name": "Vibes vs Luddites",
+      "category": "Games",
+      "creator": "alightinastorm",
+      "url": "https://x.com/alightinastorm/status/2120010936584945922",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120010936584945922"
+      ]
+    },
+    "91621e4dc636fdf0": {
+      "name": "Desert-town FPS",
+      "category": "Games",
+      "creator": "alightinastorm",
+      "url": "https://www.spawn.co/@robot/frontline-warfare-deathmatch",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120020469487440210"
+      ]
+    },
+    "092bb90ae3a89f6d": {
+      "name": "Miami-style crime game",
+      "category": "Games",
+      "creator": "@ericmaskfr",
+      "url": "https://x.com/ericmaskfr/status/2119910195325481026",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119910195325481026"
+      ]
+    },
+    "28367e10040910e0": {
+      "name": "Toy-room adventure",
+      "category": "Games",
+      "creator": "itssotsot",
+      "url": "https://x.com/itssotsot/status/2119909017216491720",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119909017216491720"
+      ]
+    },
+    "efbd3b6e08c3fc29": {
+      "name": "Floating-island FPS",
+      "category": "Games",
+      "creator": "Jarrod Watts",
+      "url": "https://x.com/jarrodwatts/status/2120030097004777937",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120030097004777937"
+      ]
+    },
+    "cdf59d8b82bc716a": {
+      "name": "Arena FPS with Portals",
+      "category": "Games",
+      "creator": "Sholto Douglas",
+      "url": "https://x.com/_sholtodouglas/status/2119935331499925557",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119935331499925557"
+      ]
+    },
+    "cabdc4c96300480f": {
+      "name": "Gears of War-style shooter",
+      "category": "Games",
+      "creator": "Matthew Berman",
+      "url": "https://x.com/MatthewBerman/status/2119868629491789992",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119868629491789992"
+      ]
+    },
+    "81489682b70abf8d": {
+      "name": "Space-station shooter",
+      "category": "Games",
+      "creator": "Higgsfield",
+      "url": "https://x.com/higgsfield_ai/status/2119897113534529605",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119897113534529605"
+      ]
+    },
+    "232fceca78c36c00": {
+      "name": "Skywake",
+      "category": "Games",
+      "creator": "usecrayonai",
+      "url": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "Bilibili:BV17iWL6TE9w"
+      ]
+    },
+    "52aee8d1225dcf8d": {
+      "name": "Metal Slug in 3D",
+      "category": "Games",
+      "creator": "阿达的AI思辩",
+      "url": "https://www.bilibili.com/video/BV1yJW168ENZ/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "Bilibili:BV1yJW168ENZ"
+      ]
+    },
+    "4e22d004dfeb0fd8": {
+      "name": "Saltfire",
+      "category": "Games",
+      "creator": "Higgsfield",
+      "url": "https://saltfire.higgsfield.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119928918035910668"
+      ]
+    },
+    "a0907ddb7abde91c": {
+      "name": "Rooftop Rally",
+      "category": "Games",
+      "creator": "Chong-U",
+      "url": "https://wavedash.com/games/rooftop-rally",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120154573356793883"
+      ]
+    },
+    "790d30db4eb94656": {
+      "name": "Paper Skies",
+      "category": "Games",
+      "creator": "Gamejam",
+      "url": "https://x.com/ShipOnGamejam/status/2120184709732823356",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120184709732823356"
+      ]
+    },
+    "c46f0c86855d9eae": {
+      "name": "Gilt & Gutter",
+      "category": "Games",
+      "creator": "Kevin Ngo",
+      "url": "https://gilt-and-gutter.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119900487688622171"
+      ]
+    },
+    "0f8c68cba1e1db5a": {
+      "name": "Harbor City Arena",
+      "category": "Games",
+      "creator": "Josh VLC",
+      "url": "https://x.com/joshvlc/status/2119894656221958575",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119894656221958575"
+      ]
+    },
+    "a9f362331b39a834": {
+      "name": "Ink swordsman",
+      "category": "Games",
+      "creator": "FaridaNever",
+      "url": "https://x.com/FaridaNever/status/2119910055990505730",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119910055990505730"
+      ]
+    },
+    "59d630cce8f84efb": {
+      "name": "Dino Jungle Survival 3D",
+      "category": "Games",
+      "creator": "ahmaddentist30",
+      "url": "https://ahmaddentist30.itch.io/dino-jungle-survival-3d",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "9402d13174efbe60": {
+      "name": "The Combination",
+      "category": "Games",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/056-the-combination.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "fd161571ee600514": {
+      "name": "Dustfall",
+      "category": "Games",
+      "creator": "webKing021",
+      "url": "https://dustfalls.netlify.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:webking021/dustfall"
+      ]
+    },
+    "f6ac58acfc068325": {
+      "name": "Cyberpunk Tokyo Motorcycle",
+      "category": "Games",
+      "creator": "Luca Amann",
+      "url": "https://amanndev.com/criar-projeto-3d-com-um-prompt-no-claude",
+      "audit": "Pending / 待核实",
+      "sources": []
+    },
+    "c8b939b207dcfe98": {
+      "name": "Soccer 3D",
+      "category": "Games",
+      "creator": "Shaun Price",
+      "url": "https://shaunprice.github.io/soccer-3d/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:shaunprice/soccer-3d"
+      ]
+    },
+    "b4adfac45afe8cbd": {
+      "name": "Fable 5.2 Flight Simulator",
+      "category": "Games",
+      "creator": "Para-FR",
+      "url": "https://github.com/Para-FR/claude-fable-5.2-flight-sim",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:para-fr/claude-fable-5.2-flight-sim"
+      ]
+    },
+    "66299bf445c6e872": {
+      "name": "CEBA",
+      "category": "Games",
+      "creator": "gavilanbe",
+      "url": "https://gavilanbe.github.io/ceba/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:gavilanbe/ceba"
+      ]
+    },
+    "57e3b3a7f25424dc": {
+      "name": "Tidebell",
+      "category": "Games",
+      "creator": "hahaliu1029",
+      "url": "https://github.com/hahaliu1029/fable5.2demo",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:hahaliu1029/fable5.2demo"
+      ]
+    },
+    "685aa75fd8e2c2f3": {
+      "name": "Qingyun Sword Flight",
+      "category": "Games",
+      "creator": "hahaliu1029",
+      "url": "https://github.com/hahaliu1029/fable5.2demo",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:hahaliu1029/fable5.2demo"
+      ]
+    },
+    "a4430ae1f9dd4803": {
+      "name": "MOTHLIGHT: Vesper-9",
+      "category": "Games",
+      "creator": "hahaliu1029",
+      "url": "https://github.com/hahaliu1029/fable5.2demo",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:hahaliu1029/fable5.2demo"
+      ]
+    },
+    "cbd0747865b19a4a": {
+      "name": "Kekenon: Cotonou",
+      "category": "Games",
+      "creator": "Akotch",
+      "url": "https://akotch.github.io/kekenon-cotonou/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:akotch/kekenon-cotonou"
+      ]
+    },
+    "cc66569c36af38fe": {
+      "name": "Indy’s Adventure 3D: Näsinneula",
+      "category": "Games",
+      "creator": "ohylli",
+      "url": "https://github.com/ohylli/indys-adventure-3d",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:ohylli/indys-adventure-3d"
+      ]
+    },
+    "412709299dffbf84": {
+      "name": "Neon Night Racer: Fable build",
+      "category": "Games",
+      "creator": "KostiKoNeuro",
+      "url": "https://kostikoneuro.github.io/gemini-carbon-vs-fable-5-2/",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:kostikoneuro/gemini-carbon-vs-fable-5-2"
+      ]
+    },
+    "d39fe13755fbe80b": {
+      "name": "Boring Game",
+      "category": "Games",
+      "creator": "jakozaur",
+      "url": "https://github.com/jakozaur/sf_bay_area_transit_fable_5_2_game",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:jakozaur/sf_bay_area_transit_fable_5_2_game"
+      ]
+    },
+    "01b052dc3a13e4c1": {
+      "name": "Zombie FPS: AK-47",
+      "category": "Games",
+      "creator": "Нейро Рич",
+      "url": "https://neurorich.ru/projects/claude-fable-5-2-proekty/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "YouTube:WREAJZnAA2k"
+      ]
+    },
+    "e701901c6bb3fd53": {
+      "name": "Blameless",
+      "category": "Games",
+      "creator": "Petyok",
+      "url": "https://blameless.petruha.ge",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:petyok/blameless"
+      ]
+    },
+    "4955932c827099d2": {
+      "name": "ShuttleStrike",
+      "category": "Games",
+      "creator": "fedifianto",
+      "url": "https://github.com/fedifianto/shuttlestrike",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:fedifianto/shuttlestrike"
+      ]
+    },
+    "41f72b641b7a7eaa": {
+      "name": "Paper Dusk",
+      "category": "Games",
+      "creator": "tamburins / Evals",
+      "url": "https://evals.ag/outputs/out_0SR0RR6CS7SGRQXMX3BS7G4RVF",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "155b083ea480aeb4": {
+      "name": "Tria Prima",
+      "category": "Games",
+      "creator": "winchxyz",
+      "url": "https://winchxyz.github.io/tria-prima/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:winchxyz/tria-prima"
+      ]
+    },
+    "c0034912e7fc8836": {
+      "name": "CinderDeep",
+      "category": "Games",
+      "creator": "Nil Ni",
+      "url": "https://www.aigameshare.com/games/falling-sand-roguelike",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119977575053443467"
+      ]
+    },
+    "6927d9c4776ce100": {
+      "name": "Skyflare",
+      "category": "Games",
+      "creator": "August Castillo",
+      "url": "https://skyflare-game.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120290751502581879"
+      ]
+    },
+    "4fe4231364c9b9e1": {
+      "name": "Crater Clash",
+      "category": "Games",
+      "creator": "Shubham",
+      "url": "https://tanks.madebyshubham.in/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120350813344190639"
+      ]
+    },
+    "ca1e765c58766b71": {
+      "name": "Dread & District",
+      "category": "Games",
+      "creator": "Ethan Mollick",
+      "url": "https://dread-and-district.netlify.app/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120248525254742318"
+      ]
+    },
+    "6af90a22725b4ff5": {
+      "name": "HITOFUDE 一筆",
+      "category": "Games",
+      "creator": "@positronx_",
+      "url": "https://shubhu121.github.io/hitdude/play/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120374208043876422"
+      ]
+    },
+    "6980a8e56b75f261": {
+      "name": "Larkhollow",
+      "category": "Games",
+      "creator": "@lucian__03 (credited in Reddit write-up)",
+      "url": "https://claude.ai/artifact/D8t6NHbpDJXtCovZU6KADP",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "effa8399694484ba": {
+      "name": "Contra recreation",
+      "category": "Games",
+      "creator": "Prasad Pilla",
+      "url": "https://claude.ai/artifact/3tX4R1U95SUxKUQ2Dkz3m3",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "a7fb851af1348d74": {
+      "name": "Dead Raid",
+      "category": "Games",
+      "creator": "u/Sweaty_Breakfast2822",
+      "url": "https://deadraid.com/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "ea42a3344f4d888a": {
+      "name": "IRONDUSK — Yard 7",
+      "category": "Games",
+      "creator": "向阳乔木 (@vista8)",
+      "url": "https://qiaomu.t5t6.com/irondusk-yard-7/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120383046239285264"
+      ]
+    },
+    "a30f3d5523f1fc26": {
+      "name": "霓虹对撞 3D 打砖块",
+      "category": "Games",
+      "creator": "向阳乔木 (@vista8)",
+      "url": "https://qiaomu.t5t6.com/3d/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120383046239285264"
+      ]
+    },
+    "d0c88cd17f04aa96": {
+      "name": "TSURANUKI KAI",
+      "category": "Games",
+      "creator": "Gigabit Game Lab",
+      "url": "https://gigabitgamelab.com/arcade/play/tsuranuki-kai/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "5575847a2818dd51": {
+      "name": "SUPERNOVA GACHA / ASTRA NOVA",
+      "category": "Games",
+      "creator": "Gigabit Game Lab",
+      "url": "https://gigabitgamelab.com/arcade/play/supernova-gacha/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "02ab0c73fa8223c2": {
+      "name": "Null Horizon",
+      "category": "Games",
+      "creator": "dantecomedia",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt2kax/i_gave_claude_fable_52_one_prompt_and_got_a/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:dantecomedia/null-horizon"
+      ]
+    },
+    "f4f7f7e6312279a7": {
+      "name": "Shard Storm",
+      "category": "Games",
+      "creator": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=2TM8W66NI_8&t=566s",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "YouTube:2TM8W66NI_8"
+      ]
+    },
+    "1eceb6d18d483d67": {
+      "name": "Tumble Beans",
+      "category": "Games",
+      "creator": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg&t=364s",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "YouTube:0vNyVMDFdkg"
+      ]
+    },
+    "f60db21c4251ece8": {
+      "name": "Emberwake",
+      "category": "Games",
+      "creator": "u/shiny_guruw (ppu.toys)",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xsuqwm/fable_52_oneshot_a_super_nintendo_game_overnight/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "6fbf05a86da52a75": {
+      "name": "Cat catches fish",
+      "category": "Games",
+      "creator": "七深麗音 (@singa_44)",
+      "url": "https://note.com/nanami_leo/n/n0a7648629704",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "0e71cb06b2215b97": {
+      "name": "TENSEN NO KOJIN / FABLE",
+      "category": "Games",
+      "creator": "Gigabit Game Lab",
+      "url": "https://gigabitgamelab.com/arcade/play/tensen-fable/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "2ff48454fd856ec3": {
+      "name": "Tin Knight: After Dark",
+      "category": "Games",
+      "creator": "Higgsfield",
+      "url": "https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "4b9a113d32fffcdc": {
+      "name": "Sands of the Black Sun",
+      "category": "Games",
+      "creator": "Evan Cha / Evals",
+      "url": "https://evals.ag/outputs/out_42WRTRNWM70860K7FE8W5H4JYE",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "c50b78e1f846431f": {
+      "name": "Worm Rider",
+      "category": "Games",
+      "creator": "Amir Mušić",
+      "url": "https://x.com/AmirMushich/status/2119937977426338283",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119937977426338283",
+        "GitHub:amirmushichge/worm-rider"
+      ]
+    },
+    "3c5af03006bb6410": {
+      "name": "SPIREFALL: Assault on the Terraforming Spire",
+      "category": "Games",
+      "creator": "Evan Cha / Evals",
+      "url": "https://evals.ag/outputs/out_64YQ9Y1C28PS2M09T05JV39Z2S",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "96a067dfc8a46bef": {
+      "name": "LAST LIGHT: Dockside Refinery",
+      "category": "Games",
+      "creator": "Evan Cha / Evals",
+      "url": "https://evals.ag/outputs/out_32XV66QX3Q8088XDCG15YQ2R19",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "7f498428c426c76b": {
+      "name": "IRON TIDE: Terminal 7",
+      "category": "Games",
+      "creator": "Evan Cha / Evals",
+      "url": "https://evals.ag/outputs/out_18S2MGB2ZVFFX7HX842YNWYCF2",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "38620c5755b0275a": {
+      "name": "Fable 5.2 FPS Reproduction",
+      "category": "Games",
+      "creator": "wquguru",
+      "url": "https://wquguru.github.io/fable52-fps-repro/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:wquguru/fable52-fps-repro"
+      ]
+    },
+    "2bfc9911ce539ed3": {
+      "name": "Starry Nightrider",
+      "category": "Games",
+      "creator": "Ebby Amir",
+      "url": "https://starrynightrider.com/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120284261089673376"
+      ]
+    },
+    "a733ddbe25177751": {
+      "name": "LANTERNFALL",
+      "category": "Games",
+      "creator": "Loktar",
+      "url": "https://loktar00.github.io/lanternfall/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120192761542615271",
+        "GitHub:loktar00/lanternfall"
+      ]
+    },
+    "deb9935a170900db": {
+      "name": "FEED",
+      "category": "Games",
+      "creator": "Leon Lin",
+      "url": "https://feed-backrooms.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119966127149429093"
+      ]
+    },
+    "62beaa923046a411": {
+      "name": "Rug Racers",
+      "category": "Games",
+      "creator": "noclipepe",
+      "url": "https://noclipepe.pages.dev/rug/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120107337650155798"
+      ]
+    },
+    "febed3fbc9565321": {
+      "name": "Dino Run: Locked In",
+      "category": "Games",
+      "creator": "noclipepe",
+      "url": "https://noclipepe.pages.dev/dino/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119927838321328577"
+      ]
+    },
+    "9644264802ed56f4": {
+      "name": "SUBLEVEL 03",
+      "category": "Games",
+      "creator": "Leohuan",
+      "url": "https://fps-fable52-7d7eb4.surge.sh/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120143262329581677"
+      ]
+    },
+    "0f1fe55c2404e9a6": {
+      "name": "Aiden's Revenge",
+      "category": "Games",
+      "creator": "Lex Toumbourou",
+      "url": "https://aidens-revenge.pages.dev/",
+      "audit": "Outside scope: 2D / 范围外：二维",
+      "sources": []
+    },
+    "ed70ed5bf76743e3": {
+      "name": "Rawrchon",
+      "category": "Games",
+      "creator": "Labyricorn",
+      "url": "https://labyricorn.itch.io/rawrchon",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "1cc7ee82e22a6f46": {
+      "name": "Shiba crossing",
+      "category": "Games",
+      "creator": "ggtechsup",
+      "url": "https://ggtechsup.itch.io/shiba-crossing",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "cbcd5bde1c61ddc0": {
+      "name": "BLOCKWILD (Fable 5.2 build)",
+      "category": "Games",
+      "creator": "Ramadan_dev",
+      "url": "https://ramadan-dev.itch.io/blockwild-fable",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "a8fa52063a299381": {
+      "name": "BLACKSITE",
+      "category": "Games",
+      "creator": "lompendans",
+      "url": "https://github.com/lompendans/blacksite-download/releases/tag/v1.0.0",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "GitHub:lompendans/blacksite-download"
+      ]
+    },
+    "1bd0a7de67c10dab": {
+      "name": "Hundred Ghosts",
+      "category": "Games",
+      "creator": "koumpas",
+      "url": "https://hundred-ghosts.vercel.app/",
+      "audit": "Outside scope: 2D / 范围外：二维",
+      "sources": [
+        "GitHub:koumpas/hundred-ghosts"
+      ]
+    },
+    "0b8ad356c6e6c224": {
+      "name": "Reina Scares Hiro",
+      "category": "Games",
+      "creator": "MrDejie",
+      "url": "https://x.com/mrdejie/status/2120010028073771323",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120010028073771323"
+      ]
+    },
+    "9878f1a0bdca7725": {
+      "name": "Untitled open-world driving game",
+      "category": "Games",
+      "creator": "Matt Shumer",
+      "url": "https://x.com/mattshumer_/status/2120282133503820150",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120282133503820150"
+      ]
+    },
+    "445bdff27baa04fe": {
+      "name": "Aquila",
+      "category": "Games",
+      "creator": "GavinLOrio",
+      "url": "https://github.com/GavinLOrio/Fable-5.2-random-game/commit/55838a1f7565dc713edb3f985187338368fe6a81",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:gavinlorio/fable-5.2-random-game"
+      ]
+    },
+    "53c117b2be83e135": {
+      "name": "Dawnward",
+      "category": "Games",
+      "creator": "GavinLOrio",
+      "url": "https://github.com/GavinLOrio/Fable-5.2-random-game/commit/6051b625701c68e9fcef4bef30f2476f287830e5",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:gavinlorio/fable-5.2-random-game"
+      ]
+    },
+    "8bff1971573a8184": {
+      "name": "ringfall",
+      "category": "Games",
+      "creator": "Rehan Sheikh",
+      "url": "https://patch.gg/play/rehan/ringfall",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119994607291584962"
+      ]
+    },
+    "0f4a11fd7150c8f3": {
+      "name": "Mech test in Three.js",
+      "category": "Interactive worlds and simulations",
+      "creator": "u/koss-tech",
+      "url": "https://mech-fable-5-2.kosslabs.workers.dev/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "c2fc8ca6c3009053": {
+      "name": "Yonkers Rises",
+      "category": "Interactive worlds and simulations",
+      "creator": "Simon Willison",
+      "url": "https://tools.simonwillison.net/yonkers-rises",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "429a1d5fcd1e1ef0": {
+      "name": "What the Water Keeps",
+      "category": "Interactive worlds and simulations",
+      "creator": "Kevin Ngo",
+      "url": "https://what-the-water-keeps.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119868968307695818"
+      ]
+    },
+    "d1e54a4b920965e3": {
+      "name": "Voxel Engine",
+      "category": "Interactive worlds and simulations",
+      "creator": "Matt Shumer",
+      "url": "https://www.spawn.co/@mattshumer/voxel-engine",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119870965106483384"
+      ]
+    },
+    "785ccf11c4574cee": {
+      "name": "Mirror Earth",
+      "category": "Interactive worlds and simulations",
+      "creator": "Matt Shumer",
+      "url": "https://www.spawn.co/@mattshumer/earth?room=local",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119877065701036047"
+      ]
+    },
+    "b4a3da159930c33c": {
+      "name": "Portals",
+      "category": "Interactive worlds and simulations",
+      "creator": "Ethan Mollick",
+      "url": "https://portals-endless-worlds.netlify.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119918307457577163",
+        "GitHub:emollick/ai-portals"
+      ]
+    },
+    "9935255eaf435e48": {
+      "name": "Jerusalem at Passover",
+      "category": "Interactive worlds and simulations",
+      "creator": "Katie Parrott",
+      "url": "https://fable-jerusalem.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2119900775727902732"
+      ]
+    },
+    "ab00454f372e9ffc": {
+      "name": "Aurora 9",
+      "category": "Interactive worlds and simulations",
+      "creator": "Shannnu",
+      "url": "https://x.com/Shannnu_18/status/2120025125076844785",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120025125076844785"
+      ]
+    },
+    "6022599784acde24": {
+      "name": "Friendly Dragon Ride",
+      "category": "Interactive worlds and simulations",
+      "creator": "Chetan Ankola (u/Efficient_Ad8214)",
+      "url": "https://www.reddit.com/r/aigamedev/comments/1xs8rut/fable_52_is_improving_this_significantly_but_sooo/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119951015407738913"
+      ]
+    },
+    "ab252df85293564e": {
+      "name": "Sketch to 3D café",
+      "category": "Interactive worlds and simulations",
+      "creator": "Higgsfield",
+      "url": "https://x.com/higgsfield_ai/status/2119908486880342326",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119908486880342326"
+      ]
+    },
+    "bc923339912ddc1f": {
+      "name": "Night Tokyo 04: Ramen Stall",
+      "category": "Interactive worlds and simulations",
+      "creator": "sprinntt",
+      "url": "https://x.com/sprinntt/status/2119906202330988961",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119906202330988961"
+      ]
+    },
+    "3ae0fefe5d073ef1": {
+      "name": "Ancient machinery in 3D",
+      "category": "Interactive worlds and simulations",
+      "creator": "阿达的AI思辩",
+      "url": "https://www.bilibili.com/video/BV1yJW168ENZ/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "Bilibili:BV1yJW168ENZ"
+      ]
+    },
+    "e4e0a17559f65df0": {
+      "name": "Minecraft-style floating islands",
+      "category": "Interactive worlds and simulations",
+      "creator": "PorisRora",
+      "url": "https://x.com/PorisRora/status/2120017467812778053",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120017467812778053"
+      ]
+    },
+    "76a2171c057b730f": {
+      "name": "Matrix",
+      "category": "Interactive worlds and simulations",
+      "creator": "Tornike Gomareli",
+      "url": "https://matrix-vibe.whoopscope.workers.dev/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120227696261120225",
+        "GitHub:tornikegomareli/matrix"
+      ]
+    },
+    "54f1e6b35022fabb": {
+      "name": "Stonehenge Solstice",
+      "category": "Interactive worlds and simulations",
+      "creator": "u/Miyamoto_-_Musashi",
+      "url": "https://meltthemanual.github.io/stonehenge-solstice/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:meltthemanual/stonehenge-solstice"
+      ]
+    },
+    "d0e1d4f0bb3e1fd8": {
+      "name": "Qingming: Rainbow Bridge",
+      "category": "Interactive worlds and simulations",
+      "creator": "AI超元域",
+      "url": "https://www.aivi.fyi/games/qingming.html",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "Bilibili:BV1gsWg6gEis"
+      ]
+    },
+    "7cf3b2636c619f3b": {
+      "name": "Cabinet of Impossible Minerals",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/008-cabinet-of-impossible-minerals.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "599f2ec1e492a60e": {
+      "name": "Side A: A Turntable in CSS",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/023-walnut-turntable.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "0018f418f674ac00": {
+      "name": "A Cabinet of Computed Shells",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/049-conchology-cabinet.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "ca2b1427552f3ba4": {
+      "name": "BÉTON BRUT",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/052-beton-brut-zine.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "98908b874321f3a9": {
+      "name": "The Comet Diner, 3 A.M.",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/066-night-diner.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "33d42843fd7db7f6": {
+      "name": "Strange Attractors",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/069-strange-attractors.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "ab40290e299f5823": {
+      "name": "Earth: The Whole Story",
+      "category": "Interactive worlds and simulations",
+      "creator": "arpitpatel25",
+      "url": "https://earth-whole-story.pages.dev/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:arpitpatel25/earth-whole-story"
+      ]
+    },
+    "6179dc215d2ef265": {
+      "name": "Emberfall Forge",
+      "category": "Interactive worlds and simulations",
+      "creator": "NineTigers",
+      "url": "https://github.com/NineTigers/emberfall-forge-claude-fable-5.2",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:ninetigers/emberfall-forge-claude-fable-5.2"
+      ]
+    },
+    "a209010cdf788303": {
+      "name": "Boeing 787-9",
+      "category": "Interactive worlds and simulations",
+      "creator": "xiaozhenliu",
+      "url": "https://xiaozhenliu.github.io/boeing-fable-5-2/",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:xiaozhenliu/boeing-fable-5-2"
+      ]
+    },
+    "dc5d8a23f7e7fc24": {
+      "name": "Spectra",
+      "category": "Interactive worlds and simulations",
+      "creator": "Seawolf0",
+      "url": "https://seawolf0.github.io/Spectra/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:seawolf0/spectra"
+      ]
+    },
+    "f3d0d4d59f8e5adb": {
+      "name": "Atelier Vesper: Heure Bleue 38",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/047-atelier-vesper-watch.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "73a5e8ac2a530b1a": {
+      "name": "The Astrolabe",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/063-the-astrolabe.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "54849e1a550a586c": {
+      "name": "Night Market: Fable build",
+      "category": "Interactive worlds and simulations",
+      "creator": "KostiKoNeuro",
+      "url": "https://kostikoneuro.github.io/gemini-carbon-vs-fable-5-2/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:kostikoneuro/gemini-carbon-vs-fable-5-2"
+      ]
+    },
+    "b9470339f93b3d97": {
+      "name": "Pinscreen",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "7ed194e7ddeefe54": {
+      "name": "Par Avion: The Journey of One Letter",
+      "category": "Interactive worlds and simulations",
+      "creator": "MiaAI-Lab collection; individual creator unknown",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.txt",
+      "audit": "Pending / 待核实",
+      "sources": [
+        "GitHub:miaai-lab/claude-fable-5.2-html-files"
+      ]
+    },
+    "5d62526bd6796d55": {
+      "name": "Earth: Neuro Rich",
+      "category": "Interactive worlds and simulations",
+      "creator": "Нейро Рич",
+      "url": "https://neurorich.ru/projects/claude-fable-5-2-proekty/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "YouTube:WREAJZnAA2k"
+      ]
+    },
+    "0614c31f7cb05d92": {
+      "name": "Three Writing Desks",
+      "category": "Interactive worlds and simulations",
+      "creator": "az9713",
+      "url": "https://az9713.github.io/fable-5.2-typewriter-demos/?setting=a",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:az9713/fable-5.2-typewriter-demos"
+      ]
+    },
+    "22594d896d2bff86": {
+      "name": "Custom Suit Studio",
+      "category": "Interactive worlds and simulations",
+      "creator": "KooEmmanuel",
+      "url": "https://github.com/KooEmmanuel/custom-suit-studio",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:kooemmanuel/custom-suit-studio"
+      ]
+    },
+    "0b6edadaf37f581c": {
+      "name": "Oriel 38",
+      "category": "Interactive worlds and simulations",
+      "creator": "akashmakesdesigns",
+      "url": "https://akashmakesdesigns.github.io/fable-sites/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:akashmakesdesigns/fable-sites"
+      ]
+    },
+    "d530e61b8436a449": {
+      "name": "Tacta 75",
+      "category": "Interactive worlds and simulations",
+      "creator": "akashmakesdesigns",
+      "url": "https://akashmakesdesigns.github.io/fable-sites/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:akashmakesdesigns/fable-sites"
+      ]
+    },
+    "1c2bea8467a1e063": {
+      "name": "Snow Globe",
+      "category": "Interactive worlds and simulations",
+      "creator": "tamburins / Evals",
+      "url": "https://evals.ag/outputs/out_0HV7B4DPJ948R8NQRHHRKHAM0A",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "63e48033b5651d0e": {
+      "name": "Apartment Walkthrough",
+      "category": "Interactive worlds and simulations",
+      "creator": "tamburins / Evals",
+      "url": "https://evals.ag/outputs/out_36FRTJ5NASW62MZPTYN14F9JX1",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "11c4818c5dbc8a99": {
+      "name": "Golden Gate Bridge 3D",
+      "category": "Interactive worlds and simulations",
+      "creator": "tamburins / Evals",
+      "url": "https://evals.ag/outputs/out_0BWDH0HCNWJS6N6YM8G21C6GYF",
+      "audit": "Verified / 已核实",
+      "sources": []
+    },
+    "3e2e8f19472941d6": {
+      "name": "Rainy Dock Materials",
+      "category": "Interactive worlds and simulations",
+      "creator": "wquguru",
+      "url": "https://wquguru.github.io/fable52-fps-repro/demos/02-materials/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:wquguru/fable52-fps-repro"
+      ]
+    },
+    "478bde63ef9b29a3": {
+      "name": "Hard-Surface Modeling Studio",
+      "category": "Interactive worlds and simulations",
+      "creator": "wquguru",
+      "url": "https://wquguru.github.io/fable52-fps-repro/demos/03-models/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:wquguru/fable52-fps-repro"
+      ]
+    },
+    "21db2f5f8d79741a": {
+      "name": "X-Ray Mirror",
+      "category": "Interactive worlds and simulations",
+      "creator": "MasterOfVFX2070",
+      "url": "https://github.com/MasterOfVFX2070/xray-mirror",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "GitHub:masterofvfx2070/xray-mirror"
+      ]
+    },
+    "b618582ef0284962": {
+      "name": "Impossible Spaces",
+      "category": "Interactive worlds and simulations",
+      "creator": "Blendi Byl",
+      "url": "https://patch.gg/games/blendi/impossible-spaces",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120314459793355262"
+      ]
+    },
+    "30ca123f1a13f351": {
+      "name": "Rome, AD 320",
+      "category": "Interactive worlds and simulations",
+      "creator": "Peter Gostev",
+      "url": "https://fable-rome.surge.sh/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120167560700383572",
+        "YouTube:QwaU4yU0PdQ"
+      ]
+    },
+    "366293f8968d37e7": {
+      "name": "Ant Playground",
+      "category": "Interactive worlds and simulations",
+      "creator": "Ken Kahn / ToonTalk",
+      "url": "https://toontalk.github.io/ant-playground/",
+      "audit": "Outside scope: 2D / 范围外：二维",
+      "sources": [
+        "GitHub:toontalk/ant-playground"
+      ]
+    },
+    "04d453c5b46bd650": {
+      "name": "Oil paint",
+      "category": "Interactive worlds and simulations",
+      "creator": "Blendi Byl",
+      "url": "https://patch.gg/blendi/oil-paint",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120341251178594532"
+      ]
+    },
+    "0b72d2d81bc27ea4": {
+      "name": "Karakoram Highway",
+      "category": "Interactive worlds and simulations",
+      "creator": "Umair",
+      "url": "https://karakoram-highway.vercel.app/",
+      "audit": "Verified / 已核实",
+      "sources": [
+        "X:2120122631144034492"
+      ]
+    },
+    "ba59e121eec5845b": {
+      "name": "Steampunk spider automaton",
+      "category": "3D films and animations",
+      "creator": "u/Gambo7592",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/fable_52_built_this_scene_in_blender/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": []
+    },
+    "3fa1dd425acb77e0": {
+      "name": "The Edge",
+      "category": "3D films and animations",
+      "creator": "Riley Brown",
+      "url": "https://x.com/rileybrown/status/2119902109709537708",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119902109709537708"
+      ]
+    },
+    "7dda52874f6c64fb": {
+      "name": "TORQK",
+      "category": "3D films and animations",
+      "creator": "Higgsfield",
+      "url": "https://x.com/higgsfield_ai/status/2120007830065614926",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2120007830065614926"
+      ]
+    },
+    "d3b028f7a07070fb": {
+      "name": "Area 51 UFO visit",
+      "category": "3D films and animations",
+      "creator": "danteeonsol",
+      "url": "https://x.com/danteeonsol/status/2119887623070077213",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119887623070077213"
+      ]
+    },
+    "36721d74854ceb48": {
+      "name": "Piranha P-7",
+      "category": "3D films and animations",
+      "creator": "Scratcherrrr",
+      "url": "https://x.com/Scratcherrrr/status/2119909780269785332",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119909780269785332"
+      ]
+    },
+    "ee85a89e19cb5a6d": {
+      "name": "Rainy Tokyo alley",
+      "category": "3D films and animations",
+      "creator": "Higgsfield",
+      "url": "https://x.com/higgsfield_ai/status/2119905141822484595",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119905141822484595"
+      ]
+    },
+    "b228281326e5bd4f": {
+      "name": "A cat wakes an old robot",
+      "category": "3D films and animations",
+      "creator": "Higgsfield",
+      "url": "https://x.com/higgsfield_ai/status/2119904269235277978",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119904269235277978"
+      ]
+    },
+    "956ab04f01d71050": {
+      "name": "A fly's-eye picnic",
+      "category": "3D films and animations",
+      "creator": "Higgsfield",
+      "url": "https://x.com/higgsfield_ai/status/2119907841599496421",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119907841599496421"
+      ]
+    },
+    "d7ed0b59cec3134d": {
+      "name": "Path-traced voxel creature",
+      "category": "3D films and animations",
+      "creator": "fuoeba",
+      "url": "https://x.com/fuoeba/status/2119906486017307074",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "X:2119906486017307074"
+      ]
+    },
+    "197de41b6ef39044": {
+      "name": "The Life of Qin Shi Huang",
+      "category": "3D films and animations",
+      "creator": "卡其ya_",
+      "url": "https://www.bilibili.com/video/BV1ByWM6mE1D/",
+      "audit": "Not in code audit / 未纳入代码核验",
+      "sources": [
+        "Bilibili:BV1ByWM6mE1D"
+      ]
+    }
+  },
+  "sources": {
+    "GitHub:ethanplusai/zombies": {
+      "platform": "GitHub",
+      "url": "https://github.com/ethanplusai/zombies",
+      "identity": "ethanplusai/zombies",
+      "works": [
+        "27642f0321d2ada8"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T09:59:35Z",
+      "error": "HTTPError 403"
+    },
+    "X:2119925633564463609": {
+      "platform": "X",
+      "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+      "identity": "2119925633564463609",
+      "works": [
+        "f2e95bd062da7aea"
+      ],
+      "metrics": {
+        "views": 4228304,
+        "likes": 14293,
+        "reposts": 1101,
+        "replies": 811
+      },
+      "observed_at": "2026-11-12T09:59:39Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:35Z"
+    },
+    "X:2119901658394358005": {
+      "platform": "X",
+      "url": "https://x.com/petergyang/status/2119901658394358005",
+      "identity": "2119901658394358005",
+      "works": [
+        "72efbcbd4e1cf7a7"
+      ],
+      "metrics": {
+        "views": 32311,
+        "likes": 138,
+        "reposts": 3,
+        "replies": 25
+      },
+      "observed_at": "2026-11-12T09:59:40Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:35Z"
+    },
+    "YouTube:SsSKJA0EHD4": {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=SsSKJA0EHD4",
+      "identity": "SsSKJA0EHD4",
+      "works": [
+        "72efbcbd4e1cf7a7"
+      ],
+      "metrics": {
+        "views": 130527
+      },
+      "observed_at": "2026-11-11T11:33:00Z",
+      "status": "readme_snapshot",
+      "scope_notes": [
+        "YouTube comparison video"
+      ]
+    },
+    "GitHub:github30/fable52-gta6": {
+      "platform": "GitHub",
+      "url": "https://github.com/GitHub30/fable52-gta6",
+      "identity": "github30/fable52-gta6",
+      "works": [
+        "c0fcab678236fce2"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T11:33:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T09:59:35Z",
+      "error": "HTTPError 403"
+    },
+    "X:2120238844754923874": {
+      "platform": "X",
+      "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+      "identity": "2120238844754923874",
+      "works": [
+        "42777eae1bc8cfdb"
+      ],
+      "metrics": {
+        "views": 89432,
+        "likes": 1318,
+        "reposts": 81,
+        "replies": 109
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:36Z",
+      "error": "IncompleteRead"
+    },
+    "X:2119876449494540554": {
+      "platform": "X",
+      "url": "https://x.com/emollick/status/2119876449494540554",
+      "identity": "2119876449494540554",
+      "works": [
+        "2b0c9a24ef0411f7"
+      ],
+      "metrics": {
+        "views": 32417,
+        "likes": 506,
+        "reposts": 32,
+        "replies": 54
+      },
+      "observed_at": "2026-11-12T09:59:41Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:36Z"
+    },
+    "X:2119872098306810226": {
+      "platform": "X",
+      "url": "https://x.com/mattshumer_/status/2119872098306810226",
+      "identity": "2119872098306810226",
+      "works": [
+        "78dade88a979edab"
+      ],
+      "metrics": {
+        "views": 168109,
+        "likes": 304,
+        "reposts": 14,
+        "replies": 15
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:39Z",
+      "error": "IncompleteRead"
+    },
+    "X:2120024471100907802": {
+      "platform": "X",
+      "url": "https://x.com/AlexStLouis10/status/2120024471100907802",
+      "identity": "2120024471100907802",
+      "works": [
+        "08db437b0edf1c64"
+      ],
+      "metrics": {
+        "views": 43709,
+        "likes": 196,
+        "reposts": 11,
+        "replies": 26
+      },
+      "observed_at": "2026-11-12T09:59:47Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:41Z"
+    },
+    "X:2120010936584945922": {
+      "platform": "X",
+      "url": "https://x.com/alightinastorm/status/2120010936584945922",
+      "identity": "2120010936584945922",
+      "works": [
+        "644ee05308bec3ee"
+      ],
+      "metrics": {
+        "views": 57255,
+        "likes": 693,
+        "reposts": 28,
+        "replies": 65
+      },
+      "observed_at": "2026-11-12T09:59:49Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:41Z"
+    },
+    "X:2120020469487440210": {
+      "platform": "X",
+      "url": "https://x.com/alightinastorm/status/2120020469487440210",
+      "identity": "2120020469487440210",
+      "works": [
+        "91621e4dc636fdf0"
+      ],
+      "metrics": {
+        "views": 12203,
+        "likes": 163,
+        "reposts": 10,
+        "replies": 22
+      },
+      "observed_at": "2026-11-12T09:59:53Z",
+      "status": "ok",
+      "scope_notes": [
+        "X video"
+      ],
+      "attempted_at": "2026-11-12T09:59:47Z"
+    },
+    "X:2119910195325481026": {
+      "platform": "X",
+      "url": "https://x.com/ericmaskfr/status/2119910195325481026",
+      "identity": "2119910195325481026",
+      "works": [
+        "092bb90ae3a89f6d"
+      ],
+      "metrics": {
+        "views": 191662,
+        "likes": 1005,
+        "reposts": 71,
+        "replies": 133
+      },
+      "observed_at": "2026-11-12T09:59:56Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:49Z"
+    },
+    "X:2119909017216491720": {
+      "platform": "X",
+      "url": "https://x.com/itssotsot/status/2119909017216491720",
+      "identity": "2119909017216491720",
+      "works": [
+        "28367e10040910e0"
+      ],
+      "metrics": {
+        "views": 357,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 0
+      },
+      "observed_at": "2026-11-12T10:00:00Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:53Z"
+    },
+    "X:2120030097004777937": {
+      "platform": "X",
+      "url": "https://x.com/jarrodwatts/status/2120030097004777937",
+      "identity": "2120030097004777937",
+      "works": [
+        "efbd3b6e08c3fc29"
+      ],
+      "metrics": {
+        "views": 11141,
+        "likes": 156,
+        "reposts": 2,
+        "replies": 24
+      },
+      "observed_at": "2026-11-12T10:00:00Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:56Z"
+    },
+    "X:2119935331499925557": {
+      "platform": "X",
+      "url": "https://x.com/_sholtodouglas/status/2119935331499925557",
+      "identity": "2119935331499925557",
+      "works": [
+        "cdf59d8b82bc716a"
+      ],
+      "metrics": {
+        "views": 193648,
+        "likes": 1965,
+        "reposts": 95,
+        "replies": 135
+      },
+      "observed_at": "2026-11-12T10:00:02Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T09:59:56Z"
+    },
+    "X:2119868629491789992": {
+      "platform": "X",
+      "url": "https://x.com/MatthewBerman/status/2119868629491789992",
+      "identity": "2119868629491789992",
+      "works": [
+        "cabdc4c96300480f"
+      ],
+      "metrics": {
+        "views": 14398,
+        "likes": 134,
+        "reposts": 7,
+        "replies": 4
+      },
+      "observed_at": "2026-11-12T10:00:02Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:00Z"
+    },
+    "X:2119897113534529605": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2119897113534529605",
+      "identity": "2119897113534529605",
+      "works": [
+        "81489682b70abf8d"
+      ],
+      "metrics": {
+        "views": 42906,
+        "likes": 567,
+        "reposts": 35,
+        "replies": 22
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:00Z",
+      "error": "IncompleteRead"
+    },
+    "Bilibili:BV17iWL6TE9w": {
+      "platform": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV17iWL6TE9w/",
+      "identity": "BV17iWL6TE9w",
+      "works": [
+        "232fceca78c36c00"
+      ],
+      "metrics": {
+        "views": 197,
+        "likes": 3,
+        "comments": 2
+      },
+      "observed_at": "2026-11-12T10:00:02Z",
+      "status": "ok",
+      "scope_notes": [
+        "Bilibili"
+      ],
+      "attempted_at": "2026-11-12T10:00:02Z"
+    },
+    "Bilibili:BV1yJW168ENZ": {
+      "platform": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1yJW168ENZ/",
+      "identity": "BV1yJW168ENZ",
+      "works": [
+        "52aee8d1225dcf8d",
+        "3ae0fefe5d073ef1"
+      ],
+      "metrics": {
+        "views": 169,
+        "likes": 4,
+        "comments": 1
+      },
+      "observed_at": "2026-11-12T10:00:02Z",
+      "status": "ok",
+      "scope_notes": [
+        "Bilibili overview"
+      ],
+      "attempted_at": "2026-11-12T10:00:02Z"
+    },
+    "X:2119928918035910668": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2119928918035910668",
+      "identity": "2119928918035910668",
+      "works": [
+        "4e22d004dfeb0fd8"
+      ],
+      "metrics": {
+        "views": 26758,
+        "likes": 284,
+        "reposts": 18,
+        "replies": 4
+      },
+      "observed_at": "2026-11-12T10:00:04Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:02Z"
+    },
+    "X:2120154573356793883": {
+      "platform": "X",
+      "url": "https://x.com/chongdashu/status/2120154573356793883",
+      "identity": "2120154573356793883",
+      "works": [
+        "a0907ddb7abde91c"
+      ],
+      "metrics": {
+        "views": 96365,
+        "likes": 1068,
+        "reposts": 67,
+        "replies": 77
+      },
+      "observed_at": "2026-11-12T10:00:05Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:02Z"
+    },
+    "X:2120184709732823356": {
+      "platform": "X",
+      "url": "https://x.com/ShipOnGamejam/status/2120184709732823356",
+      "identity": "2120184709732823356",
+      "works": [
+        "790d30db4eb94656"
+      ],
+      "metrics": {
+        "views": 419,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 4
+      },
+      "observed_at": "2026-11-12T10:00:06Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:02Z"
+    },
+    "X:2119900487688622171": {
+      "platform": "X",
+      "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+      "identity": "2119900487688622171",
+      "works": [
+        "c46f0c86855d9eae"
+      ],
+      "metrics": {
+        "views": 105498,
+        "likes": 321,
+        "reposts": 11,
+        "replies": 35
+      },
+      "observed_at": "2026-11-12T10:00:06Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:04Z"
+    },
+    "X:2119894656221958575": {
+      "platform": "X",
+      "url": "https://x.com/joshvlc/status/2119894656221958575",
+      "identity": "2119894656221958575",
+      "works": [
+        "0f8c68cba1e1db5a"
+      ],
+      "metrics": {
+        "views": 101,
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "observed_at": "2026-11-11T11:44:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:05Z",
+      "error": "URLError"
+    },
+    "X:2119910055990505730": {
+      "platform": "X",
+      "url": "https://x.com/FaridaNever/status/2119910055990505730",
+      "identity": "2119910055990505730",
+      "works": [
+        "a9f362331b39a834"
+      ],
+      "metrics": {
+        "views": 746,
+        "likes": 9,
+        "reposts": 1,
+        "replies": 0
+      },
+      "observed_at": "2026-11-11T11:44:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:06Z",
+      "error": "IncompleteRead"
+    },
+    "GitHub:miaai-lab/claude-fable-5.2-html-files": {
+      "platform": "GitHub",
+      "url": "https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files",
+      "identity": "miaai-lab/claude-fable-5.2-html-files",
+      "works": [
+        "9402d13174efbe60",
+        "7cf3b2636c619f3b",
+        "599f2ec1e492a60e",
+        "0018f418f674ac00",
+        "ca2b1427552f3ba4",
+        "98908b874321f3a9",
+        "33d42843fd7db7f6",
+        "f3d0d4d59f8e5adb",
+        "73a5e8ac2a530b1a",
+        "b9470339f93b3d97",
+        "7ed194e7ddeefe54"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:06Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:webking021/dustfall": {
+      "platform": "GitHub",
+      "url": "https://github.com/webKing021/dustfall",
+      "identity": "webking021/dustfall",
+      "works": [
+        "fd161571ee600514"
+      ],
+      "metrics": {
+        "stars": 2,
+        "forks": 2
+      },
+      "observed_at": "2026-11-11T12:02:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:07Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:shaunprice/soccer-3d": {
+      "platform": "GitHub",
+      "url": "https://github.com/ShaunPrice/soccer-3d",
+      "identity": "shaunprice/soccer-3d",
+      "works": [
+        "c8b939b207dcfe98"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:09Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:para-fr/claude-fable-5.2-flight-sim": {
+      "platform": "GitHub",
+      "url": "https://github.com/Para-FR/claude-fable-5.2-flight-sim",
+      "identity": "para-fr/claude-fable-5.2-flight-sim",
+      "works": [
+        "b4adfac45afe8cbd"
+      ],
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:10Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:gavilanbe/ceba": {
+      "platform": "GitHub",
+      "url": "https://github.com/gavilanbe/ceba",
+      "identity": "gavilanbe/ceba",
+      "works": [
+        "66299bf445c6e872"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:11Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:hahaliu1029/fable5.2demo": {
+      "platform": "GitHub",
+      "url": "https://github.com/hahaliu1029/fable5.2demo",
+      "identity": "hahaliu1029/fable5.2demo",
+      "works": [
+        "57e3b3a7f25424dc",
+        "685aa75fd8e2c2f3",
+        "a4430ae1f9dd4803"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:38:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub repository"
+      ],
+      "attempted_at": "2026-11-12T10:00:13Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:akotch/kekenon-cotonou": {
+      "platform": "GitHub",
+      "url": "https://github.com/Akotch/kekenon-cotonou",
+      "identity": "akotch/kekenon-cotonou",
+      "works": [
+        "cbd0747865b19a4a"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:38:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub repository"
+      ],
+      "attempted_at": "2026-11-12T10:00:14Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:ohylli/indys-adventure-3d": {
+      "platform": "GitHub",
+      "url": "https://github.com/ohylli/indys-adventure-3d",
+      "identity": "ohylli/indys-adventure-3d",
+      "works": [
+        "cc66569c36af38fe"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:38:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub repository"
+      ],
+      "attempted_at": "2026-11-12T10:00:15Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:kostikoneuro/gemini-carbon-vs-fable-5-2": {
+      "platform": "GitHub",
+      "url": "https://github.com/KostiKoNeuro/gemini-carbon-vs-fable-5-2",
+      "identity": "kostikoneuro/gemini-carbon-vs-fable-5-2",
+      "works": [
+        "412709299dffbf84",
+        "54849e1a550a586c"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      },
+      "observed_at": "2026-11-11T12:38:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub repository"
+      ],
+      "attempted_at": "2026-11-12T10:00:16Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:jakozaur/sf_bay_area_transit_fable_5_2_game": {
+      "platform": "GitHub",
+      "url": "https://github.com/jakozaur/sf_bay_area_transit_fable_5_2_game",
+      "identity": "jakozaur/sf_bay_area_transit_fable_5_2_game",
+      "works": [
+        "d39fe13755fbe80b"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:38:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub repository"
+      ],
+      "attempted_at": "2026-11-12T10:00:17Z",
+      "error": "HTTPError 403"
+    },
+    "YouTube:WREAJZnAA2k": {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WREAJZnAA2k",
+      "identity": "WREAJZnAA2k",
+      "works": [
+        "01b052dc3a13e4c1",
+        "5d62526bd6796d55"
+      ],
+      "metrics": {
+        "views": 15845,
+        "likes": 366
+      },
+      "observed_at": "2026-11-11T12:41:00Z",
+      "status": "readme_snapshot",
+      "scope_notes": [
+        "YouTube video"
+      ]
+    },
+    "GitHub:petyok/blameless": {
+      "platform": "GitHub",
+      "url": "https://github.com/Petyok/blameless",
+      "identity": "petyok/blameless",
+      "works": [
+        "e701901c6bb3fd53"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:41:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:18Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:fedifianto/shuttlestrike": {
+      "platform": "GitHub",
+      "url": "https://github.com/fedifianto/shuttlestrike",
+      "identity": "fedifianto/shuttlestrike",
+      "works": [
+        "4955932c827099d2"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:41:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:19Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:winchxyz/tria-prima": {
+      "platform": "GitHub",
+      "url": "https://github.com/winchxyz/tria-prima",
+      "identity": "winchxyz/tria-prima",
+      "works": [
+        "155b083ea480aeb4"
+      ],
+      "metrics": {
+        "stars": 4,
+        "forks": 3
+      },
+      "observed_at": "2026-11-11T12:47:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:19Z",
+      "error": "HTTPError 403"
+    },
+    "X:2119977575053443467": {
+      "platform": "X",
+      "url": "https://x.com/_nilni/status/2119977575053443467",
+      "identity": "2119977575053443467",
+      "works": [
+        "c0034912e7fc8836"
+      ],
+      "metrics": {
+        "views": 25371,
+        "likes": 335,
+        "reposts": 29,
+        "replies": 41
+      },
+      "observed_at": "2026-11-12T10:00:25Z",
+      "status": "ok",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:20Z"
+    },
+    "X:2120290751502581879": {
+      "platform": "X",
+      "url": "https://x.com/AugustCastilIo/status/2120290751502581879",
+      "identity": "2120290751502581879",
+      "works": [
+        "6927d9c4776ce100"
+      ],
+      "metrics": {
+        "views": 5939,
+        "likes": 129,
+        "reposts": 11,
+        "replies": 12
+      },
+      "observed_at": "2026-11-12T10:00:24Z",
+      "status": "ok",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:21Z"
+    },
+    "X:2120350813344190639": {
+      "platform": "X",
+      "url": "https://x.com/i_am_bug/status/2120350813344190639",
+      "identity": "2120350813344190639",
+      "works": [
+        "4fe4231364c9b9e1"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:24Z",
+      "error": "IncompleteRead"
+    },
+    "X:2120248525254742318": {
+      "platform": "X",
+      "url": "https://x.com/emollick/status/2120248525254742318",
+      "identity": "2120248525254742318",
+      "works": [
+        "ca1e765c58766b71"
+      ],
+      "metrics": {
+        "views": 28219,
+        "likes": 297,
+        "reposts": 16,
+        "replies": 104
+      },
+      "observed_at": "2026-11-12T10:00:41Z",
+      "status": "ok",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:25Z"
+    },
+    "X:2120374208043876422": {
+      "platform": "X",
+      "url": "https://x.com/positronx_/status/2120374208043876422",
+      "identity": "2120374208043876422",
+      "works": [
+        "6af90a22725b4ff5"
+      ],
+      "metrics": {
+        "views": 1154,
+        "likes": 51,
+        "reposts": 4,
+        "replies": 11
+      },
+      "observed_at": "2026-11-12T10:00:30Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:26Z"
+    },
+    "X:2120383046239285264": {
+      "platform": "X",
+      "url": "https://x.com/vista8/status/2120383046239285264",
+      "identity": "2120383046239285264",
+      "works": [
+        "ea42a3344f4d888a",
+        "a30f3d5523f1fc26"
+      ],
+      "metrics": {
+        "views": 5378,
+        "likes": 19,
+        "reposts": 4,
+        "replies": 34
+      },
+      "observed_at": "2026-11-12T10:00:34Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:28Z"
+    },
+    "GitHub:dantecomedia/null-horizon": {
+      "platform": "GitHub",
+      "url": "https://github.com/dantecomedia/null-horizon",
+      "identity": "dantecomedia/null-horizon",
+      "works": [
+        "02ab0c73fa8223c2"
+      ],
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:47:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:30Z",
+      "error": "HTTPError 403"
+    },
+    "YouTube:2TM8W66NI_8": {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=2TM8W66NI_8",
+      "identity": "2TM8W66NI_8",
+      "works": [
+        "f4f7f7e6312279a7"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": []
+    },
+    "YouTube:0vNyVMDFdkg": {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+      "identity": "0vNyVMDFdkg",
+      "works": [
+        "1eceb6d18d483d67"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": []
+    },
+    "X:2119937977426338283": {
+      "platform": "X",
+      "url": "https://x.com/AmirMushich/status/2119937977426338283",
+      "identity": "2119937977426338283",
+      "works": [
+        "c50b78e1f846431f"
+      ],
+      "metrics": {
+        "views": 60716,
+        "likes": 249,
+        "reposts": 9,
+        "replies": 38
+      },
+      "observed_at": "2026-11-12T10:00:34Z",
+      "status": "ok",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:31Z"
+    },
+    "GitHub:amirmushichge/worm-rider": {
+      "platform": "GitHub",
+      "url": "https://github.com/amirmushichge/worm-rider",
+      "identity": "amirmushichge/worm-rider",
+      "works": [
+        "c50b78e1f846431f"
+      ],
+      "metrics": {
+        "stars": 18,
+        "forks": 3
+      },
+      "observed_at": "2026-11-11T13:09:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:34Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:wquguru/fable52-fps-repro": {
+      "platform": "GitHub",
+      "url": "https://github.com/wquguru/fable52-fps-repro",
+      "identity": "wquguru/fable52-fps-repro",
+      "works": [
+        "38620c5755b0275a",
+        "3e2e8f19472941d6",
+        "478bde63ef9b29a3"
+      ],
+      "metrics": {
+        "stars": 36,
+        "forks": 5
+      },
+      "observed_at": "2026-11-11T13:15:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub",
+        "GitHub repository"
+      ],
+      "attempted_at": "2026-11-12T10:00:35Z",
+      "error": "HTTPError 403"
+    },
+    "X:2120284261089673376": {
+      "platform": "X",
+      "url": "https://x.com/ebbyamir/status/2120284261089673376",
+      "identity": "2120284261089673376",
+      "works": [
+        "2bfc9911ce539ed3"
+      ],
+      "metrics": {
+        "views": 161907,
+        "likes": 2758,
+        "reposts": 200,
+        "replies": 203
+      },
+      "observed_at": "2026-11-11T15:33:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:35Z",
+      "error": "URLError"
+    },
+    "X:2120192761542615271": {
+      "platform": "X",
+      "url": "https://x.com/loktar00/status/2120192761542615271",
+      "identity": "2120192761542615271",
+      "works": [
+        "a733ddbe25177751"
+      ],
+      "metrics": {
+        "views": 186031,
+        "likes": 1386,
+        "reposts": 102,
+        "replies": 114
+      },
+      "observed_at": "2026-11-12T10:00:43Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:36Z"
+    },
+    "GitHub:loktar00/lanternfall": {
+      "platform": "GitHub",
+      "url": "https://github.com/loktar00/lanternfall",
+      "identity": "loktar00/lanternfall",
+      "works": [
+        "a733ddbe25177751"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:41Z",
+      "error": "HTTPError 403"
+    },
+    "X:2119966127149429093": {
+      "platform": "X",
+      "url": "https://x.com/LexnLin/status/2119966127149429093",
+      "identity": "2119966127149429093",
+      "works": [
+        "deb9935a170900db"
+      ],
+      "metrics": {
+        "views": 6024,
+        "likes": 93,
+        "reposts": 1,
+        "replies": 9
+      },
+      "observed_at": "2026-11-12T10:00:47Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:43Z"
+    },
+    "X:2120107337650155798": {
+      "platform": "X",
+      "url": "https://x.com/noclipepe/status/2120107337650155798",
+      "identity": "2120107337650155798",
+      "works": [
+        "62beaa923046a411"
+      ],
+      "metrics": {
+        "views": 1287,
+        "likes": 28,
+        "reposts": 0,
+        "replies": 17
+      },
+      "observed_at": "2026-11-12T10:00:53Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:44Z"
+    },
+    "X:2119927838321328577": {
+      "platform": "X",
+      "url": "https://x.com/noclipepe/status/2119927838321328577",
+      "identity": "2119927838321328577",
+      "works": [
+        "febed3fbc9565321"
+      ],
+      "metrics": {
+        "views": 26550,
+        "likes": 127,
+        "reposts": 4,
+        "replies": 20
+      },
+      "observed_at": "2026-11-12T10:00:52Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:45Z"
+    },
+    "X:2120143262329581677": {
+      "platform": "X",
+      "url": "https://x.com/leohuanfang/status/2120143262329581677",
+      "identity": "2120143262329581677",
+      "works": [
+        "9644264802ed56f4"
+      ],
+      "metrics": {
+        "views": 59,
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "observed_at": "2026-11-12T10:00:56Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:48Z"
+    },
+    "GitHub:lompendans/blacksite-download": {
+      "platform": "GitHub",
+      "url": "https://github.com/lompendans/blacksite-download",
+      "identity": "lompendans/blacksite-download",
+      "works": [
+        "a8fa52063a299381"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:00:52Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:koumpas/hundred-ghosts": {
+      "platform": "GitHub",
+      "url": "https://github.com/koumpas/hundred-ghosts",
+      "identity": "koumpas/hundred-ghosts",
+      "works": [
+        "1bd0a7de67c10dab"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T16:13:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:53Z",
+      "error": "HTTPError 403"
+    },
+    "X:2120010028073771323": {
+      "platform": "X",
+      "url": "https://x.com/mrdejie/status/2120010028073771323",
+      "identity": "2120010028073771323",
+      "works": [
+        "0b8ad356c6e6c224"
+      ],
+      "metrics": {
+        "views": 34200,
+        "likes": 207,
+        "reposts": 7,
+        "replies": 11
+      },
+      "observed_at": "2026-11-11T16:13:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:55Z",
+      "error": "URLError"
+    },
+    "X:2120282133503820150": {
+      "platform": "X",
+      "url": "https://x.com/mattshumer_/status/2120282133503820150",
+      "identity": "2120282133503820150",
+      "works": [
+        "9878f1a0bdca7725"
+      ],
+      "metrics": {
+        "views": 3206564,
+        "likes": 6832,
+        "reposts": 245,
+        "replies": 597
+      },
+      "observed_at": "2026-11-12T10:01:11Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:56Z"
+    },
+    "GitHub:gavinlorio/fable-5.2-random-game": {
+      "platform": "GitHub",
+      "url": "https://github.com/GavinLOrio/Fable-5.2-random-game",
+      "identity": "gavinlorio/fable-5.2-random-game",
+      "works": [
+        "445bdff27baa04fe",
+        "53c117b2be83e135"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T16:13:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:00:56Z",
+      "error": "HTTPError 403"
+    },
+    "X:2119994607291584962": {
+      "platform": "X",
+      "url": "https://x.com/rehan_shei/status/2119994607291584962",
+      "identity": "2119994607291584962",
+      "works": [
+        "8bff1971573a8184"
+      ],
+      "metrics": {
+        "views": 6599,
+        "likes": 61,
+        "reposts": 8,
+        "replies": 8
+      },
+      "observed_at": "2026-11-12T10:01:17Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:58Z"
+    },
+    "X:2119868968307695818": {
+      "platform": "X",
+      "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "identity": "2119868968307695818",
+      "works": [
+        "429a1d5fcd1e1ef0"
+      ],
+      "metrics": {
+        "views": 456202,
+        "likes": 4118,
+        "reposts": 205,
+        "replies": 163
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:00:58Z",
+      "error": "IncompleteRead"
+    },
+    "X:2119870965106483384": {
+      "platform": "X",
+      "url": "https://x.com/mattshumer_/status/2119870965106483384",
+      "identity": "2119870965106483384",
+      "works": [
+        "d1e54a4b920965e3"
+      ],
+      "metrics": {
+        "views": 250954,
+        "likes": 730,
+        "reposts": 33,
+        "replies": 50
+      },
+      "observed_at": "2026-11-12T10:01:14Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:12Z"
+    },
+    "X:2119877065701036047": {
+      "platform": "X",
+      "url": "https://x.com/mattshumer_/status/2119877065701036047",
+      "identity": "2119877065701036047",
+      "works": [
+        "785ccf11c4574cee"
+      ],
+      "metrics": {
+        "views": 403941,
+        "likes": 2369,
+        "reposts": 120,
+        "replies": 91
+      },
+      "observed_at": "2026-11-12T10:01:17Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:14Z"
+    },
+    "X:2119918307457577163": {
+      "platform": "X",
+      "url": "https://x.com/emollick/status/2119918307457577163",
+      "identity": "2119918307457577163",
+      "works": [
+        "b4a3da159930c33c"
+      ],
+      "metrics": {
+        "views": 105387,
+        "likes": 1911,
+        "reposts": 173,
+        "replies": 221
+      },
+      "observed_at": "2026-11-12T10:01:21Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:16Z"
+    },
+    "GitHub:emollick/ai-portals": {
+      "platform": "GitHub",
+      "url": "https://github.com/emollick/ai-portals",
+      "identity": "emollick/ai-portals",
+      "works": [
+        "b4a3da159930c33c"
+      ],
+      "metrics": {
+        "stars": 132,
+        "forks": 21
+      },
+      "observed_at": "2026-11-11T11:33:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:17Z",
+      "error": "HTTPError 403"
+    },
+    "X:2119900775727902732": {
+      "platform": "X",
+      "url": "https://x.com/kplikethebird/status/2119900775727902732",
+      "identity": "2119900775727902732",
+      "works": [
+        "9935255eaf435e48"
+      ],
+      "metrics": {
+        "views": 10418,
+        "likes": 42,
+        "reposts": 4,
+        "replies": 4
+      },
+      "observed_at": "2026-11-12T10:01:22Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:18Z"
+    },
+    "X:2120025125076844785": {
+      "platform": "X",
+      "url": "https://x.com/Shannnu_18/status/2120025125076844785",
+      "identity": "2120025125076844785",
+      "works": [
+        "ab00454f372e9ffc"
+      ],
+      "metrics": {
+        "views": 597,
+        "likes": 19,
+        "reposts": 0,
+        "replies": 10
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:18Z",
+      "error": "URLError"
+    },
+    "X:2119951015407738913": {
+      "platform": "X",
+      "url": "https://x.com/chetanankola/status/2119951015407738913",
+      "identity": "2119951015407738913",
+      "works": [
+        "6022599784acde24"
+      ],
+      "metrics": {
+        "views": 11189,
+        "likes": 247,
+        "reposts": 7,
+        "replies": 16
+      },
+      "observed_at": "2026-11-12T10:01:36Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:20Z"
+    },
+    "X:2119908486880342326": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2119908486880342326",
+      "identity": "2119908486880342326",
+      "works": [
+        "ab252df85293564e"
+      ],
+      "metrics": {
+        "views": 8416,
+        "likes": 75,
+        "reposts": 2,
+        "replies": 6
+      },
+      "observed_at": "2026-11-12T10:01:23Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:21Z"
+    },
+    "X:2119906202330988961": {
+      "platform": "X",
+      "url": "https://x.com/sprinntt/status/2119906202330988961",
+      "identity": "2119906202330988961",
+      "works": [
+        "bc923339912ddc1f"
+      ],
+      "metrics": {
+        "views": 1081,
+        "likes": 3,
+        "reposts": 0,
+        "replies": 3
+      },
+      "observed_at": "2026-11-12T10:01:27Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:22Z"
+    },
+    "X:2120017467812778053": {
+      "platform": "X",
+      "url": "https://x.com/PorisRora/status/2120017467812778053",
+      "identity": "2120017467812778053",
+      "works": [
+        "e4e0a17559f65df0"
+      ],
+      "metrics": {
+        "views": 196,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 2
+      },
+      "observed_at": "2026-11-12T10:01:25Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:23Z"
+    },
+    "X:2120227696261120225": {
+      "platform": "X",
+      "url": "https://x.com/tornikegomareli/status/2120227696261120225",
+      "identity": "2120227696261120225",
+      "works": [
+        "76a2171c057b730f"
+      ],
+      "metrics": {
+        "views": 755,
+        "likes": 25,
+        "reposts": 3,
+        "replies": 4
+      },
+      "observed_at": "2026-11-11T11:59:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:25Z",
+      "error": "timeout"
+    },
+    "GitHub:tornikegomareli/matrix": {
+      "platform": "GitHub",
+      "url": "https://github.com/tornikegomareli/Matrix",
+      "identity": "tornikegomareli/matrix",
+      "works": [
+        "76a2171c057b730f"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:01:27Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:meltthemanual/stonehenge-solstice": {
+      "platform": "GitHub",
+      "url": "https://github.com/MeltTheManual/stonehenge-solstice",
+      "identity": "meltthemanual/stonehenge-solstice",
+      "works": [
+        "54f1e6b35022fabb"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      },
+      "observed_at": "2026-11-11T12:00:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:29Z",
+      "error": "HTTPError 403"
+    },
+    "Bilibili:BV1gsWg6gEis": {
+      "platform": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1gsWg6gEis/",
+      "identity": "BV1gsWg6gEis",
+      "works": [
+        "d0e1d4f0bb3e1fd8"
+      ],
+      "metrics": {
+        "views": 27263,
+        "likes": 479,
+        "comments": 195
+      },
+      "observed_at": "2026-11-12T10:01:30Z",
+      "status": "ok",
+      "scope_notes": [
+        "Bilibili overview"
+      ],
+      "attempted_at": "2026-11-12T10:01:30Z"
+    },
+    "GitHub:arpitpatel25/earth-whole-story": {
+      "platform": "GitHub",
+      "url": "https://github.com/arpitpatel25/earth-whole-story",
+      "identity": "arpitpatel25/earth-whole-story",
+      "works": [
+        "ab40290e299f5823"
+      ],
+      "metrics": {
+        "stars": 7,
+        "forks": 2
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:30Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:ninetigers/emberfall-forge-claude-fable-5.2": {
+      "platform": "GitHub",
+      "url": "https://github.com/NineTigers/emberfall-forge-claude-fable-5.2",
+      "identity": "ninetigers/emberfall-forge-claude-fable-5.2",
+      "works": [
+        "6179dc215d2ef265"
+      ],
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:31Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:xiaozhenliu/boeing-fable-5-2": {
+      "platform": "GitHub",
+      "url": "https://github.com/xiaozhenliu/boeing-fable-5-2",
+      "identity": "xiaozhenliu/boeing-fable-5-2",
+      "works": [
+        "a209010cdf788303"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:33Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:seawolf0/spectra": {
+      "platform": "GitHub",
+      "url": "https://github.com/Seawolf0/Spectra",
+      "identity": "seawolf0/spectra",
+      "works": [
+        "dc5d8a23f7e7fc24"
+      ],
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:04:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:34Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:az9713/fable-5.2-typewriter-demos": {
+      "platform": "GitHub",
+      "url": "https://github.com/az9713/fable-5.2-typewriter-demos",
+      "identity": "az9713/fable-5.2-typewriter-demos",
+      "works": [
+        "0614c31f7cb05d92"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:41:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:35Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:kooemmanuel/custom-suit-studio": {
+      "platform": "GitHub",
+      "url": "https://github.com/KooEmmanuel/custom-suit-studio",
+      "identity": "kooemmanuel/custom-suit-studio",
+      "works": [
+        "22594d896d2bff86"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:41:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:36Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:akashmakesdesigns/fable-sites": {
+      "platform": "GitHub",
+      "url": "https://github.com/akashmakesdesigns/fable-sites",
+      "identity": "akashmakesdesigns/fable-sites",
+      "works": [
+        "0b6edadaf37f581c",
+        "d530e61b8436a449"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T12:41:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub collection"
+      ],
+      "attempted_at": "2026-11-12T10:01:37Z",
+      "error": "HTTPError 403"
+    },
+    "GitHub:masterofvfx2070/xray-mirror": {
+      "platform": "GitHub",
+      "url": "https://github.com/MasterOfVFX2070/xray-mirror",
+      "identity": "masterofvfx2070/xray-mirror",
+      "works": [
+        "21db2f5f8d79741a"
+      ],
+      "metrics": {
+        "stars": 36,
+        "forks": 22
+      },
+      "observed_at": "2026-11-11T13:20:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:37Z",
+      "error": "HTTPError 403"
+    },
+    "X:2120314459793355262": {
+      "platform": "X",
+      "url": "https://x.com/BlendiByl/status/2120314459793355262",
+      "identity": "2120314459793355262",
+      "works": [
+        "b618582ef0284962"
+      ],
+      "metrics": {
+        "views": 3307,
+        "likes": 77,
+        "reposts": 4,
+        "replies": 5
+      },
+      "observed_at": "2026-11-11T13:14:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:37Z",
+      "error": "RemoteDisconnected"
+    },
+    "X:2120167560700383572": {
+      "platform": "X",
+      "url": "https://x.com/petergostev/status/2120167560700383572",
+      "identity": "2120167560700383572",
+      "works": [
+        "30ca123f1a13f351"
+      ],
+      "metrics": {
+        "views": 74317,
+        "likes": 949,
+        "reposts": 45,
+        "replies": 43
+      },
+      "observed_at": "2026-11-12T10:01:43Z",
+      "status": "ok",
+      "scope_notes": [],
+      "attempted_at": "2026-11-12T10:01:38Z"
+    },
+    "YouTube:QwaU4yU0PdQ": {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
+      "identity": "QwaU4yU0PdQ",
+      "works": [
+        "30ca123f1a13f351"
+      ],
+      "metrics": {},
+      "observed_at": null,
+      "status": "unavailable",
+      "scope_notes": []
+    },
+    "GitHub:toontalk/ant-playground": {
+      "platform": "GitHub",
+      "url": "https://github.com/ToonTalk/ant-playground",
+      "identity": "toontalk/ant-playground",
+      "works": [
+        "366293f8968d37e7"
+      ],
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "observed_at": "2026-11-11T16:13:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "GitHub"
+      ],
+      "attempted_at": "2026-11-12T10:01:39Z",
+      "error": "HTTPError 403"
+    },
+    "X:2120341251178594532": {
+      "platform": "X",
+      "url": "https://x.com/BlendiByl/status/2120341251178594532",
+      "identity": "2120341251178594532",
+      "works": [
+        "04d453c5b46bd650"
+      ],
+      "metrics": {
+        "views": 351934,
+        "likes": 6771,
+        "reposts": 339,
+        "replies": 338
+      },
+      "observed_at": "2026-11-12T10:01:44Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:40Z"
+    },
+    "X:2120122631144034492": {
+      "platform": "X",
+      "url": "https://x.com/twenty3kb/status/2120122631144034492",
+      "identity": "2120122631144034492",
+      "works": [
+        "0b72d2d81bc27ea4"
+      ],
+      "metrics": {
+        "views": 1193,
+        "likes": 6,
+        "reposts": 2,
+        "replies": 1
+      },
+      "observed_at": "2026-11-12T10:01:51Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:44Z"
+    },
+    "X:2119902109709537708": {
+      "platform": "X",
+      "url": "https://x.com/rileybrown/status/2119902109709537708",
+      "identity": "2119902109709537708",
+      "works": [
+        "3fa1dd425acb77e0"
+      ],
+      "metrics": {
+        "views": 853458,
+        "likes": 6944,
+        "reposts": 376,
+        "replies": 255
+      },
+      "observed_at": "2026-11-12T10:01:49Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:44Z"
+    },
+    "X:2120007830065614926": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2120007830065614926",
+      "identity": "2120007830065614926",
+      "works": [
+        "7dda52874f6c64fb"
+      ],
+      "metrics": {
+        "views": 22576,
+        "likes": 242,
+        "reposts": 25,
+        "replies": 46
+      },
+      "observed_at": "2026-11-12T10:01:54Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:49Z"
+    },
+    "X:2119887623070077213": {
+      "platform": "X",
+      "url": "https://x.com/danteeonsol/status/2119887623070077213",
+      "identity": "2119887623070077213",
+      "works": [
+        "d3b028f7a07070fb"
+      ],
+      "metrics": {
+        "views": 202,
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:51Z",
+      "error": "IncompleteRead"
+    },
+    "X:2119909780269785332": {
+      "platform": "X",
+      "url": "https://x.com/Scratcherrrr/status/2119909780269785332",
+      "identity": "2119909780269785332",
+      "works": [
+        "36721d74854ceb48"
+      ],
+      "metrics": {
+        "views": 787,
+        "likes": 14,
+        "reposts": 0,
+        "replies": 6
+      },
+      "observed_at": "2026-11-12T10:01:55Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:52Z"
+    },
+    "X:2119905141822484595": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2119905141822484595",
+      "identity": "2119905141822484595",
+      "works": [
+        "ee85a89e19cb5a6d"
+      ],
+      "metrics": {
+        "views": 11272,
+        "likes": 68,
+        "reposts": 16,
+        "replies": 11
+      },
+      "observed_at": "2026-11-12T10:02:03Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:54Z"
+    },
+    "X:2119904269235277978": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2119904269235277978",
+      "identity": "2119904269235277978",
+      "works": [
+        "b228281326e5bd4f"
+      ],
+      "metrics": {
+        "views": 10005,
+        "likes": 55,
+        "reposts": 6,
+        "replies": 6
+      },
+      "observed_at": "2026-11-12T10:01:59Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:55Z"
+    },
+    "X:2119907841599496421": {
+      "platform": "X",
+      "url": "https://x.com/higgsfield_ai/status/2119907841599496421",
+      "identity": "2119907841599496421",
+      "works": [
+        "956ab04f01d71050"
+      ],
+      "metrics": {
+        "views": 12673,
+        "likes": 100,
+        "reposts": 5,
+        "replies": 3
+      },
+      "observed_at": "2026-11-11T11:32:00Z",
+      "status": "stale",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:56Z",
+      "error": "IncompleteRead"
+    },
+    "X:2119906486017307074": {
+      "platform": "X",
+      "url": "https://x.com/fuoeba/status/2119906486017307074",
+      "identity": "2119906486017307074",
+      "works": [
+        "d7ed0b59cec3134d"
+      ],
+      "metrics": {
+        "views": 248,
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "observed_at": "2026-11-12T10:02:05Z",
+      "status": "ok",
+      "scope_notes": [
+        "X"
+      ],
+      "attempted_at": "2026-11-12T10:01:59Z"
+    },
+    "Bilibili:BV1ByWM6mE1D": {
+      "platform": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1ByWM6mE1D/",
+      "identity": "BV1ByWM6mE1D",
+      "works": [
+        "197de41b6ef39044"
+      ],
+      "metrics": {
+        "views": 184,
+        "likes": 2,
+        "comments": 0
+      },
+      "observed_at": "2026-11-12T10:02:04Z",
+      "status": "ok",
+      "scope_notes": [
+        "Bilibili"
+      ],
+      "attempted_at": "2026-11-12T10:02:03Z"
+    }
+  },
+  "votes": {
+    "status": "not_initialized",
+    "observed_at": null,
+    "works": {}
+  }
+}
