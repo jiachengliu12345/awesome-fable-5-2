@@ -8,6 +8,8 @@ Resources for making code-driven 3D games, scenes, interactive experiences and f
 
 ### Start here
 
+For an end-to-end guide to briefs, playtesting, assets, release and code-driven film, see [Making and maintaining 3D creations](LIFECYCLE.md#english).
+
 - **Prototype a browser game:** follow [Three.js: Making a Game](https://threejs.org/manual/pages/game.html) or [PlayCanvas: make a game](https://developer.playcanvas.com/tutorials/crash-course/), then playtest controls and loading on the target device.
 - **Create and check assets:** start with [Kenney](https://kenney.nl/assets), [ambientCG](https://ambientcg.com/) or [Poly Haven](https://polyhaven.com/), and check the terms and formats of each asset.
 - **Work with an agent:** choose a skill for the engine and task, such as [Three.js Game Skills](https://github.com/majidmanzarpour/threejs-game-skills) or [Blender Skill](https://github.com/kajisho5/blender-skill); inspect its instructions and dependencies first.
@@ -117,6 +119,8 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 这里收集制作代码驱动的 3D 游戏、场景、互动体验和影片时可参考的资源。**并非所有资源都使用 Fable 5.2**：来源明确说明时才标注模型或工具，其余作为通用方法。这里是经过筛选的起点，不代表我们已验证每个 Skill 的效果，也不意味着案例库中的作品都使用了这些资源。链接于 2026 年 11 月 12 日（北京时间）检查，访问限制见下文。
 
 ### 从哪里开始
+
+从需求、试玩、资产到发布和代码影片的资料，见 [3D 作品制作与维护](LIFECYCLE.md#简体中文)。
 
 - **做浏览器游戏原型：** 可从 [Three.js 游戏教程](https://threejs.org/manual/pages/game.html)或 [PlayCanvas 游戏入门](https://developer.playcanvas.com/tutorials/crash-course/)开始，再在目标设备上试玩操控和加载。
 - **选择和检查资产：** 先浏览 [Kenney](https://kenney.nl/assets)、[ambientCG](https://ambientcg.com/) 或 [Poly Haven](https://polyhaven.com/)，逐项核对格式与使用条款。
