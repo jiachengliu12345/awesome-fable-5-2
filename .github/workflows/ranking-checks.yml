@@ -1,0 +1,29 @@
+name: Ranking checks
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'data/**'
+      - '*RANKING*.md'
+      - 'POPULARITY.md'
+      - 'README.md'
+      - 'CODE-AUDIT.md'
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - name: Build without network or writes to GitHub
+        run: python scripts/rankings.py
+

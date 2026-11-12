@@ -2,6 +2,8 @@
 
 English | [简体中文](README.zh-CN.md)
 
+**Rankings:** [Platform popularity](POPULARITY.md) · [Reader votes](COMMUNITY-RANKING.md) · [How ranking works](RANKING-RULES.md)
+
 A collection of code-created 3D games, interactive worlds, films, and animations made with [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview), with links to their creators and original work.
 
 - [Code index](#code-index)
