@@ -2,11 +2,94 @@
 
 English | [简体中文](README.zh-CN.md)
 
-**Rankings:** [Platform popularity](POPULARITY.md) · [Reader votes](COMMUNITY-RANKING.md) · [How ranking works](RANKING-RULES.md)
+A collection of code-created 3D games, interactive worlds, films, and animations made with [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview), with links to their creators and original work.
+
+<!-- rankings-preview:start -->
+## Rankings at a glance
+
+**143 works** · **65 with verified code** · **93 measured sources**
+
+[Full popularity rankings](POPULARITY.md) · [Reader votes](COMMUNITY-RANKING.md) · [Ranking rules](RANKING-RULES.md)
+
+### Platform popularity
+
+Platforms rank independently by cumulative views or stars. Each shared source counts once. Dates belong to observations; cached values are not live. Missing data is not zero.
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/x-en-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/x-en-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/x-en-dark.svg">
+  <img src="assets/rankings/x-en-light.svg" alt="X · Top 3. Source views · 58 measured sources. 1. Saltline: 4,228,304; 2026-11-12 09:59:39 UTC · Fetched; 2. Untitled open-world driving game: 3,206,564; 2026-11-12 10:01:11 UTC · Fetched; 3. The Edge: 853,458; 2026-11-12 10:01:49 UTC · Fetched" width="840">
+</picture>
+
+- **1.** [Saltline](<https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp>) — 4,228,304 views · [source](<https://x.com/felixrieseberg/status/2119925633564463609>)
+- **2.** [Untitled open-world driving game](<https://x.com/mattshumer_/status/2120282133503820150>) — 3,206,564 views · [source](<https://x.com/mattshumer_/status/2120282133503820150>)
+- **3.** [The Edge](<https://x.com/rileybrown/status/2119902109709537708>) — 853,458 views · [source](<https://x.com/rileybrown/status/2119902109709537708>)
+
+[Full X ranking](<POPULARITY.md#x>)
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/github-en-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/github-en-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/github-en-dark.svg">
+  <img src="assets/rankings/github-en-light.svg" alt="GitHub · Top 3. Repository stars · 29 measured sources. 1. Portals: 132; 2026-11-11 11:33:00 UTC · Cached; refresh failed; 2. X-Ray Mirror: 36; 2026-11-11 13:20:00 UTC · Cached; refresh failed; 2. fable52-fps-repro · shared by 3 works: 36; 2026-11-11 13:15:00 UTC · Cached; refresh failed" width="840">
+</picture>
+
+- **1.** [Portals](<https://portals-endless-worlds.netlify.app/>) — 132 stars · [source](<https://github.com/emollick/ai-portals>)
+- **2.** [X-Ray Mirror](<https://github.com/MasterOfVFX2070/xray-mirror>) — 36 stars · [source](<https://github.com/MasterOfVFX2070/xray-mirror>)
+- **2.** [Fable 5.2 FPS Reproduction](<https://wquguru.github.io/fable52-fps-repro/>) · [Rainy Dock Materials](<https://wquguru.github.io/fable52-fps-repro/demos/02-materials/>) · [Hard-Surface Modeling Studio](<https://wquguru.github.io/fable52-fps-repro/demos/03-models/>) — 36 stars · [source](<https://github.com/wquguru/fable52-fps-repro>)
+
+[Full GitHub ranking](<POPULARITY.md#github>)
+
+<details>
+<summary>Bilibili and YouTube rankings</summary>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/bilibili-en-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/bilibili-en-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/bilibili-en-dark.svg">
+  <img src="assets/rankings/bilibili-en-light.svg" alt="Bilibili · Top 3. Source views · 4 measured sources. 1. Qingming: Rainbow Bridge · overview / comparison: 27,263; 2026-11-12 10:01:30 UTC · Fetched; 2. Skywake: 197; 2026-11-12 10:00:02 UTC · Fetched; 3. The Life of Qin Shi Huang: 184; 2026-11-12 10:02:04 UTC · Fetched" width="840">
+</picture>
+
+- **1.** [Qingming: Rainbow Bridge](<https://www.aivi.fyi/games/qingming.html>) — 27,263 views · [source](<https://www.bilibili.com/video/BV1gsWg6gEis/>)
+- **2.** [Skywake](<https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057>) — 197 views · [source](<https://www.bilibili.com/video/BV17iWL6TE9w/>)
+- **3.** [The Life of Qin Shi Huang](<https://www.bilibili.com/video/BV1ByWM6mE1D/>) — 184 views · [source](<https://www.bilibili.com/video/BV1ByWM6mE1D/>)
+
+[Full Bilibili ranking](<POPULARITY.md#bilibili>)
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/youtube-en-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/youtube-en-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/youtube-en-dark.svg">
+  <img src="assets/rankings/youtube-en-light.svg" alt="YouTube · Top 3. Source views · 2 measured sources. 1. Turbo Tails · overview / comparison: 130,527; 2026-11-11 11:33:00 UTC · README snapshot; 2. Shared video / post · 2 works: 15,845; 2026-11-11 12:41:00 UTC · README snapshot" width="840">
+</picture>
+
+- **1.** [Turbo Tails](<https://turbo-tails.vercel.app/>) — 130,527 views · [source](<https://www.youtube.com/watch?v=SsSKJA0EHD4>)
+- **2.** [Zombie FPS: AK-47](<https://neurorich.ru/projects/claude-fable-5-2-proekty/>) · [Earth: Neuro Rich](<https://neurorich.ru/projects/claude-fable-5-2-proekty/>) — 15,845 views · [source](<https://www.youtube.com/watch?v=WREAJZnAA2k>)
+
+[Full YouTube ranking](<POPULARITY.md#youtube>)
+
+</details>
+
+Up to three sources per platform; equal values share a rank, with stable ordering within ties. Overview and comparison-video views belong to the whole video.
+
+### Reader choice
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/readers-en-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/readers-en-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/readers-en-dark.svg">
+  <img src="assets/rankings/readers-en-light.svg" alt="Reader choice. Top 5 by reader votes · independent of platform popularity. Voting is not open yet Once enabled, support a work with a thumbs-up on its GitHub ballot comment." width="840">
+</picture>
+
+[Full reader ranking](COMMUNITY-RANKING.md) · [Voting rules](RANKING-RULES.md)
+
+Only works with at least one vote appear here. Add 👍 to a work's designated bot comment; removing it withdraws the vote. One account can support multiple works.
+<!-- rankings-preview:end -->
 
 [Run the local ranking and voting preview](LOCAL.md): `python3 scripts/local_app.py`
 
-A collection of code-created 3D games, interactive worlds, films, and animations made with [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview), with links to their creators and original work.
+## Browse the catalog
 
 - [Code index](#code-index)
 - [Games](#games)

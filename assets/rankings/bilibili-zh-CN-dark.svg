@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="381" viewBox="0 0 840 381" role="img" aria-labelledby="title description" lang="zh-CN">
+<title id="title">Bilibili · 前三条</title>
+<desc id="description">来源浏览量 · 4 个来源有数据. 1. Qingming: Rainbow Bridge · 总览／比较视频: 27,263. 2026-11-12 10:01:30 UTC · 已采集; 2. Skywake: 197. 2026-11-12 10:00:02 UTC · 已采集; 3. The Life of Qin Shi Huang: 184. 2026-11-12 10:02:04 UTC · 已采集</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="839" height="380" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="8" width="5" height="365" rx="2" fill="#39c5cf"/>
+<text x="24" y="39" font-size="26" fill="#e6edf3" font-weight="650" text-anchor="start">Bilibili · 前三条</text>
+<text x="24" y="66" font-size="16" fill="#9da7b1" font-weight="400" text-anchor="start">来源浏览量 · 4 个来源有数据</text>
+<text x="24" y="108" font-size="19" fill="#9da7b1" font-weight="600" text-anchor="start">01</text>
+<text x="816" y="108" font-size="22" fill="#e6edf3" font-weight="650" text-anchor="end">27,263</text>
+<text x="66" y="108" font-size="20" fill="#e6edf3" font-weight="550" text-anchor="start">Qingming: Rainbow Bridge · 总览／比较视频</text>
+<rect x="66" y="124" width="750" height="8" rx="4" fill="#21262d"/>
+<rect x="66" y="124" width="750.00" height="8" rx="4" fill="#39c5cf"/>
+<text x="66" y="156" font-size="15" fill="#9da7b1" font-weight="400" text-anchor="start">2026-11-12 10:01:30 UTC · 已采集</text>
+<text x="24" y="203" font-size="19" fill="#9da7b1" font-weight="600" text-anchor="start">02</text>
+<text x="816" y="203" font-size="22" fill="#e6edf3" font-weight="650" text-anchor="end">197</text>
+<text x="66" y="203" font-size="20" fill="#e6edf3" font-weight="550" text-anchor="start">Skywake</text>
+<rect x="66" y="219" width="750" height="8" rx="4" fill="#21262d"/>
+<rect x="66" y="219" width="5.42" height="8" rx="4" fill="#39c5cf"/>
+<text x="66" y="251" font-size="15" fill="#9da7b1" font-weight="400" text-anchor="start">2026-11-12 10:00:02 UTC · 已采集</text>
+<text x="24" y="298" font-size="19" fill="#9da7b1" font-weight="600" text-anchor="start">03</text>
+<text x="816" y="298" font-size="22" fill="#e6edf3" font-weight="650" text-anchor="end">184</text>
+<text x="66" y="298" font-size="20" fill="#e6edf3" font-weight="550" text-anchor="start">The Life of Qin Shi Huang</text>
+<rect x="66" y="314" width="750" height="8" rx="4" fill="#21262d"/>
+<rect x="66" y="314" width="5.06" height="8" rx="4" fill="#39c5cf"/>
+<text x="66" y="346" font-size="15" fill="#9da7b1" font-weight="400" text-anchor="start">2026-11-12 10:02:04 UTC · 已采集</text>
+</svg>

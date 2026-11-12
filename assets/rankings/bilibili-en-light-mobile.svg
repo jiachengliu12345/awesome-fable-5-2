@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="459" viewBox="0 0 480 459" role="img" aria-labelledby="title description" lang="en">
+<title id="title">Bilibili · Top 3</title>
+<desc id="description">Source views · 4 measured sources. 1. Qingming: Rainbow Bridge · overview / comparison: 27,263. 2026-11-12 10:01:30 UTC · Fetched; 2. Skywake: 197. 2026-11-12 10:00:02 UTC · Fetched; 3. The Life of Qin Shi Huang: 184. 2026-11-12 10:02:04 UTC · Fetched</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="479" height="458" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="8" width="5" height="443" rx="2" fill="#087f8c"/>
+<text x="24" y="39" font-size="26" fill="#24292f" font-weight="650" text-anchor="start">Bilibili · Top 3</text>
+<text x="24" y="66" font-size="16" fill="#57606a" font-weight="400" text-anchor="start">Source views · 4 measured sources</text>
+<text x="24" y="108" font-size="19" fill="#57606a" font-weight="600" text-anchor="start">01</text>
+<text x="456" y="108" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">27,263</text>
+<text x="66" y="108" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">Qingming: Rainbow</text>
+<text x="66" y="134" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">Bridge · overview /</text>
+<text x="66" y="160" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">comparison</text>
+<rect x="66" y="176" width="390" height="8" rx="4" fill="#eef2f6"/>
+<rect x="66" y="176" width="390.00" height="8" rx="4" fill="#087f8c"/>
+<text x="66" y="208" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">2026-11-12 10:01:30 UTC · Fetched</text>
+<text x="24" y="255" font-size="19" fill="#57606a" font-weight="600" text-anchor="start">02</text>
+<text x="456" y="255" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">197</text>
+<text x="66" y="255" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">Skywake</text>
+<rect x="66" y="271" width="390" height="8" rx="4" fill="#eef2f6"/>
+<rect x="66" y="271" width="2.82" height="8" rx="4" fill="#087f8c"/>
+<text x="66" y="303" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">2026-11-12 10:00:02 UTC · Fetched</text>
+<text x="24" y="350" font-size="19" fill="#57606a" font-weight="600" text-anchor="start">03</text>
+<text x="456" y="350" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">184</text>
+<text x="66" y="350" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">The Life of Qin Shi</text>
+<text x="66" y="376" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">Huang</text>
+<rect x="66" y="392" width="390" height="8" rx="4" fill="#eef2f6"/>
+<rect x="66" y="392" width="2.63" height="8" rx="4" fill="#087f8c"/>
+<text x="66" y="424" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">2026-11-12 10:02:04 UTC · Fetched</text>
+</svg>
