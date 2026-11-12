@@ -4,7 +4,7 @@
 
 ## English
 
-A selection of editable code, procedural generators and research datasets for 3D objects. These are **general 3D resources**, not claims of Fable 5.2 use. Sources were checked on 12 November 2026 (UTC+8); see the [search log](CODE-ASSET-SEARCH-LOG.md). Projects and assets were not independently run or rendered. Check the license of each codebase, dataset, third-party asset and output separately.
+A selection of editable code, procedural generators and research datasets for 3D objects. These are **general 3D resources**, not claims of Fable 5.2 use. Sources were checked on 12–13 November 2026 (UTC+8); see the [search log](CODE-ASSET-SEARCH-LOG.md). Projects and assets were not independently run or rendered. Check the license of each codebase, dataset, third-party asset and output separately.
 
 ### Open-source, commercial-use code and node assets
 
@@ -12,6 +12,8 @@ These licenses permit commercial use of the cited project code or assets under t
 
 | Resource | Editable material | License and practical notes |
 | --- | --- | --- |
+| [ProcFunc](https://github.com/princeton-vl/procfunc) | Python primitives and tools for procedural 3D generation, including conversion of Blender Geometry Nodes to editable code. | BSD-3-Clause repository; current README specifies Python 3.11 and `bpy==4.2.0`, with a pre-1.0 API. Check separately licensed generators and assets; not independently run. |
+| [easy-props](https://github.com/AHS12/easy-props) | Shape procedural trees, plants and rocks through controls and export game-ready models. | MIT code; check third-party assets and output rights separately. Not independently run. |
 | [Infinitode Material Library](https://github.com/Infinitode/Material-Library) | More than 200 editable procedural Blender node materials in `.blend` files. | Repository MIT; Blender 3.3 LTS+. The library describes a custom generator, whose source was not found in the repository. Not independently run. |
 | [Easy-Tree](https://github.com/jacobcjohnston/Easy-Tree) | Editable Blender Geometry Nodes trees, including presets, branch and wind controls. | GPL-3.0 code; included ambientCG bark and leaf textures are credited as CC0. Requires Blender 4.5+; output rights are not separately stated. Not independently run. |
 | [Heightmap Level Generator](https://github.com/m-w-marker/heightmap-level-generator) | Browser terrain generation with editable JSON presets, heightmaps and GLB export. | MIT; WebGPU desktop browser required. The maintainer labels included textures CC0 and records their sources; check individual notices. Not independently run. |
@@ -80,7 +82,7 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 ## 简体中文
 
-这里收录可编辑代码、程序化生成器和 3D 对象研究数据集。这些都是**通用 3D 资源**，不代表项目使用了 Fable 5.2。来源核查于 2026 年 11 月 12 日（UTC+8），详见[检索记录](CODE-ASSET-SEARCH-LOG.md)；本项目未独立运行或渲染这些资源。代码库、数据集、第三方素材与生成结果的许可应分别核对。
+这里收录可编辑代码、程序化生成器和 3D 对象研究数据集。这些都是**通用 3D 资源**，不代表项目使用了 Fable 5.2。来源核查于 2026 年 11 月 12—13 日（UTC+8），详见[检索记录](CODE-ASSET-SEARCH-LOG.md)；本项目未独立运行或渲染这些资源。代码库、数据集、第三方素材与生成结果的许可应分别核对。
 
 ### 可商用的开源代码与节点资产
 
@@ -88,6 +90,8 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可编辑内容 | 许可与使用说明 |
 | --- | --- | --- |
+| [ProcFunc](https://github.com/princeton-vl/procfunc) | Python 程序化 3D 生成基础库，支持将 Blender 几何节点转换为可编辑代码。 | 仓库为 BSD-3-Clause；当前 README 指定 Python 3.11 和 `bpy==4.2.0`，API 尚未到 1.0。其他生成器与素材的许可需单独核对；尚未独立运行。 |
+| [easy-props](https://github.com/AHS12/easy-props) | 通过参数调整程序化树木、植物和岩石，并导出游戏模型。 | 代码为 MIT；第三方素材和输出权利需分别核对。尚未独立运行。 |
 | [Infinitode Material Library](https://github.com/Infinitode/Material-Library) | 200 多个可编辑的 Blender 程序化节点材质，提供 `.blend` 文件。 | 仓库为 MIT；需要 Blender 3.3 LTS+。项目介绍了自制生成器，但仓库中未找到其源码。尚未独立运行。 |
 | [Easy-Tree](https://github.com/jacobcjohnston/Easy-Tree) | 可编辑的 Blender 几何节点树木，包含预设以及枝干、风效控制。 | 代码为 GPL-3.0；项目将附带的 ambientCG 树皮和叶片纹理注明为 CC0。需要 Blender 4.5+；生成结果权利未单独说明。尚未独立运行。 |
 | [Heightmap Level Generator](https://github.com/m-w-marker/heightmap-level-generator) | 浏览器地形生成器，支持可编辑的 JSON 预设、高度图及 GLB 导出。 | MIT；需要支持 WebGPU 的桌面浏览器。维护者将内置纹理标为 CC0 并记录其来源；请查看各项声明。尚未独立运行。 |

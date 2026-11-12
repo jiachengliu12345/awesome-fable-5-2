@@ -6,12 +6,13 @@
 
 ## English
 
-These general resources are not necessarily Fable 5.2 examples. Source links and the limitations below were checked on 12 November 2026 (UTC+8); verify current access and terms before use.
+These general resources are not necessarily Fable 5.2 examples. Source links and the limitations below were checked on 12–13 November 2026 (UTC+8); verify current access and terms before use.
 
 ### Agent Skills
 
 | Resource | Best for | Notes |
 | --- | --- | --- |
+| [Guizang Game Skill](https://github.com/op7418/guizang-game-skill/blob/main/SKILL.md) · [Creator's demo](https://op7418.github.io/guizang-game-skill/) | Build and playtest a browser 3D action game with staged asset, combat and packaging workflows. | Skill documents and scripts AGPL-3.0; check source-sharing obligations, including network use. The demo's art, models, voices, music and text are separately all rights reserved. The creator reports using Fable 5.2 and separate asset-generation services; review dependencies and service terms. Not independently run. |
 | [Procedural Modeling Skill](https://github.com/arjun988/blender-skills/blob/main/.claude/skills/procedural-modeling/SKILL.md) | Create parametric Blender assets with Geometry Nodes and modifiers, then bake or export game meshes. | MIT repository and skill; requires Blender and the documented MCP workflow. Not independently run. |
 | [Blender Skills](https://github.com/EL4CTEO/blender-skills) | Blender modeling, rigging, materials, optimization and export skills. | MIT; requires Blender and optionally an MCP connection. Maintainer-reported tests were not independently run. |
 | [Open Game Skills](https://github.com/jammyfu/open-game-skills) | Explore game-feel, camera, combat and engine-specific implementation skills. | MIT; Python and target-engine requirements vary. The maintainer notes that CI does not establish agent routing or playability. Not independently run. |
@@ -52,12 +53,13 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 
 ## 简体中文
 
-这些是通用资源，不一定使用了 Fable 5.2。来源链接与下文记载的限制核查于 2026 年 11 月 12 日（UTC+8）；使用前请核对当前访问条件和条款。
+这些是通用资源，不一定使用了 Fable 5.2。来源链接与下文记载的限制核查于 2026 年 11 月 12—13 日（UTC+8）；使用前请核对当前访问条件和条款。
 
 ### Agent Skills
 
 | 资源 | 适合做什么 | 说明 |
 | --- | --- | --- |
+| [歸藏 Game Skill](https://github.com/op7418/guizang-game-skill/blob/main/SKILL.md) · [创作者演示](https://op7418.github.io/guizang-game-skill/) | 分阶段制作和试玩浏览器 3D 动作游戏，覆盖资产、战斗与打包流程。 | Skill 文档和脚本采用 AGPL-3.0，需核对包括网络使用在内的源码分享义务；演示作品的美术、模型、配音、配乐及文案另为保留所有权利。作者称使用 Fable 5.2 和其他资产生成服务；需核对依赖与服务条款。尚未独立运行。 |
 | [程序化建模 Skill](https://github.com/arjun988/blender-skills/blob/main/.claude/skills/procedural-modeling/SKILL.md) | 使用 Blender 几何节点和修改器制作参数化资产，再烘焙或导出游戏网格。 | 仓库及技能为 MIT；需要 Blender 和文档所述 MCP 工作流。尚未独立运行。 |
 | [Blender Skills](https://github.com/EL4CTEO/blender-skills) | 查找 Blender 建模、绑定、材质、优化与导出技能。 | MIT；需要 Blender，可选连接 MCP。维护者所述测试尚未独立运行。 |
 | [Open Game Skills](https://github.com/jammyfu/open-game-skills) | 查找游戏手感、镜头、战斗及引擎实现相关技能。 | MIT；Python 和目标引擎要求因技能而异。维护者说明 CI 不能证明智能体路由或游戏可玩性；尚未独立运行。 |

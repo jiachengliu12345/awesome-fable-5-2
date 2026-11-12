@@ -111,3 +111,29 @@ After the final accepted increment, five sequential web-index searches around 23
 | 3 | Hugging Face index: `site:huggingface.co/datasets "Blender" "procedural" "code" "cc0"` | Material images and indexes; no newly verified editable procedural source / 材质图片与索引，未核实新的可编辑程序化源码 |
 | 4 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
 | 5 | Reddit index: `site:reddit.com/r/proceduralgeneration "open source" "asset library" blender` | Previously assessed Patch lead and existing resources; no qualified addition / 既有 Patch 线索及已收录资源，无新合格增量 |
+
+## Continued search and reader links / 续查与读者提供的链接 — 2026-11-13
+
+Four Luna workers searched for editable procedural 3D assets, tools and agent skills, with a fifth checking three links supplied during the search. We added ProcFunc and easy-props to the code-asset catalog and Guizang Game Skill to the skills document. We checked original repositories, license notices and existing entries, but did not run or install the projects. ProcFunc is related to Infinigen but provides a separately published primitives API and transpiler; its generators and assets need separate license checks.
+
+四个 Luna 子任务检索可编辑程序化 3D 资产、工具和智能体技能，另一个子任务核查检索中用户提供的三个链接。本轮在代码资产目录新增 ProcFunc、easy-props，并在技能文档加入歸藏 Game Skill。我们核对了原始仓库、许可说明和已有条目，但没有运行或安装项目。ProcFunc 与 Infinigen 相关，但单独发布基础 API 和转译器；其他生成器与资产的许可仍须分别核查。
+
+The creator identifies the [Guizang demo](https://op7418.github.io/guizang-game-skill/) as a Fable 5.2 project and distinguishes AGPL-3.0 Skill code from the demo's separately reserved content. The demo page and its delivered JavaScript responded to direct requests; we did not play it or assess the compressed build as complete source. The supplied `https://lumiogames.cn/g/mist-locked-gate` returned HTTP 404, so its identity and relationship to that demo could not be verified. The supplied [FPS repository](https://github.com/wquguru/fable52-fps-repro) is already represented by three distinct entries in both READMEs and the code audit; it was not counted again.
+
+创作者将[歸藏演示](https://op7418.github.io/guizang-game-skill/)说明为使用 Fable 5.2 制作，并区分 AGPL-3.0 的 Skill 代码和演示作品另行保留权利的内容。演示页面及其交付的 JavaScript 对直接请求有响应；我们没有试玩，也未将压缩后的构建文件认定为完整源码。用户提供的 `https://lumiogames.cn/g/mist-locked-gate` 返回 HTTP 404，因此无法核实其身份及与该演示的关系。用户提供的 [FPS 仓库](https://github.com/wquguru/fable52-fps-repro)已有三个不同作品收录在中英文 README 和代码核验中，本轮未重复计数。
+
+Discovery queries included `GitHub procedural 3D asset generator open source MIT Blender procedural models`, `GitHub SKILL.md procedural 3D modeling agent skill Blender`, and `site:reddit.com procedural 3D asset generator open source MIT Blender`. Kiln and Procedura were already in the wider catalog. An archived Geometry Nodes skill and projects whose asset or model rights were unclear were not added as new recommendations. Failed checks were not counted as no-result rounds.
+
+发现阶段检索了 `GitHub procedural 3D asset generator open source MIT Blender procedural models`、`GitHub SKILL.md procedural 3D modeling agent skill Blender` 和 `site:reddit.com procedural 3D asset generator open source MIT Blender` 等范围。Kiln 和 Procedura 已在其他专题收录；一个已归档的几何节点技能及素材或模型权利不明确的项目未作为新推荐。失败的检查不计入无结果轮次。
+
+After the last accepted increment, five sequential web-index searches around 02:25–02:26 UTC+8 found no further qualified resource, meeting the stop condition. Some queries repeat earlier passes and were actually rerun. These results cover public indexes, not full platform-native search; Reddit, X and YouTube results were sparse. No login, CAPTCHA or access limit was bypassed.
+
+接纳最后一个合格增量后，约 02:25–02:26（UTC+8）依次完成五次网页索引检索，没有新的合格资源，达到停止条件。部分查询与此前相同，均已实际重新执行；结果仅反映公开索引，不代表平台站内全面覆盖。Reddit、X 和 YouTube 索引结果稀疏；未绕过登录、验证码或访问限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | Reddit index: `site:reddit.com "procedural 3d" "asset generator" "MIT" blender` | No indexed results / 索引无结果 |
+| 2 | X index: `site:x.com "procedural" "3d" assets "open source" blender` | No indexed results / 索引无结果 |
+| 3 | Hugging Face index: `site:huggingface.co/datasets "procedural" "3d" "code" "CC0"` | Existing CadQuarry and indexes / 已收录的 CadQuarry 与索引 |
+| 4 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without newly verified source and terms / 教程和合集，未核实新的源码与条款 |
+| 5 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
