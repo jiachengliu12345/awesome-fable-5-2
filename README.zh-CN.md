@@ -4,6 +4,8 @@
 
 **排行榜：** [平台热度榜](POPULARITY.md) · [读者投票榜](COMMUNITY-RANKING.md) · [排名与投票规则](RANKING-RULES.md)
 
+[运行本地排行榜与投票预览](LOCAL.md)：`python3 scripts/local_app.py`
+
 这里汇集了使用 [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview) 编写代码制作的 3D 游戏、交互世界、影片和动画，并附有创作者及原始作品链接。
 
 - [代码索引](#代码索引)
