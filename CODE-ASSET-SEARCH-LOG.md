@@ -67,3 +67,25 @@ After the final accepted increment, five completed web-index searches around 21:
 | 3 | Hugging Face index: `site:huggingface.co/datasets "Blender" "procedural" "code" "cc0"` | Material images and unrelated dataset indexes, not newly verified editable procedural code / 材质图片及无关数据索引，未核实新的可编辑程序化代码 |
 | 4 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
 | 5 | Reddit index: `site:reddit.com/r/proceduralgeneration "open source" "asset library" blender` | Previously assessed Patch catalog and already-listed generators; no new qualified resource / 已核查的 Patch 目录和已收录生成器，未找到新合格资源 |
+
+## Continued tools and asset search / 工具与资产续查 — 2026-11-12
+
+The user supplied Astrocade MCP, and three Luna workers searched for related game-publishing tools and editable procedural 3D assets. This pass added Astrocade, Origin MCP and PlayDrop MCP to the general resource guide, plus five asset or research entries to this catalog. Hosted services are not treated as open-source asset libraries. We checked provider pages, dataset cards and repository licenses; we did not sign in, install, download or run the tools. The Astrocade terms inspected state personal, non-commercial use; the documentation notes separate creator-program agreements may apply.
+
+用户提供 Astrocade MCP 后，三个 Luna 子任务继续检索游戏发布工具和可编辑程序化 3D 资产。本轮在通用资源指南中加入 Astrocade、Origin MCP 和 PlayDrop MCP，并在本目录新增五项资产或研究资源。托管平台不按开源素材库处理。我们核对了服务方页面、数据卡和仓库许可；没有登录、安装、下载或运行这些工具。所查 Astrocade 服务条款写明个人非商业用途，文档也提示可能另有创作者计划协议。
+
+Discovery queries included `AI game creation platform MCP publish game official`, `site:github.com procedural 3D model generator Blender "CC0" asset library`, and `site:reddit.com "procedural" "3d assets" "code" "MIT" generator`. Patch Toolbox remained a previously recorded lead: its asset browser could not be inspected, so its individual systems and licenses were not confirmed. An image-to-3D add-on had no identified license and did not establish editable procedural source. A delegated follow-up failed; the French town nodes and CCORE dataset were subsequently checked against their original repository and dataset card. No failed operation was counted as a no-result search.
+
+发现阶段的查询包括 `AI game creation platform MCP publish game official`、`site:github.com procedural 3D model generator Blender "CC0" asset library` 和 `site:reddit.com "procedural" "3d assets" "code" "MIT" generator`。Patch Toolbox 仍是此前记录的线索：素材浏览页无法检查，具体系统及逐项许可未确认。一个图生 3D 插件未找到许可，也未确认提供可编辑的程序化源码。一次委派复查失败后，我们另行查阅法式小镇节点的原始仓库与 CCORE 数据卡。失败操作未计入无结果轮次。
+
+After the last accepted addition, five sequential web-index searches around 21:34–21:35 UTC+8 found no further qualified increment, meeting the stopping condition. Results are limited to accessible indexed pages, not comprehensive platform-native searches; sparse X and YouTube results and inaccessible individual sources remain limitations. No login or platform restriction was bypassed.
+
+接纳最后一个增量后，约 21:34–21:35（UTC+8）依次完成五次网页索引检索，未找到新的合格增量，达到停止条件。结果限于可访问的公开索引，并非平台站内全面检索；X、YouTube 索引稀疏，部分来源无法访问。未绕过登录或平台限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | X index: `site:x.com "procedural 3d" "asset library" "open source"` | No indexed results / 索引无结果 |
+| 2 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without a newly verified library and terms / 教程和合集，未核实新的素材库及条款 |
+| 3 | Hugging Face index: `site:huggingface.co/datasets "Blender" "procedural" "code" "cc0"` | Material images and unrelated dataset indexes, no new verified procedural source / 材质图片与数据索引，未核实新的程序化源码 |
+| 4 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
+| 5 | Reddit index: `site:reddit.com/r/proceduralgeneration "open source" "asset library" blender` | Previously assessed Patch lead and existing resources; no new qualified entry / 既有 Patch 线索和已收录资源，无新合格条目 |

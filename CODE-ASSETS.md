@@ -12,6 +12,10 @@ These licenses permit commercial use of the cited project code or assets under t
 
 | Resource | Editable material | License and practical notes |
 | --- | --- | --- |
+| [French town Geometry Nodes](https://github.com/IRCSS/Blender-Geometry-Node-French-Houses) | Editable Blender nodes for buildings, bridges, vegetation, water and other town assets. | Repository MIT; Blender 5.0 per README. Check included materials and third-party rights; not independently run. |
+| [Cloud Generator for Blender](https://github.com/bgivenb/blender-cloud-generator) | Parameterized stylized clouds, generated as mesh or volume in Blender. | Repository CC0-1.0; Blender 3.6+. The maintainer reports testing version 2.1 with Blender 4.5.11; not independently run. |
+| [FIELDWORK](https://github.com/purzbeats/fieldwork) | Editable Blender shader node groups and material examples for procedural surfaces. | Add-on code GPL-3.0-or-later; generated node groups, examples and previews CC0-1.0 according to the project. Requires Blender 5.0+; not independently run. |
+| [Spectral GT RS](https://github.com/JaronKBragg7337/spectral-gt-rs) | A single procedural sports-car asset with Blender source, generation scripts and GLB. | The project declares its model, scripts, renders and showcase code CC0-1.0. Not independently run. |
 | [ModKit](https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity) | Procedurally generated modular buildings and props, with Blender source, scripts and GLB/FBX exports. | Project declares meshes, scripts and renders CC0-1.0; inspect any third-party content separately. |
 | [NeuralStock](https://github.com/Neuralstock/neuralstock) | Room Zero collection of Blender source, procedural generators and GLB assets for assembling rooms. | Repository software MIT; published asset content CC0-1.0 according to its asset policy. Provenance and validation are maintainer-reported; verify the rights for each release. |
 | [CGFigures Asset Library](https://www.cgfigures.ca/assetlibrary) | Blender Asset Browser library for scientific visualization, including editable models and node tools. | CC0 1.0 per its creator; free and paid editions are described as identical. Download contents were not independently inspected. |
@@ -59,6 +63,7 @@ These tools expose editable nodes or parameters; their application source code i
 
 | Resource | What is available | Requirements and license |
 | --- | --- | --- |
+| [CCORE ThreeJS 3D GLB Assets](https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets) | 3,918 research examples with editable Three.js/HTML code, previews and GLB exports. | Dataset card marks MIT to the extent of the publisher's rights; inspect per-item provenance and third-party rights. Validation is publisher-reported; not independently reproduced. |
 | [CadQuarry](https://huggingface.co/datasets/jacobjennings/cadquarry) · [generator](https://github.com/jacobjennings/CadQuarry) | Parameterized CadQuery programs and mechanical CAD models, including STEP/STL. | Dataset card states data CC0-1.0 and generator Apache-2.0; check dependencies. Engineering research data, not a game-ready pack; not independently run. |
 | [NovaSceneSmith](https://huggingface.co/datasets/raresense/nova-scenesmith) | 20 generated indoor simulation scenes with editable Python source, GLB and simulation exports. | Dataset card marks Apache-2.0; its credits distinguish the original descriptions and other upstream material. Research scenes, not a curated game pack; files were not independently run. |
 | [SpaceCode-Bench](https://huggingface.co/datasets/KurtDu/SpaceCode-Bench) | Research benchmark with native Blender environments, construction, reconstruction and editing tasks. | Dataset card labels CC BY 4.0. Native scenes are evaluation data, not a curated game-asset pack; source rights and dependencies should be checked separately. |
@@ -78,6 +83,10 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可编辑内容 | 许可与使用说明 |
 | --- | --- | --- |
+| [法式小镇几何节点](https://github.com/IRCSS/Blender-Geometry-Node-French-Houses) | 可编辑的 Blender 节点，可生成建筑、桥梁、植物、水体及其他城镇资产。 | 仓库为 MIT；README 标注 Blender 5.0。需核对附带材质和第三方权利；尚未独立运行。 |
+| [Cloud Generator for Blender](https://github.com/bgivenb/blender-cloud-generator) | 在 Blender 中通过参数生成风格化网格云或体积云。 | 仓库为 CC0-1.0；需要 Blender 3.6+。维护者说明版本 2.1 已在 Blender 4.5.11 测试；尚未独立运行。 |
+| [FIELDWORK](https://github.com/purzbeats/fieldwork) | 可编辑的 Blender 着色器节点组及程序化表面材质示例。 | 插件代码为 GPL-3.0-or-later；项目称生成的节点组、示例和预览为 CC0-1.0。需要 Blender 5.0+；尚未独立运行。 |
+| [Spectral GT RS](https://github.com/JaronKBragg7337/spectral-gt-rs) | 单个程序化跑车资产，提供 Blender 源文件、生成脚本和 GLB。 | 项目将模型、脚本、渲染图及展示代码标为 CC0-1.0；尚未独立运行。 |
 | [ModKit](https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity) | 程序化生成的模块化建筑与道具，提供 Blender 源文件、脚本和 GLB/FBX 导出。 | 项目将网格、脚本和渲染图标为 CC0-1.0；第三方内容仍须单独核对。 |
 | [NeuralStock](https://github.com/Neuralstock/neuralstock) | Room Zero 室内组合资产，含 Blender 源文件、程序化生成器和 GLB 素材。 | 仓库软件为 MIT；资产政策将已发布素材标为 CC0-1.0。来源和验证情况由维护者报告，使用时核对各版本的权利记录。 |
 | [CGFigures Asset Library](https://www.cgfigures.ca/assetlibrary) | 面向科学可视化的 Blender 资产浏览器素材库，含可编辑模型和节点工具。 | 创建者标为 CC0 1.0；免费和付费版本据称内容相同。尚未独立检查下载文件。 |
@@ -125,6 +134,7 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可获得什么 | 依赖与许可 |
 | --- | --- | --- |
+| [CCORE ThreeJS 3D GLB Assets](https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets) | 3,918 个研究样例，含可编辑 Three.js/HTML 代码、预览图和 GLB 导出。 | 数据卡在发布者所拥有权利范围内标为 MIT；需逐项核对来源及第三方权利。验证结果由发布方报告，尚未独立复现。 |
 | [CadQuarry](https://huggingface.co/datasets/jacobjennings/cadquarry) · [生成器](https://github.com/jacobjennings/CadQuarry) | 参数化 CadQuery 程序和机械 CAD 模型，包括 STEP/STL。 | 数据卡注明数据为 CC0-1.0、生成器为 Apache-2.0；需核对依赖。这是工程研究数据，并非现成游戏素材包；尚未独立运行。 |
 | [NovaSceneSmith](https://huggingface.co/datasets/raresense/nova-scenesmith) | 20 个生成式室内仿真场景，附可编辑 Python 源码、GLB 和仿真格式导出。 | 数据卡标为 Apache-2.0；来源说明区分原始场景描述及其他上游材料。这是研究场景，并非专门整理的游戏素材包；尚未独立运行文件。 |
 | [SpaceCode-Bench](https://huggingface.co/datasets/KurtDu/SpaceCode-Bench) | 含 Blender 原生场景的研究评测集，覆盖场景构建、重建和编辑任务。 | 数据卡标为 CC BY 4.0。原生场景属于评测数据，并非专门整理的游戏素材包；应分别核对来源权利和依赖。 |
