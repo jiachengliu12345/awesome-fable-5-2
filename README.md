@@ -4,6 +4,8 @@ English | [简体中文](README.zh-CN.md)
 
 A collection of code-created 3D games, interactive worlds, films, and animations made with [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview), with links to their creators and original work.
 
+**Explore:** [Works](#browse-the-catalog) · [Code](#code-index) · [Resources](RESOURCES.md#english) · [3D assets](CODE-ASSETS.md#english) · [Making and maintaining](LIFECYCLE.md#english) · [Community](COMMUNITY-FEEDBACK.md#english)
+
 <!-- rankings-preview:start -->
 ## Rankings at a glance
 

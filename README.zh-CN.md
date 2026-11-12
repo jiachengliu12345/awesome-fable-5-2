@@ -4,6 +4,8 @@
 
 这里汇集了使用 [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview) 编写代码制作的 3D 游戏、交互世界、影片和动画，并附有创作者及原始作品链接。
 
+**快速浏览：**[作品](#浏览作品目录) · [代码](#代码索引) · [资源](RESOURCES.md#简体中文) · [3D 资产](CODE-ASSETS.md#简体中文) · [制作与维护](LIFECYCLE.md#简体中文) · [社区](COMMUNITY-FEEDBACK.md#简体中文)
+
 <!-- rankings-preview:start -->
 ## 榜单速览
 

@@ -36,7 +36,7 @@ These licenses permit commercial use of the cited project code or assets under t
 
 | Resource | What is available | Requirements and license |
 | --- | --- | --- |
-| [Sand3D](https://github.com/Sandflow-ai/sand3d) · [datasets](https://huggingface.co/collections/Sandflow/sand3d) | Parameterized Python parts, joints and assemblies plus five collections of reconstructed object programs. | Library Apache-2.0; dataset cards label programs/renders/USD CC BY 4.0 and retain source licenses and attribution. See [dataset notes](RESOURCES.md#asset-libraries-and-production-tools), including CADFS and AutoMate source-rights caveats. |
+| [Sand3D](https://github.com/Sandflow-ai/sand3d) · [datasets](https://huggingface.co/collections/Sandflow/sand3d) | Parameterized Python parts, joints and assemblies plus five collections of reconstructed object programs. | Library Apache-2.0; dataset cards label programs/renders/USD CC BY 4.0 and retain source licenses and attribution. See [dataset notes](resources/ASSET-TOOLS.md#asset-libraries-and-production-tools), including CADFS and AutoMate source-rights caveats. |
 | [Infinigen](https://github.com/princeton-vl/infinigen) | Blender/Python procedural generators for natural and indoor scenes and individual objects, with export workflows. | Source repository BSD-3-Clause; output and third-party content rights are not established by that code license. Requires a compatible Blender environment and compute; not a ready-made model pack. |
 | [Game assets by holokat](https://github.com/holokat/game-assets) · [playground](https://assets.brackenwake.com/) | Three.js procedural characters, equipment, effects and models, plus downloadable GLBs and Blender-source collections. | Project-authored code and assets MIT; retargeted Quaternius motions are CC0 according to the project. Check the repository's individual third-party notices. |
 | [SeedThree](https://github.com/SkyeShark/SeedThree) · [live demo](https://skyeshark.github.io/SeedThree/) | Tune procedural trees and plants for Three.js and export GLB. | MIT repository; early alpha. The project targets WebGPU and describes a WebGL2 fallback. Check individual asset rights and actual device behavior. |
@@ -107,7 +107,7 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可获得什么 | 依赖与许可 |
 | --- | --- | --- |
-| [Sand3D](https://github.com/Sandflow-ai/sand3d) · [数据集](https://huggingface.co/collections/Sandflow/sand3d) | 参数化 Python 零件、关节和装配体，以及五组重建对象的程序。 | 建模库为 Apache-2.0；数据卡将程序、渲染图和 USD 标为 CC BY 4.0，保留来源许可与署名。CADFS 和 AutoMate 的原始权利提示等详见[数据集说明](RESOURCES.md#资产库与制作工具)。 |
+| [Sand3D](https://github.com/Sandflow-ai/sand3d) · [数据集](https://huggingface.co/collections/Sandflow/sand3d) | 参数化 Python 零件、关节和装配体，以及五组重建对象的程序。 | 建模库为 Apache-2.0；数据卡将程序、渲染图和 USD 标为 CC BY 4.0，保留来源许可与署名。CADFS 和 AutoMate 的原始权利提示等详见[数据集说明](resources/ASSET-TOOLS.md#资产库与制作工具)。 |
 | [Infinigen](https://github.com/princeton-vl/infinigen) | 使用 Blender/Python 程序化生成自然场景、室内场景和单个对象，并提供导出流程。 | 源码仓库为 BSD-3-Clause；代码许可不能直接说明生成结果和第三方内容的权利。需要兼容的 Blender 环境与算力，并非现成模型包。 |
 | [holokat 游戏资产](https://github.com/holokat/game-assets) · [试玩与浏览](https://assets.brackenwake.com/) | Three.js 程序化角色、装备、特效和模型，另有可下载 GLB 与 Blender 源文件素材。 | 项目自制代码和资产为 MIT；按项目说明，重定向的 Quaternius 动作为 CC0。仍应查看仓库内各第三方许可说明。 |
 | [SeedThree](https://github.com/SkyeShark/SeedThree) · [在线演示](https://skyeshark.github.io/SeedThree/) | 调整 Three.js 程序化树木与植物参数，导出 GLB。 | 仓库为 MIT；处于早期 alpha。项目以 WebGPU 为主要路径，并说明有 WebGL2 降级；需核对具体素材权利及设备效果。 |
