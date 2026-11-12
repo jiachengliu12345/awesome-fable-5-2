@@ -33,11 +33,21 @@
 
 ```sh
 python3 -m unittest discover -s tests -v
-python3 scripts/rankings.py            # 离线：使用已保存的观测生成 Markdown
+python3 scripts/rankings.py            # 离线：生成完整榜单、中英文 README 速览和 SVG 图表
 python3 scripts/rankings.py --refresh  # 联网：只读取数据，不发布 Issue 或评论
 ```
 
 源清单为 `README.md`，结构化观测为 `data/rankings.json`，投票区定位为 `data/voting.json`。不要手工改生成的两个榜单文件。
+
+### README 榜单速览
+
+`scripts/rankings.py` 在生成完整榜单时，也会通过 `scripts/readme_rankings.py` 同步更新中英文 README 中 `<!-- rankings-preview:start -->` 与 `<!-- rankings-preview:end -->` 之间的内容，以及 `assets/rankings/` 下的 SVG。标记外的正文和作品目录保留；请勿删除、复制或手工编辑生成区域的标记。
+
+首页默认展示 X、GitHub 各前三条来源；Bilibili 和 YouTube 放在折叠区。图表保留实际观测时间、缓存状态、共用来源和总览／比较视频说明；同数值同名次，预览在稳定排序后截取最多三条，完整榜单保留所有来源。图下的原生文字链接提供作品和来源入口。
+
+读者榜展示最多五件至少获得一票的作品，同票保持稳定顺序。未开放、暂无票数、统计失败和关闭状态分别显示；统计失败时保留已有快照及其时间。图表只使用正式的 `data/rankings.json`，不读取 `.local/` 的测试投票。每张图生成英文、中文、深浅色和窄屏版本，由 README 的 `<picture>` 选择，图片缺失时仍有说明文字与完整榜单链接。
+
+本地离线生成无需网络、第三方 Python 包或 GitHub 权限。定时工作流会将两份 README 和图表随榜单一起提交；推送失败时也会保留在恢复 artifact 中。
 
 ## English
 
@@ -48,6 +58,10 @@ Readers vote with 👍 on the designated bot comment for a work. Each GitHub acc
 After merging, run **Refresh rankings** on `main` with **initialize_votes** checked. Repeat that manual operation when new works are added; existing comments are reused. Refreshes are scheduled for 01:17 and 13:17 UTC and can be delayed by GitHub. No server or personal access token is required. A blocked bot push leaves a recovery artifact rather than bypassing repository rules.
 
 Failed fetches retain the previous observation as `stale`; missing data is never zero. YouTube remains a dated manual snapshot. X uses a third-party reader. Each work's evidence status remains separate from popularity. Work names define voting IDs, so renames need an explicit comment-marker migration to preserve votes.
+
+Run `python3 scripts/rankings.py` to rebuild both full rankings, the English and Chinese README previews, and the SVGs under `assets/rankings/` offline. Only the README content between the `rankings-preview:start` and `rankings-preview:end` HTML comments is generated; keep both markers intact and edit the catalog outside that block. No third-party Python packages are required.
+
+The homepage previews at most three sources per platform, with Bilibili and YouTube collapsed, and at most five works with positive reader votes. Equal scores retain their competition rank and stable order; all entries remain in the full rankings. Images include source timestamps and cache labels, with light, dark and narrow-screen variants. Shared sources and comparison videos retain their scope labels. Native Markdown links below the charts open works, original sources and ballot comments. Local test votes never enter these previews. The refresh workflow commits the README and SVG updates alongside the full rankings and includes them in recovery artifacts if publishing fails.
 
 ## API references / 接口依据
 

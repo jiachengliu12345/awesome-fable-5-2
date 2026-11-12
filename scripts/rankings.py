@@ -14,6 +14,8 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 
+from readme_rankings import render_homepages
+
 ROOT = Path(__file__).resolve().parents[1]
 REPOSITORY = "jiachengliu12345/awesome-fable-5-2"
 SECTIONS = {"Games", "Interactive worlds and simulations", "3D films and animations"}
@@ -321,6 +323,7 @@ def ranked(items, value):
 
 
 def render(works, sources, registry, votes):
+    platform_rows = {}
     intro = ["# Platform popularity / 平台热度榜", "",
              "[Reader votes / 读者投票榜](COMMUNITY-RANKING.md) · [Rules / 规则](RANKING-RULES.md) · [Catalog / 作品清单](README.md)", "",
              "Separate rankings by platform: X / Bilibili / YouTube use views; GitHub uses stars. These are cumulative **source** metrics, not a quality score or a recent-growth chart. Shared posts, videos and repositories appear once. / 各平台分榜，按累计浏览量或 Star 排序；共同来源只计一次，不代表质量或近期增速。", "",
@@ -328,8 +331,9 @@ def render(works, sources, registry, votes):
     for platform in PLATFORMS:
         primary = "stars" if platform == "GitHub" else "views"
         entries = [(key, entry) for key, entry in sources.items() if entry["platform"] == platform and primary in entry["metrics"]]
+        platform_rows[platform] = list(ranked(entries, lambda item: item[1]["metrics"][primary]))
         intro += ["## " + platform, "", "| Rank / 排名 | Works / 作品 | Source / 来源 | " + primary + " | Other metrics / 其他数据 | Observed (UTC) / 数据时间 | Status / 状态 |", "| --- | --- | --- | ---: | --- | --- | --- |"]
-        for rank, (_, entry) in ranked(entries, lambda item: item[1]["metrics"][primary]):
+        for rank, (_, entry) in platform_rows[platform]:
             names = " · ".join(work_link(works[i]) for i in entry["works"])
             label = " / ".join(entry["scope_notes"]) or platform
             if len(entry["works"]) > 1:
@@ -354,7 +358,8 @@ def render(works, sources, registry, votes):
         lines += ["Refresh failed; displayed totals are the last successful observation, if available. / 更新失败，保留上次成功统计，未知不计零。", ""]
     lines += ["| Rank / 排名 | Work / 作品 | 👍 | Vote / 投票 | Code audit / 代码核验 |", "| --- | --- | ---: | --- | --- |"]
     known = [(w["name"], i) for i, w in works.items() if i in votes.get("works", {})]
-    for rank, (_, work_id) in ranked(known, lambda item: votes["works"][item[1]]["votes"]):
+    vote_rows = list(ranked(known, lambda item: votes["works"][item[1]]["votes"]))
+    for rank, (_, work_id) in vote_rows:
         w, v = works[work_id], votes["works"][work_id]
         lines.append(f"| {rank} | {work_link(w)} | {v['votes']:,} | [Vote / 投票]({v['url']}) | {escape(w['audit'])} |")
     for work_id, work in works.items():
@@ -362,6 +367,7 @@ def render(works, sources, registry, votes):
             lines.append(f"| — | {work_link(work)} | — | Not initialized / 待建立 | {escape(work['audit'])} |")
     lines += ["", "Equal counts share a rank. A dash is unknown, not zero. Bot accounts and coordinated voting are not filtered; this is a community preference poll. / 同票同名次；破折号不是零。未过滤机器人账号或组织投票，本榜仅表达社区偏好。", ""]
     (ROOT / "COMMUNITY-RANKING.md").write_text("\n".join(lines))
+    render_homepages(ROOT, works, platform_rows, registry, votes, vote_rows)
 
 
 def main():

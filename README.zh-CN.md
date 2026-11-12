@@ -2,9 +2,94 @@
 
 简体中文 | [English](README.md)
 
-**排行榜：** [平台热度榜](POPULARITY.md) · [读者投票榜](COMMUNITY-RANKING.md) · [排名与投票规则](RANKING-RULES.md)
-
 这里汇集了使用 [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview) 编写代码制作的 3D 游戏、交互世界、影片和动画，并附有创作者及原始作品链接。
+
+<!-- rankings-preview:start -->
+## 榜单速览
+
+**143 件作品** · **65 件代码已核实** · **93 个来源已有热度数据**
+
+[完整平台热度榜](POPULARITY.md) · [读者投票榜](COMMUNITY-RANKING.md) · [排名规则](RANKING-RULES.md)
+
+### 平台热度
+
+各平台按累计浏览量或 Star 独立排名，共用来源只计一次。图中日期为实际观测时间，缓存数值并非实时数据；缺失不计零。
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/x-zh-CN-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/x-zh-CN-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/x-zh-CN-dark.svg">
+  <img src="assets/rankings/x-zh-CN-light.svg" alt="X · 前三条. 来源浏览量 · 58 个来源有数据. 1. Saltline: 4,228,304; 2026-11-12 09:59:39 UTC · 已采集; 2. Untitled open-world driving game: 3,206,564; 2026-11-12 10:01:11 UTC · 已采集; 3. The Edge: 853,458; 2026-11-12 10:01:49 UTC · 已采集" width="840">
+</picture>
+
+- **1.** [Saltline](<https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp>) — 4,228,304 次浏览 · [来源](<https://x.com/felixrieseberg/status/2119925633564463609>)
+- **2.** [Untitled open-world driving game](<https://x.com/mattshumer_/status/2120282133503820150>) — 3,206,564 次浏览 · [来源](<https://x.com/mattshumer_/status/2120282133503820150>)
+- **3.** [The Edge](<https://x.com/rileybrown/status/2119902109709537708>) — 853,458 次浏览 · [来源](<https://x.com/rileybrown/status/2119902109709537708>)
+
+[查看完整 X 榜单](<POPULARITY.md#x>)
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/github-zh-CN-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/github-zh-CN-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/github-zh-CN-dark.svg">
+  <img src="assets/rankings/github-zh-CN-light.svg" alt="GitHub · 前三条. 仓库 Star · 29 个来源有数据. 1. Portals: 132; 2026-11-11 11:33:00 UTC · 缓存；刷新失败; 2. X-Ray Mirror: 36; 2026-11-11 13:20:00 UTC · 缓存；刷新失败; 2. fable52-fps-repro · 共用仓库（3 件作品）: 36; 2026-11-11 13:15:00 UTC · 缓存；刷新失败" width="840">
+</picture>
+
+- **1.** [Portals](<https://portals-endless-worlds.netlify.app/>) — 132 Star · [来源](<https://github.com/emollick/ai-portals>)
+- **2.** [X-Ray Mirror](<https://github.com/MasterOfVFX2070/xray-mirror>) — 36 Star · [来源](<https://github.com/MasterOfVFX2070/xray-mirror>)
+- **2.** [Fable 5.2 FPS Reproduction](<https://wquguru.github.io/fable52-fps-repro/>) · [Rainy Dock Materials](<https://wquguru.github.io/fable52-fps-repro/demos/02-materials/>) · [Hard-Surface Modeling Studio](<https://wquguru.github.io/fable52-fps-repro/demos/03-models/>) — 36 Star · [来源](<https://github.com/wquguru/fable52-fps-repro>)
+
+[查看完整 GitHub 榜单](<POPULARITY.md#github>)
+
+<details>
+<summary>展开 Bilibili、YouTube 榜单</summary>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/bilibili-zh-CN-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/bilibili-zh-CN-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/bilibili-zh-CN-dark.svg">
+  <img src="assets/rankings/bilibili-zh-CN-light.svg" alt="Bilibili · 前三条. 来源浏览量 · 4 个来源有数据. 1. Qingming: Rainbow Bridge · 总览／比较视频: 27,263; 2026-11-12 10:01:30 UTC · 已采集; 2. Skywake: 197; 2026-11-12 10:00:02 UTC · 已采集; 3. The Life of Qin Shi Huang: 184; 2026-11-12 10:02:04 UTC · 已采集" width="840">
+</picture>
+
+- **1.** [Qingming: Rainbow Bridge](<https://www.aivi.fyi/games/qingming.html>) — 27,263 次浏览 · [来源](<https://www.bilibili.com/video/BV1gsWg6gEis/>)
+- **2.** [Skywake](<https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057>) — 197 次浏览 · [来源](<https://www.bilibili.com/video/BV17iWL6TE9w/>)
+- **3.** [The Life of Qin Shi Huang](<https://www.bilibili.com/video/BV1ByWM6mE1D/>) — 184 次浏览 · [来源](<https://www.bilibili.com/video/BV1ByWM6mE1D/>)
+
+[查看完整 Bilibili 榜单](<POPULARITY.md#bilibili>)
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/youtube-zh-CN-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/youtube-zh-CN-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/youtube-zh-CN-dark.svg">
+  <img src="assets/rankings/youtube-zh-CN-light.svg" alt="YouTube · 前三条. 来源浏览量 · 2 个来源有数据. 1. Turbo Tails · 总览／比较视频: 130,527; 2026-11-11 11:33:00 UTC · README 快照; 2. 共用视频／帖子 · 2 件作品: 15,845; 2026-11-11 12:41:00 UTC · README 快照" width="840">
+</picture>
+
+- **1.** [Turbo Tails](<https://turbo-tails.vercel.app/>) — 130,527 次浏览 · [来源](<https://www.youtube.com/watch?v=SsSKJA0EHD4>)
+- **2.** [Zombie FPS: AK-47](<https://neurorich.ru/projects/claude-fable-5-2-proekty/>) · [Earth: Neuro Rich](<https://neurorich.ru/projects/claude-fable-5-2-proekty/>) — 15,845 次浏览 · [来源](<https://www.youtube.com/watch?v=WREAJZnAA2k>)
+
+[查看完整 YouTube 榜单](<POPULARITY.md#youtube>)
+
+</details>
+
+每个平台预览最多三条来源，同数值同名次，组内保持稳定顺序。总览或比较视频的播放量属于整段视频。
+
+### 读者选择
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/rankings/readers-zh-CN-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/rankings/readers-zh-CN-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rankings/readers-zh-CN-dark.svg">
+  <img src="assets/rankings/readers-zh-CN-light.svg" alt="读者选择. 读者票数前五 · 独立于平台热度. 尚未开放投票 启用后，在作品的 GitHub 投票评论上点 👍。" width="840">
+</picture>
+
+[完整读者榜](COMMUNITY-RANKING.md) · [投票规则](RANKING-RULES.md)
+
+这里仅展示至少获得一票的作品。在指定机器人评论上点 👍 即投票，取消即可撤票，每个账号可支持多个作品。
+<!-- rankings-preview:end -->
+
+[运行本地排行榜与投票预览](LOCAL.md)：`python3 scripts/local_app.py`
+
+## 浏览作品目录
 
 - [代码索引](#代码索引)
 - [游戏](#游戏)

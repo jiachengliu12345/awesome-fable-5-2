@@ -9,6 +9,8 @@ on:
       - '*RANKING*.md'
       - 'POPULARITY.md'
       - 'README.md'
+      - 'README.zh-CN.md'
+      - 'assets/rankings/**'
       - 'CODE-AUDIT.md'
       - '.github/workflows/**'
 

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="407" viewBox="0 0 480 407" role="img" aria-labelledby="title description" lang="en">
+<title id="title">X · Top 3</title>
+<desc id="description">Source views · 58 measured sources. 1. Saltline: 4,228,304. 2026-11-12 09:59:39 UTC · Fetched; 2. Untitled open-world driving game: 3,206,564. 2026-11-12 10:01:11 UTC · Fetched; 3. The Edge: 853,458. 2026-11-12 10:01:49 UTC · Fetched</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="479" height="406" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="8" width="5" height="391" rx="2" fill="#0969da"/>
+<text x="24" y="39" font-size="26" fill="#24292f" font-weight="650" text-anchor="start">X · Top 3</text>
+<text x="24" y="66" font-size="16" fill="#57606a" font-weight="400" text-anchor="start">Source views · 58 measured sources</text>
+<text x="24" y="108" font-size="19" fill="#57606a" font-weight="600" text-anchor="start">01</text>
+<text x="456" y="108" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">4,228,304</text>
+<text x="66" y="108" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">Saltline</text>
+<rect x="66" y="124" width="390" height="8" rx="4" fill="#eef2f6"/>
+<rect x="66" y="124" width="390.00" height="8" rx="4" fill="#0969da"/>
+<text x="66" y="156" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">2026-11-12 09:59:39 UTC · Fetched</text>
+<text x="24" y="203" font-size="19" fill="#57606a" font-weight="600" text-anchor="start">02</text>
+<text x="456" y="203" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">3,206,564</text>
+<text x="66" y="203" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">Untitled open-world</text>
+<text x="66" y="229" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">driving game</text>
+<rect x="66" y="245" width="390" height="8" rx="4" fill="#eef2f6"/>
+<rect x="66" y="245" width="295.76" height="8" rx="4" fill="#0969da"/>
+<text x="66" y="277" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">2026-11-12 10:01:11 UTC · Fetched</text>
+<text x="24" y="324" font-size="19" fill="#57606a" font-weight="600" text-anchor="start">03</text>
+<text x="456" y="324" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">853,458</text>
+<text x="66" y="324" font-size="20" fill="#24292f" font-weight="550" text-anchor="start">The Edge</text>
+<rect x="66" y="340" width="390" height="8" rx="4" fill="#eef2f6"/>
+<rect x="66" y="340" width="78.72" height="8" rx="4" fill="#0969da"/>
+<text x="66" y="372" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">2026-11-12 10:01:49 UTC · Fetched</text>
+</svg>

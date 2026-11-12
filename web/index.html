@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fable 5.2 · 作品热度榜</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <a href="/" class="wordmark" aria-label="Fable 5.2 首页">fable<span>5.2</span></a>
+    <div class="header-right"><span class="local-label">本地预览</span><a href="https://github.com/jiachengliu12345/awesome-fable-5-2" target="_blank" rel="noopener noreferrer">GitHub 项目</a></div>
+  </header>
+  <main>
+    <section class="intro">
+      <div><h1>作品热度榜<span class="title-dot">。</span></h1><p>游戏、交互世界与代码动画。看传播，也看读者选择。</p></div>
+      <div class="catalog-count"><strong id="work-count">—</strong><span>个作品，共同探索</span></div>
+    </section>
+    <nav class="mode-tabs" aria-label="榜单类型">
+      <button id="platform-mode" class="mode active" aria-pressed="true">平台热度</button>
+      <button id="vote-mode" class="mode" aria-pressed="false">读者投票 <span>本地试投</span></button>
+    </nav>
+    <section class="board" aria-label="排行榜">
+      <div class="board-top"><div><h2 id="board-title">平台热度</h2><p id="board-description">正在读取已保存的数据…</p></div><button id="refresh" class="refresh-button" disabled>更新平台数据</button></div>
+      <div id="platforms" class="platform-tabs" aria-label="选择平台">
+        <button data-platform="X" class="active" aria-pressed="true">X</button>
+        <button data-platform="GitHub" aria-pressed="false">GitHub</button>
+        <button data-platform="Bilibili" aria-pressed="false">Bilibili</button>
+        <button data-platform="YouTube" aria-pressed="false">YouTube</button>
+      </div>
+      <div id="vote-notice" class="vote-notice" hidden>这里的票数仅用于本地测试，保存在这台电脑上，不计入 GitHub 正式投票。每个浏览器对每个作品计一次，可撤回。</div>
+      <div class="filters">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索作品或创作者" aria-label="搜索作品或创作者"></label>
+        <label class="category-label"><span class="sr-only">作品分类</span><select id="category"><option value="">全部分类</option><option value="Games">游戏</option><option value="Interactive worlds and simulations">交互世界</option><option value="3D films and animations">影片与动画</option></select></label>
+        <span id="result-count" class="result-count"></span>
+      </div>
+      <div id="notice" class="notice" role="status" aria-live="polite"></div>
+      <div class="table-wrap">
+        <table><thead><tr><th class="rank-column" scope="col">排名</th><th scope="col">作品 / 创作者</th><th id="meta-column" scope="col">数据来源</th><th id="score-column" scope="col" class="score-column">浏览量</th></tr></thead><tbody id="rows"><tr><td colspan="4" class="empty">正在加载作品…</td></tr></tbody></table>
+      </div>
+      <p id="table-note" class="table-note">同一帖子、视频或仓库只计一次。筛选保留原榜名次。</p>
+    </section>
+    <footer><span>热度不等于质量，票数不代替代码核验。</span><span>数据时间均按北京时间显示。</span></footer>
+    <details class="rules"><summary>数据与投票说明</summary><p>X、Bilibili 和 YouTube 按累计浏览量排名，GitHub 按仓库 Star 排名。各平台独立比较，共用来源合并展示。更新失败会保留旧值，未知不会记为零；YouTube 暂使用历史快照。</p><p>本地投票不需要登录。清除浏览器 Cookie 或使用其他浏览器会视作另一位测试访客，因此它只用于验证交互，不适合作为公开投票系统。重启服务后票数仍保留。</p><p><a href="https://github.com/jiachengliu12345/awesome-fable-5-2/blob/main/CODE-AUDIT.md" target="_blank" rel="noopener noreferrer">查看代码与模型核验记录</a></p></details>
+  </main>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

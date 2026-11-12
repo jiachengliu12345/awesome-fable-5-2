@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="174" viewBox="0 0 480 174" role="img" aria-labelledby="title description" lang="zh-CN">
+<title id="title">读者选择</title>
+<desc id="description">读者票数前五 · 独立于平台热度. 尚未开放投票 启用后，在作品的 GitHub 投票评论上点 👍。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="479" height="173" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="8" width="5" height="158" rx="2" fill="#3fb950"/>
+<text x="24" y="39" font-size="26" fill="#e6edf3" font-weight="650" text-anchor="start">读者选择</text>
+<text x="24" y="66" font-size="16" fill="#9da7b1" font-weight="400" text-anchor="start">读者票数前五 · 独立于平台热度</text>
+<text x="24" y="108" font-size="22" fill="#e6edf3" font-weight="600" text-anchor="start">尚未开放投票</text>
+<text x="24" y="142" font-size="17" fill="#9da7b1" font-weight="400" text-anchor="start">启用后，在作品的 GitHub 投票评论上点 👍。</text>
+</svg>
