@@ -19,3 +19,25 @@ The last accepted increment was FoldNet, with the generator's code license expli
 | 3 | Xiaohongshu index: `3D 程序化 建模 资产库 代码 开源` | Irrelevant platform documents and job listings / 平台说明及招聘，未见合格资产库 |
 | 4 | Bilibili index: `"程序化" "3D" "开源" "资产" Blender Python 资源库` | Tutorials and download listings; no newly verified code-asset library with clear source and terms / 教程与下载合集，未找到新核实的代码资产库及明确条款 |
 | 5 | DEV index: `"procedural 3d" "asset library" "open source" code game` | No indexed results / 索引无结果 |
+
+## Continued search / 后续检索 — 2026-11-12
+
+Parallel Luna workers searched GitHub, Hugging Face, Reddit and official sites for editable procedural 3D code, node assets and scene data. This pass added ten distinct resources to the bilingual catalog and linked an expanded corpus under the existing 3DCodeBench entry rather than counting its benchmark twice. Kiln and img2threejs already appear in the wider resource guide. Code, generated outputs, node graphs, paid assets and dataset rights are distinguished in the catalog. We inspected public descriptions and licenses; we did not install software, log in, download the datasets or run the assets.
+
+本轮由 Luna 并行检索 GitHub、Hugging Face、Reddit 和项目官网，范围包括可编辑的程序化 3D 代码、节点资产与场景数据。双语目录新增 10 项不同资源；3DCodeBench 的扩展语料并入原条目，未将同一评测集重复计数。Kiln 和 img2threejs 已在资源指南中。目录分别说明代码、生成结果、节点图、付费资产和数据集的许可；本次仅核对公开说明及许可，没有安装软件、登录、下载数据集或运行资产。
+
+Discovery queries included `procedural 3D assets generator Blender geometry nodes`, `Three.js procedural model generator export glb`, `site:reddit.com/r/threejs procedural model library generator source code models`, and `site:huggingface.co/datasets procedural 3D scene Blender Python environment dataset code generation scenes`. Polyspoon's cited GitHub repository returned 404, so source and license remain unconfirmed. Patch Toolbox's asset browser returned an internal error; the publisher describes a mixed catalog with per-item licenses, but individual source access and rights were not verified. IDEAL-Scenes' file listing could not be inspected. These restricted checks are leads, not completed no-result rounds.
+
+发现阶段的查询包括 `procedural 3D assets generator Blender geometry nodes`、`Three.js procedural model generator export glb`、`site:reddit.com/r/threejs procedural model library generator source code models` 和 `site:huggingface.co/datasets procedural 3D scene Blender Python environment dataset code generation scenes`。Polyspoon 所引用的 GitHub 仓库返回 404，源码和许可待确认；Patch Toolbox 的素材浏览页返回内部错误，发布方描述其为逐项授权的混合素材目录，但具体源码入口及权利未核实；IDEAL-Scenes 文件列表未能检查。这些受限检查只作为线索，不计入无结果轮次。
+
+After accepting the last discovery, five sequential web-index searches around 19:23–19:25 UTC+8 produced no additional qualified resource; the stop condition was met. These are searches of the available web index, not exhaustive platform-native coverage. X and YouTube results were sparse; Bilibili included tutorials and listings whose asset sources and permissions were not established. No login, CAPTCHA or access restriction was bypassed.
+
+接纳最后一项发现后，约 19:23–19:25（UTC+8）按顺序完成以下五次网络索引检索，没有新的合格资源，达到停止条件。这些是可用网页索引检索，并非各平台站内的全面覆盖；X 和 YouTube 索引结果稀疏，B 站结果包含未能确认素材来源与许可的教程和合集。未绕过登录、验证码或访问限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | Reddit index: `site:reddit.com/r/proceduralgeneration "procedural" "source" "assets" 3d` | Existing Infinigen and project demonstrations; city pipeline post did not provide a source link / 既有 Infinigen 与项目展示；城市生成帖未提供源码链接 |
+| 2 | Hugging Face index: `site:huggingface.co/datasets "3d" "procedural" "code" "Blender" benchmark` | Existing 3DCodeBench, its linked expanded corpus and 3DCodeVerse / 既有 3DCodeBench、已并入的扩展语料和 3DCodeVerse |
+| 3 | X index: `site:x.com "procedural" "3d" "asset" generator github` | Simulation announcement; no newly verified editable asset library / 仿真项目介绍，未找到新核实的可编辑素材库 |
+| 4 | Bilibili index: `site:bilibili.com 程序化 资产库 建模 源码 blender 生成器` | Tutorials and listings without a verified new library and terms / 教程及合集，未核实新的素材库及其条款 |
+| 5 | YouTube index: `site:youtube.com/watch "procedural" "asset library" "source" blender` | No indexed results / 索引无结果 |
