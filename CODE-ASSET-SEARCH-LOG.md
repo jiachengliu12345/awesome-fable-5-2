@@ -159,3 +159,21 @@ After the last accepted increment, five sequential web-index searches around 02:
 | 3 | Hugging Face index: `site:huggingface.co/datasets "procedural" "3d" "code" "CC0"` | Existing CadQuarry and indexes / 已收录的 CadQuarry 与索引 |
 | 4 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without newly verified source and terms / 教程和合集，未核实新的源码与条款 |
 | 5 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
+
+## Editable assets and material tools / 可编辑资产与材质工具续查 — 2026-11-13
+
+Four Luna workers searched asset generators, tools, skills and social sources. This pass added SELENE-ISRU equipment, ProceduralBuildingsThreeJS and MaterialCreator to the bilingual asset catalog; no new Skill was verified. The SELENE manifest identifies particular equipment as CC0; the buildings project includes an interior photo atlas with unconfirmed rights; MaterialCreator's output rights are not separately specified. We checked the original links and notices, but did not install or run the projects. SkyscrapX is a useful lead whose downloadable source and commercial license were not verified; CADAM was already cataloged.
+
+四个 Luna 子任务分别检索资产生成器、工具、技能和社交来源。本轮在双语资产目录新增 SELENE-ISRU 设备、ProceduralBuildingsThreeJS 和 MaterialCreator，未核实到可新增的 Skill。SELENE 清单仅将特定设备标为 CC0；建筑项目含权利未确认的室内照片图集；MaterialCreator 未单独说明输出权利。我们核查了原始链接和声明，没有安装或运行项目。SkyscrapX 是有用线索，但下载包源码及商用许可未核实；CADAM 已收录。
+
+Following the last addition, five sequential public-web index searches around 04:17–04:18 UTC+8 returned no additional qualified resources. Candidate leads were checked before counting; these results are not exhaustive platform-native coverage. X and YouTube indexing was sparse, and free access does not establish an open or commercial license. No platform restriction was bypassed.
+
+最后一次新增后，约 04:17–04:18（UTC+8）依次完成五次公开网页索引检索，没有新增合格资源；候选线索经核对后才计入轮次。这不代表平台站内的全面覆盖。X 和 YouTube 的索引结果稀疏，免费获取也不能证明开放许可或商用授权；未绕过平台限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | Reddit: `site:reddit.com/r/proceduralgeneration blender geometry nodes asset generator github open source license` | Existing resources; SkyscrapX source and terms not independently verified / 已收录资源；SkyscrapX 的源码及许可尚未独立核实 |
+| 2 | X: `site:x.com blender procedural geometry nodes generator github open source assets` | Announcements without a newly verified qualifying source and license / 未发现新核实源码和许可的合格项目 |
+| 3 | Hugging Face: `site:huggingface.co/datasets procedural generated 3d models source code license` | Existing code datasets; other indexed collection is generated model files rather than a procedural code asset library / 既有代码数据集；其他检索结果是生成后的模型文件，并非程序化代码资产库 |
+| 4 | Bilibili: `site:bilibili.com 程序化 3D 模型 生成器 开源 github 几何节点` | CADAM already listed; other results lacked verified qualifying source and terms / CADAM 已收录；其他结果未核实符合条件的源码及条款 |
+| 5 | YouTube: `site:youtube.com Blender procedural generator open source github geometry nodes assets` | Index returned largely unrelated service terms, with no qualifying new lead / 索引主要返回不相关的服务条款，未发现合格的新线索 |

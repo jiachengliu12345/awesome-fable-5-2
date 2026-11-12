@@ -15,6 +15,9 @@ These licenses permit commercial use of the cited project code or assets under t
 
 | Resource | Editable material | License and practical notes |
 | --- | --- | --- |
+| [SELENE-ISRU equipment](https://github.com/dogum/selene-isru/blob/main/assets/ASSET_LICENSES.md) · [Repository](https://github.com/dogum/selene-isru) | Procedural lunar-equipment generators, editable Blender sources and GLB exports. | The project's asset manifest marks the listed reactor and base-equipment assets CC0-1.0; application code is MIT. Check other assets separately. Not independently run. |
+| [ProceduralBuildingsThreeJS](https://github.com/achrefelouafi/ProceduralBuildingsThreeJS) | Editable Blender Geometry Nodes buildings and export scripts for a Three.js scene. | Repository MIT; ambientCG and Poly Haven textures are listed as CC0, while the New York interior photo atlas rights were not confirmed. Check assets separately; not independently run. |
+| [MaterialCreator](https://github.com/Calla-Ji/materialcreator) · [Asset notices](https://github.com/Calla-Ji/materialcreator/blob/main/ASSETS.md) | Node-based procedural PBR materials with editable JSON graphs and PNG/EXR texture export. | Code dual-licensed MIT or Apache-2.0; bundled assets have separate notices. Output rights are not separately stated, and imported inputs retain their terms. Requires a supported GPU; not independently run. |
 | [Hesiod](https://github.com/ottolink-dev/Hesiod) · [FAQ](https://hesiodengine.com/docs/faq/) | Desktop node-based procedural terrain editor with heightmap and texture exports. | GPL-3.0 code; comply with distribution terms. The current FAQ permits commercial use of assets generated from your own inputs; imported assets and presets retain their own terms. Work in progress; not independently run. |
 | [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) | Node-based procedural terrain and texturing tool with GPU generation and mesh export. | MIT code on the `gen3` branch; third-party components, downloaded textures and output rights require separate checks. Not independently run. |
 | [ProceduralTerrains](https://github.com/ZyFou/ProceduralTerrains) | Three.js terrain workspace and runtime with adjustable generation and model exports. | Core MIT; Blender plugin GPL-3.0-or-later. Bundled texture provenance and output rights were not independently established; inspect or replace textures as needed. Not independently run. |
@@ -119,6 +122,9 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可编辑内容 | 许可与使用说明 |
 | --- | --- | --- |
+| [SELENE-ISRU 设备资产](https://github.com/dogum/selene-isru/blob/main/assets/ASSET_LICENSES.md) · [仓库](https://github.com/dogum/selene-isru) | 程序化月面设备生成脚本、可编辑 Blender 源文件及 GLB 导出。 | 项目资产清单将列出的反应堆和基地设备标为 CC0-1.0；应用代码为 MIT。其他素材需单独核对；尚未独立运行。 |
+| [ProceduralBuildingsThreeJS](https://github.com/achrefelouafi/ProceduralBuildingsThreeJS) | 可编辑的 Blender 几何节点建筑及面向 Three.js 场景的导出脚本。 | 仓库为 MIT；ambientCG 和 Poly Haven 纹理标为 CC0，纽约室内照片图集的权利未确认。各项素材需单独核对；尚未独立运行。 |
+| [MaterialCreator](https://github.com/Calla-Ji/materialcreator) · [素材说明](https://github.com/Calla-Ji/materialcreator/blob/main/ASSETS.md) | 节点式程序化 PBR 材质工具，可编辑 JSON 图并导出 PNG/EXR 纹理。 | 代码可选 MIT 或 Apache-2.0 双许可；附带素材有各自声明。输出权利未单独说明，导入素材仍适用原有条款；需要兼容的 GPU。尚未独立运行。 |
 | [Hesiod](https://github.com/ottolink-dev/Hesiod) · [常见问题](https://hesiodengine.com/docs/faq/) | 桌面端节点式程序化地形编辑器，支持导出高度图和纹理。 | 代码为 GPL-3.0，分发时须遵守许可条款。当前 FAQ 允许商用以自己输入生成的资产；导入素材和预设仍适用各自条款。项目仍在开发，尚未独立运行。 |
 | [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) | 支持 GPU 生成和网格导出的节点式程序化地形与纹理工具。 | `gen3` 分支代码为 MIT；第三方组件、下载纹理及输出权利需分别核对。尚未独立运行。 |
 | [ProceduralTerrains](https://github.com/ZyFou/ProceduralTerrains) | 基于 Three.js 的地形生成工作台与运行库，支持参数调整和模型导出。 | 核心代码为 MIT，Blender 插件为 GPL-3.0-or-later。内置纹理的来源及输出权利尚未独立确认；使用时应核对或替换纹理。尚未独立运行。 |
