@@ -12,6 +12,12 @@ These licenses permit commercial use of the cited project code or assets under t
 
 | Resource | Editable material | License and practical notes |
 | --- | --- | --- |
+| [Hesiod](https://github.com/ottolink-dev/Hesiod) · [FAQ](https://hesiodengine.com/docs/faq/) | Desktop node-based procedural terrain editor with heightmap and texture exports. | GPL-3.0 code; comply with distribution terms. The current FAQ permits commercial use of assets generated from your own inputs; imported assets and presets retain their own terms. Work in progress; not independently run. |
+| [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) | Node-based procedural terrain and texturing tool with GPU generation and mesh export. | MIT code on the `gen3` branch; third-party components, downloaded textures and output rights require separate checks. Not independently run. |
+| [ProceduralTerrains](https://github.com/ZyFou/ProceduralTerrains) | Three.js terrain workspace and runtime with adjustable generation and model exports. | Core MIT; Blender plugin GPL-3.0-or-later. Bundled texture provenance and output rights were not independently established; inspect or replace textures as needed. Not independently run. |
+| [Kit Cidade Lowpoly](https://github.com/kayquer/kit-cidade-lowpoly) | Low-poly city models in glTF/GLB and scripts for extending the kit. | The project labels the assets CC0; check individual source files and dependencies separately. Not independently run. |
+| [Space Robotics Bench Assets](https://github.com/Space-Robotics-Laboratory/srb_assets_srl) · [Attributions](https://andrejorsula.github.io/space_robotics_bench/misc/attributions.html) | Robotics and space-simulation assets, with Blender Geometry Nodes, shader nodes and procedural generation scripts. | The project marks contributor-created assets and procedural outputs CC0; third-party assets retain their own licenses. A separate software license for the scripts was not confirmed. Not independently run. |
+| [Blender Level Architect](https://github.com/dottyboy/BlenderLevelArchitect) | Procedural Blender levels with editable room, corridor, stair and architectural generation, plus glTF/GLB export. | Code GPL-3.0-or-later; comply with its distribution terms. Bundled texture and generated-output rights were not separately confirmed. Early testing release; not independently run. |
 | [ProcFunc](https://github.com/princeton-vl/procfunc) | Python primitives and tools for procedural 3D generation, including conversion of Blender Geometry Nodes to editable code. | BSD-3-Clause repository; current README specifies Python 3.11 and `bpy==4.2.0`, with a pre-1.0 API. Check separately licensed generators and assets; not independently run. |
 | [easy-props](https://github.com/AHS12/easy-props) | Shape procedural trees, plants and rocks through controls and export game-ready models. | MIT code; check third-party assets and output rights separately. Not independently run. |
 | [Infinitode Material Library](https://github.com/Infinitode/Material-Library) | More than 200 editable procedural Blender node materials in `.blend` files. | Repository MIT; Blender 3.3 LTS+. The library describes a custom generator, whose source was not found in the repository. Not independently run. |
@@ -90,6 +96,12 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 
 | 资源 | 可编辑内容 | 许可与使用说明 |
 | --- | --- | --- |
+| [Hesiod](https://github.com/ottolink-dev/Hesiod) · [常见问题](https://hesiodengine.com/docs/faq/) | 桌面端节点式程序化地形编辑器，支持导出高度图和纹理。 | 代码为 GPL-3.0，分发时须遵守许可条款。当前 FAQ 允许商用以自己输入生成的资产；导入素材和预设仍适用各自条款。项目仍在开发，尚未独立运行。 |
+| [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) | 支持 GPU 生成和网格导出的节点式程序化地形与纹理工具。 | `gen3` 分支代码为 MIT；第三方组件、下载纹理及输出权利需分别核对。尚未独立运行。 |
+| [ProceduralTerrains](https://github.com/ZyFou/ProceduralTerrains) | 基于 Three.js 的地形生成工作台与运行库，支持参数调整和模型导出。 | 核心代码为 MIT，Blender 插件为 GPL-3.0-or-later。内置纹理的来源及输出权利尚未独立确认；使用时应核对或替换纹理。尚未独立运行。 |
+| [Kit Cidade Lowpoly](https://github.com/kayquer/kit-cidade-lowpoly) | 低多边形城市模型，提供 glTF/GLB 文件和扩展素材包的脚本。 | 项目将资产标为 CC0；具体源码文件与依赖需分别核对。尚未独立运行。 |
+| [Space Robotics Bench Assets](https://github.com/Space-Robotics-Laboratory/srb_assets_srl) · [来源与署名](https://andrejorsula.github.io/space_robotics_bench/misc/attributions.html) | 面向太空机器人和仿真的资产，包含 Blender 几何节点、着色器节点和程序化生成脚本。 | 项目将贡献者自制资产与程序化输出标为 CC0；第三方资产仍适用各自许可。脚本的独立软件许可未确认；尚未独立运行。 |
+| [Blender Level Architect](https://github.com/dottyboy/BlenderLevelArchitect) | 在 Blender 中程序化生成可编辑的房间、走廊、楼梯和建筑，并导出 glTF/GLB。 | 代码为 GPL-3.0-or-later，分发时须遵守相应条款；附带纹理和生成结果的权利未单独确认。处于早期测试阶段，尚未独立运行。 |
 | [ProcFunc](https://github.com/princeton-vl/procfunc) | Python 程序化 3D 生成基础库，支持将 Blender 几何节点转换为可编辑代码。 | 仓库为 BSD-3-Clause；当前 README 指定 Python 3.11 和 `bpy==4.2.0`，API 尚未到 1.0。其他生成器与素材的许可需单独核对；尚未独立运行。 |
 | [easy-props](https://github.com/AHS12/easy-props) | 通过参数调整程序化树木、植物和岩石，并导出游戏模型。 | 代码为 MIT；第三方素材和输出权利需分别核对。尚未独立运行。 |
 | [Infinitode Material Library](https://github.com/Infinitode/Material-Library) | 200 多个可编辑的 Blender 程序化节点材质，提供 `.blend` 文件。 | 仓库为 MIT；需要 Blender 3.3 LTS+。项目介绍了自制生成器，但仓库中未找到其源码。尚未独立运行。 |

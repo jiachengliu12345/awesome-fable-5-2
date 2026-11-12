@@ -137,3 +137,25 @@ After the last accepted increment, five sequential web-index searches around 02:
 | 3 | Hugging Face index: `site:huggingface.co/datasets "procedural" "3d" "code" "CC0"` | Existing CadQuarry and indexes / 已收录的 CadQuarry 与索引 |
 | 4 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without newly verified source and terms / 教程和合集，未核实新的源码与条款 |
 | 5 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
+
+## Continued asset, tool and skill search / 资产、工具与技能续查 — 2026-11-13
+
+Four Luna workers searched for editable procedural 3D assets, generators and agent skills; this pass added six asset/tool entries and two skills. Original repositories, license notices and available documentation were checked against the existing bilingual catalog. We did not download or run the projects. In particular, Space Robotics Bench identifies its own assets and procedural outputs as CC0, but a separate software license for its scripts was not established; third-party asset notices remain applicable. ProceduralTerrains and Blender Level Architect have unconfirmed bundled-texture provenance or output rights.
+
+四个 Luna 子任务检索可编辑程序化 3D 资产、生成器和智能体技能；本轮新增六项资产或工具、两项技能。我们对照现有双语目录核查原始仓库、许可声明和可访问文档，未下载或运行项目。Space Robotics Bench 将其自制资产和程序化输出标为 CC0，但脚本的独立软件许可未确认，第三方资产仍适用各自条款。ProceduralTerrains 和 Blender Level Architect 的附带纹理来源或输出权利尚未确认。
+
+Discovery queries included `GitHub "procedural" "MIT" 3D generator Blender 2026 new`, `site:github.com procedural 3D asset library Blender Geometry Nodes CC0 license assets`, and `site:github.com "SKILL.md" procedural 3D game agent skill Blender MIT`. Cellscape's public repository says it contains the website and demo, not the Blender add-on itself, so the add-on was not counted as an openly available source project. Kiln and other repeated results were already cataloged. A Reddit result led to Hesiod and TerraForge3D; that discovery reset the consecutive no-result count. Hesiod's current [official FAQ](https://hesiodengine.com/docs/faq/) permits commercial use of assets generated from the user's own inputs and says imported assets and presets retain their terms. An older FAQ URL failed to open and was not treated as current authority.
+
+发现阶段的查询包括 `GitHub "procedural" "MIT" 3D generator Blender 2026 new`、`site:github.com procedural 3D asset library Blender Geometry Nodes CC0 license assets` 和 `site:github.com "SKILL.md" procedural 3D game agent skill Blender MIT`。Cellscape 的公开仓库说明其内容是网站和演示，并不包含 Blender 插件本体，因此没有将该插件计作公开源码项目。Kiln 等重复结果已在目录中。一条 Reddit 检索线索引出了 Hesiod 和 TerraForge3D，因此连续无结果轮次重新计数。Hesiod 的[当前官方 FAQ](https://hesiodengine.com/docs/faq/)允许商用以用户自己的输入生成的资产，并说明导入素材和预设仍适用各自条款；较旧的 FAQ 地址打不开，未作为当前依据。
+
+After the last accepted increment, five sequential web-index searches around 02:35–02:36 UTC+8 found no further qualified addition, meeting the stop condition. Queries were actually rerun and some repeat earlier passes. These are public indexes, not exhaustive platform-native searches; Reddit, X and YouTube results were sparse. Failed page fetches were not counted as no-result rounds, and no access restriction was bypassed.
+
+最后一个合格增量之后，约 02:35–02:36（UTC+8）依次完成五次网页索引检索，未发现新的合格增量，达到停止条件。查询均已实际重新执行，其中部分与此前相同。结果只反映公开索引，并非平台站内全面覆盖；Reddit、X 和 YouTube 索引结果稀疏。页面读取失败不计入无结果轮次，未绕过访问限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | Reddit index: `site:reddit.com "procedural 3d" "asset generator" "MIT" blender` | No indexed results / 索引无结果 |
+| 2 | X index: `site:x.com "procedural" "3d" assets "open source" blender` | No indexed results / 索引无结果 |
+| 3 | Hugging Face index: `site:huggingface.co/datasets "procedural" "3d" "code" "CC0"` | Existing CadQuarry and indexes / 已收录的 CadQuarry 与索引 |
+| 4 | Bilibili index: `site:bilibili.com "程序化" "资产库" "开源" Blender` | Tutorials and listings without newly verified source and terms / 教程和合集，未核实新的源码与条款 |
+| 5 | YouTube index: `site:youtube.com/watch "procedural" "3d asset library" "open source"` | No indexed results / 索引无结果 |
