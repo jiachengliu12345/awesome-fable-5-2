@@ -19,6 +19,12 @@ For an end-to-end guide to briefs, playtesting, assets, release and code-driven 
 
 | Resource | Best for | Notes |
 | --- | --- | --- |
+| [Blender Skills](https://github.com/EL4CTEO/blender-skills) | Blender modeling, rigging, materials, optimization and export skills. | MIT; requires Blender and optionally an MCP connection. Maintainer-reported tests were not independently run. |
+| [Open Game Skills](https://github.com/jammyfu/open-game-skills) | Explore game-feel, camera, combat and engine-specific implementation skills. | MIT; Python and target-engine requirements vary. The maintainer notes that CI does not establish agent routing or playability. Not independently run. |
+| [BlenderXAlpha 3DGenSkill](https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill) | Generate and place 3D assets in Blender using supported provider integrations. | MIT; Blender MCP, provider account and credits may be required. Inspect the skill's cost and approval steps; not independently run. |
+| [Godot Stagehand](https://github.com/mrf/godot-stagehand) · [Skill](https://github.com/mrf/godot-stagehand/blob/main/integrations/claude-code/skills/stagehand/SKILL.md) | Run Godot playtest scenarios, input replay and screenshot comparisons locally or in CI. | MIT; pre-1.0; requires a configured Godot addon and tools. Maintainer-described behavior not independently tested. |
+| [Game development shipping skill](https://github.com/ericrisco/rsc-harness/blob/main/skills/gamedev-shipping/SKILL.md) | Consult engine-specific build, signing and release workflows. | MIT repository; platform accounts and toolchains vary. Versioned guidance may be stale; check current platform documentation. Not independently run. |
+| [Video Shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | Explore Remotion-based shot planning and editable product-video workflows. | Apache-2.0 repository; Node, FFmpeg and optional tools are required. Check Remotion and individual media licenses; not independently run. |
 | [image-blaster](https://github.com/neilsonnn/image-blaster) · [Creator’s X demonstration](https://x.com/neilsonks/status/2055013782771134479) | Explore a Claude skill workflow that separates a source image into a static world, object meshes and sound effects. | MIT repository. Its documented workflow uses Claude, World Labs and FAL; service costs and output rights vary. Not run here; the X post returned 403. |
 | [Codex GameDev Kit](https://github.com/IlyasGameDev/codex-gamedev-kit) | Browse game-development skills and roles for Unity, Godot and Unreal workflows. | MIT; designed for OpenAI Codex and requires the relevant engine/tool setup. Maintainer claims and workflows not independently tested. |
 | [Makone](https://github.com/wormholeportal/Makone) | Create procedural Three.js worlds with an agent workflow, screenshot review and browser checks. | MIT; the repository describes an integrated runtime, examples and validation harness. Not independently run. |
@@ -131,6 +137,12 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 
 | 资源 | 适合做什么 | 说明 |
 | --- | --- | --- |
+| [Blender Skills](https://github.com/EL4CTEO/blender-skills) | 查找 Blender 建模、绑定、材质、优化与导出技能。 | MIT；需要 Blender，可选连接 MCP。维护者所述测试尚未独立运行。 |
+| [Open Game Skills](https://github.com/jammyfu/open-game-skills) | 查找游戏手感、镜头、战斗及引擎实现相关技能。 | MIT；Python 和目标引擎要求因技能而异。维护者说明 CI 不能证明智能体路由或游戏可玩性；尚未独立运行。 |
+| [BlenderXAlpha 3DGenSkill](https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill) | 通过支持的生成服务在 Blender 中生成并放置 3D 资产。 | MIT；可能需要 Blender MCP、服务账号和额度。使用前阅读技能中的费用与确认步骤；尚未独立运行。 |
+| [Godot Stagehand](https://github.com/mrf/godot-stagehand) · [Skill](https://github.com/mrf/godot-stagehand/blob/main/integrations/claude-code/skills/stagehand/SKILL.md) | 本地或在 CI 中运行 Godot 试玩场景、输入回放和截图比较。 | MIT；1.0 前版本，需要配置 Godot 插件及工具。维护者描述的功能尚未独立测试。 |
+| [游戏发布技能](https://github.com/ericrisco/rsc-harness/blob/main/skills/gamedev-shipping/SKILL.md) | 参考不同引擎的构建、签名和发布流程。 | 所属仓库为 MIT；平台账号与工具链要求不同。版本化说明可能过时，应核对平台最新文档；尚未独立运行。 |
+| [Video Shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 参考基于 Remotion 的产品影片分镜及可编辑视频工作流。 | 仓库为 Apache-2.0，需要 Node、FFmpeg 及可选工具。分别核对 Remotion 和素材许可；尚未独立运行。 |
 | [image-blaster](https://github.com/neilsonnn/image-blaster) · [作者 X 演示](https://x.com/neilsonks/status/2055013782771134479) | 了解 Claude Skill 工作流：将一张参考图拆分为静态世界、物体网格和音效。 | 仓库为 MIT；文档流程使用 Claude、World Labs 和 FAL，服务费用和产物权利依服务而异。未独立运行；X 原帖返回 403。 |
 | [Codex GameDev Kit](https://github.com/IlyasGameDev/codex-gamedev-kit) | 查找面向 Unity、Godot 和 Unreal 的游戏开发技能与角色。 | MIT；面向 OpenAI Codex，需要相应引擎与工具配置。维护者的能力说明及工作流尚未独立测试。 |
 | [Makone](https://github.com/wormholeportal/Makone) | 使用智能体流程制作程序化 Three.js 世界，并结合截图审查和浏览器检查。 | MIT；仓库介绍了集成运行环境、示例与验证工具，尚未独立运行。 |

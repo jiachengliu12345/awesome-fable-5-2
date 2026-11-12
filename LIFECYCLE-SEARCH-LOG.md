@@ -28,3 +28,25 @@ After discovery and source checks, the following five separate targeted web-inde
 These are web-index searches, not claims that the platform's own search or all videos and comments were fully inspected. Earlier platform restrictions and search histories remain in [SEARCH-LOG.md](SEARCH-LOG.md).
 
 以上是网络索引检索，并不表示已经完整检查各平台站内搜索、所有视频或评论。此前的平台限制和检索记录仍见 [SEARCH-LOG.md](SEARCH-LOG.md)。
+
+## Continued collection / 继续收集（2026-11-12）
+
+Four Luna workers independently searched for works, creator tutorials, skills and production tools. Discovery prioritized Reddit and X and also consulted GitHub, creator blogs and official tool documentation. Initial simultaneous discovery queries were used as leads rather than counted toward the stopping condition; later work was partitioned by platform. Each direction started at two useful additions and expanded to three, five or eight as suitable candidates appeared; duplicates, unverified claims and less distinct alternatives were excluded rather than filling a quota. Four distinct works were added to the main catalog; Graveyard Shift and Yonkers Rises have attributable accessible code, while the mech and spider examples do not have verified code links. Existing works and new explanatory sources are not counted again as new works.
+
+四个 Luna 子任务分别检索作品、创作者教程、Skills 和制作工具，优先 Reddit 与 X，并补充 GitHub、创作者博客及官方文档。初期并发发现查询只作为线索、不计入停止轮次，后续按平台分工。每个方向从两个有用增量开始，随实际发现扩大到三个、五个或八个；去重、证据不足及价值重叠的候选不为凑数保留。主清单新增四个不同作品；其中 Graveyard Shift 和 Yonkers Rises 具备可归属、可访问的代码入口，机甲和蜘蛛案例未核实代码链接。已有作品及其新增制作说明不重复计作新作品。
+
+The latest qualifying addition before the final run was the [Roman building asset workflow](https://www.reddit.com/r/ClaudeCode/comments/1xsh2bq/fable_52_roman_buildings/). The following separate web-index searches were completed in order on 12 November, approximately 17:03–17:04 UTC+8. All searches returned normally; they are index searches, not claims of complete platform coverage. No qualifying new increment was found in these five results, so the five-round stop applies. X and Xiaohongshu indexing can be sparse; Reddit originals may return 403 to direct automated requests. Failed, blocked or uncompleted platform actions were not counted as empty searches.
+
+最后五轮之前的最新合适增量为[罗马建筑资产流程](https://www.reddit.com/r/ClaudeCode/comments/1xsh2bq/fable_52_roman_buildings/)。下列网络索引检索于 11 月 12 日约 17:03–17:04（UTC+8）依次完成；这些是索引查询，并不意味着完整覆盖各平台。五次查询均正常返回，未发现合格新增，因此触发连续五轮停止条件。X 和小红书索引可能稀疏，Reddit 原站对直接自动化请求可能返回 403；报错、受阻或未完成的操作未计入空结果轮次。
+
+| Round | Source and query / 来源与查询 | Result / 结果 |
+| --- | --- | --- |
+| 1 | X index: `"Fable 5.2" "Three.js" "game" "tutorial"` | No indexed results / 索引无结果 |
+| 2 | YouTube index: `"Fable 5.2" "Blender" "3d" "workflow" game` | No indexed results / 索引无结果 |
+| 3 | Xiaohongshu index: `"Fable 5.2" "Three.js" 游戏 教程 源码` | No indexed results; indexing coverage limited / 索引无结果，覆盖有限 |
+| 4 | Bilibili index: `"Fable 5.2" Blender 游戏 开发 提示词 教程` | Reviews and already-seen descriptions; no newly verified detailed workflow in visible results / 评测与既有视频简介，未见新核实的详细流程 |
+| 5 | DEV index: `"Claude Fable 5.2" "3d" "game" tutorial` | General model discussion and secondary summaries, no new practical source / 模型讨论与二手汇总，未见新实用来源 |
+
+Related source search: Reddit queries included `site:reddit.com "Fable 5.2" 3d game creator code prompt playable new` and `site:reddit.com "Fable 5.2" "3d game" "workflow" "code" tutorial`; GitHub queries included `site:github.com "SKILL.md" Godot testing playtest agent skill` and `site:github.com "SKILL.md" game release deployment export agent`. Creator-blog searches found Simon Willison's original prompt; direct X pages and a making-of artifact could not all be read by the web tool. A Medium article was member-only in the main check, and is not represented as a fully reviewed tutorial. Official tool documentation was checked for the general resources; the tools and skills were not independently run.
+
+相关发现查询包括 Reddit 的 `site:reddit.com "Fable 5.2" 3d game creator code prompt playable new`、`site:reddit.com "Fable 5.2" "3d game" "workflow" "code" tutorial`，以及 GitHub 的 `site:github.com "SKILL.md" Godot testing playtest agent skill`、`site:github.com "SKILL.md" game release deployment export agent`。创作者博客检索找到了 Simon Willison 的原始提示词；部分 X 原帖和制作说明 Artifact 无法通过网页工具读取。主核验中一篇 Medium 文章为会员内容，因此没有将其写成已完整阅读的教程。通用工具已查看官方文档；工具和 Skills 均未独立运行。

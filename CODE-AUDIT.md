@@ -4,13 +4,13 @@
 
 ## English
 
-On 12 November 2026, the index contained **85 entries**. This conservative pass identifies **63 works** with traceable model attribution and accessible, attributable code in the requested scope. **19 entries remain unconfirmed** under this pass, and **3 are outside the verified 3D / interactive-video scope**. Pending means the complete acceptance conditions were not all established; it does not mean the work fails them. This is a verified minimum, not a claim that the other works have no qualifying evidence. The catalog contains 139 work rows overall.
+On 12 November 2026, the index contained **87 entries**. This conservative pass identifies **65 works** with traceable model attribution and accessible, attributable code in the requested scope. **19 entries remain unconfirmed** under this pass, and **3 are outside the verified 3D / interactive-video scope**. Pending means the complete acceptance conditions were not all established; it does not mean the work fails them. This is a verified minimum, not a claim that the other works have no qualifying evidence. The catalog contains 143 work rows overall.
 
 Links in the table point to model-attribution evidence; the matching code link and license status are in the README index. X text was checked using third-party readers because direct X access was blocked. For IRONDUSK and the brick breaker, a [separately indexed follow-up](https://x.com/vista8/status/2120383172127097088) contains the creator’s two play links, as reproduced by [MaoMao AI Lab](https://maomaoailab.com/zh/news/); the direct X pages returned 403. Evals output records identify the selected model and link the corresponding HTML; comparison pages can also show other models. Repository claims are creator self-reports. License labels inherited from the catalog were not all rechecked against license files in this pass. Actual ownership and availability can change; accessible browser code is not permission to redistribute it. Collection-only attribution, ambiguous code-to-work matches, or unresolved scope were not promoted to verified status in this pass.
 
 ## 简体中文
 
-截至 2026 年 11 月 12 日，代码索引共有 **85 条**。本轮按保守标准确认其中 **63 个作品**具备可追溯的模型使用证据和可访问、可归属的代码，且属于要求的范围；另有 **19 条仍待核实**，**3 条不在已核实的 3D／互动视频范围内**。待核实表示尚未完成全部验收，不能据此断定作品不合格。此数量是已核实的下限，并不代表其余作品没有合格证据。完整案例清单共 139 条。
+截至 2026 年 11 月 12 日，代码索引共有 **87 条**。本轮按保守标准确认其中 **65 个作品**具备可追溯的模型使用证据和可访问、可归属的代码，且属于要求的范围；另有 **19 条仍待核实**，**3 条不在已核实的 3D／互动视频范围内**。待核实表示尚未完成全部验收，不能据此断定作品不合格。此数量是已核实的下限，并不代表其余作品没有合格证据。完整案例清单共 143 条。
 
 表中链接指向模型使用证据；对应代码链接及许可证状态见 README 索引。由于 X 原站访问受阻，帖子文字通过第三方读取；IRONDUSK 与打砖块的作者后续[链接帖](https://x.com/vista8/status/2120383172127097088)由[毛毛 AI Lab](https://maomaoailab.com/zh/news/)转录，X 原站返回 403；Evals 输出记录标出所选模型和对应 HTML，同一对比页也可能出现其他模型。仓库中的模型使用说明属于创作者自述。既有清单中的许可证标签，本轮并非全部重新核对了许可证文件；网页可访问不代表允许再分发。仅有合集级归因、代码与作品对应关系不清或范围尚有疑问的条目，本轮没有计入已核实数量。
 
@@ -18,6 +18,8 @@ Links in the table point to model-attribution evidence; the matching code link a
 
 | Work / 作品 | Status / 状态 | Model evidence / 模型证据 |
 | --- | --- | --- |
+| Graveyard Shift | Verified / 已核实 | [Creator’s post / 作者帖子](https://www.reddit.com/r/threejs/comments/1xtvxx0/i_asked_claude_fable_52_to_make_a_cod_zombies/) · [Code / 代码](https://github.com/ethanplusai/zombies) |
+| Yonkers Rises | Verified / 已核实 | [Creator’s article / 作者文章](https://simonwillison.net/2026/Nov/10/yonkers-rises/) · [Delivered HTML / 网页代码](https://tools.simonwillison.net/yonkers-rises) |
 | Blueline | Verified / 已核实 | [Source / 来源](https://x.com/AlexStLouis10/status/2120024471100907802) |
 | Saltline | Pending / 待核实 | See catalog / 见清单 |
 | Turbo Tails | Verified / 已核实 | [Source / 来源](https://x.com/petergyang/status/2119901658394358005) |

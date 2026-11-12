@@ -18,12 +18,14 @@
 
 ## 代码索引
 
-截至 2026 年 11 月 12 日，**63 个作品**已符合代码核验标准，另有 **19 条索引**待核、**3 条**不在目标范围内。逐项状态及保守计数见[代码与模型证据核验](CODE-AUDIT.md)。
+截至 2026 年 11 月 12 日，**65 个作品**已符合代码核验标准，另有 **19 条索引**待核、**3 条**不在目标范围内。逐项状态及保守计数见[代码与模型证据核验](CODE-AUDIT.md)。
 
 标为尚未核实的条目作为线索保留，不计入已核实代码作品目标。索引也保留仍待进一步审查的条目，不能直接作为合格总数。详见[检索与核验记录](SEARCH-LOG.md)。
 
 | 作品 | 代码 | 类型 / 许可协议 |
 | --- | --- | --- |
+| Graveyard Shift | [代码仓库](https://github.com/ethanplusai/zombies) | 项目代码 · MIT |
+| Yonkers Rises | [网页 HTML](https://tools.simonwillison.net/yonkers-rises) | 浏览器代码 · 许可未知 |
 | Blueline | [JavaScript 构建文件](https://playblueline.pages.dev/game.js) | 浏览器构建文件 · 保留所有权利 |
 | Saltline | [Artifact](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp) | 能否查看代码未核实 · 许可协议未知 |
 | Turbo Tails | [HTML](https://turbo-tails.vercel.app/) | 网页源代码 · 许可协议未知 |
@@ -114,6 +116,7 @@
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- | --- | --- |
+| **Graveyard Shift** | Ethan（u/Rare_Guide_9830） | 回合制 Three.js 僵尸生存射击游戏。作者说明主要使用 Fable 5.2，部分子流程使用 Sonnet 5.5 和 Opus 5.5。 | [试玩](https://zombies.ethanplus.ai/) · [作者帖子](https://www.reddit.com/r/threejs/comments/1xtvxx0/i_asked_claude_fable_52_to_make_a_cod_zombies/) | [代码仓库](https://github.com/ethanplusai/zombies)<br>项目代码 · MIT | — |
 | **Siege Wing**<br><a href="https://bannerfall.itch.io/siege-wing"><img src="https://img.itch.zone/aW1nLzMyMDc0MTY5LmpwZw==/original/4h6yGs.jpg" alt="预览：Siege Wing" width="180"></a> | bannerfall | 一款驾驶直升机对抗中世纪军队的 3D 战斗游戏；创作者称使用 Fable 5.2 开发软件和制作 3D 模型。 | [体验及创作者介绍](https://bannerfall.itch.io/siege-wing) | [网页交付的 HTML](https://html-classic.itch.zone/html/20442416/index.html?v=1794407879)<br>浏览器端代码 · 许可协议未知 | Itch.io：热度数据未核实<br>2026-11-11 18:06 UTC |
 | **Saltline**<br><a href="https://x.com/felixrieseberg/status/2119925633564463609"><img src="https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg" alt="预览：Saltline" width="180"></a> | Felix Rieseberg | 一款以雨中集装箱港口为背景的第一人称射击游戏。 | [体验](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp) · [创作者帖子](https://x.com/felixrieseberg/status/2119925633564463609) | [Artifact](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)<br>能否查看代码未核实 · 许可协议未知 | X：3,769,689 次浏览，13,107 次点赞，960 次转发，750 条回复<br>2026-11-11 11:32 UTC |
 | **Turbo Tails**<br><a href="https://x.com/petergyang/status/2119901658394358005"><img src="https://pbs.twimg.com/amplify_video_thumb/2119901596008263680/img/Qlj1Rarz7q_pngBm.jpg" alt="预览：Turbo Tails" width="180"></a> | Peter Yang | 一款浏览器卡丁车竞速游戏，包含漂移、道具以及单人和多人模式。 | [体验](https://turbo-tails.vercel.app/) · [创作者帖子](https://x.com/petergyang/status/2119901658394358005) · [YouTube](https://youtu.be/SsSKJA0EHD4) | [HTML](https://turbo-tails.vercel.app/)<br>网页源代码 · 许可协议未知 | X：31,415 次浏览，136 次点赞，3 次转发，24 条回复<br>2026-11-11 11:32 UTC<br>YouTube 对比视频：130,527 次浏览<br>2026-11-11 11:33 UTC |
@@ -208,6 +211,8 @@
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- | --- | --- |
+| **Mech test in Three.js** | u/koss-tech | 可互动的程序化 3D 机甲，包含行走、战斗和检查模式；作者注明使用 Fable 5.2。 | [体验](https://mech-fable-5-2.kosslabs.workers.dev/) · [作者帖子](https://www.reddit.com/r/threejs/comments/1xthmu3/mech_test_in_threejs_built_with_fable_52_high/) | — | — |
+| **Yonkers Rises** | Simon Willison | Three.js 城市动画：扬克斯化身巨型机甲行走；作者说明使用了 Fable 5.2 Medium 和 OpenStreetMap 数据。 | [体验](https://tools.simonwillison.net/yonkers-rises) · [作者文章与提示词](https://simonwillison.net/2026/Nov/10/yonkers-rises/) | [网页 HTML](https://tools.simonwillison.net/yonkers-rises)<br>浏览器代码 · 许可未知 | — |
 | **What the Water Keeps**<br><a href="https://x.com/kevin_t_ngo/status/2119868968307695818"><img src="https://pbs.twimg.com/amplify_video_thumb/2119868394363367424/img/OARGnHXgicPmtCwd.jpg" alt="预览：What the Water Keeps" width="180"></a> | Kevin Ngo | 乘船穿行于八个梦境般的世界。项目还使用 Tripo 角色素材和 Suno 音乐。 | [体验](https://what-the-water-keeps.vercel.app/) · [创作者帖子](https://x.com/kevin_t_ngo/status/2119868968307695818) | [HTML](https://what-the-water-keeps.vercel.app/) · [JS 入口文件](https://what-the-water-keeps.vercel.app/src/main.js)<br>浏览器端代码 · 许可协议未知 | X：456,202 次浏览，4,118 次点赞，205 次转发，163 条回复<br>2026-11-11 11:32 UTC |
 | **Voxel Engine**<br><a href="https://x.com/mattshumer_/status/2119870965106483384"><img src="https://pbs.twimg.com/amplify_video_thumb/2119870538436767745/img/aJQs97iV-O2KLBnk.jpg" alt="预览：Voxel Engine" width="180"></a> | Matt Shumer | 一款浏览器体素沙盒游戏，包含可破坏建筑和模拟效果。 | [体验](https://www.spawn.co/@mattshumer/voxel-engine) · [创作者帖子](https://x.com/mattshumer_/status/2119870965106483384) · [创作者文章](https://somethingbig.ai/fable-5-2-review) | — | X：244,313 次浏览，720 次点赞，33 次转发，50 条回复<br>2026-11-11 11:32 UTC |
 | **Mirror Earth**<br><a href="https://x.com/mattshumer_/status/2119877065701036047"><img src="https://pbs.twimg.com/amplify_video_thumb/2119876453340782592/img/v8HrUjbN3IORPcFr.jpg" alt="预览：Mirror Earth" width="180"></a> | Matt Shumer | 一个可探索、可破坏的地球尺度世界；创作者称项目仍在开发中。 | [探索](https://www.spawn.co/@mattshumer/earth?room=local) · [创作者帖子](https://x.com/mattshumer_/status/2119877065701036047) · [创作者文章](https://somethingbig.ai/fable-5-2-review) | — | X：393,134 次浏览，2,345 次点赞，118 次转发，86 条回复<br>2026-11-11 11:32 UTC |
@@ -258,6 +263,7 @@
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- | --- | --- |
+| **蒸汽朋克蜘蛛机械体** | u/Gambo7592 | Blender 短片，蜘蛛以程序化方式行走。作者说明场景使用 Fable 5.2 制作，参考图使用 GPT，模型使用 Tripo。 | [观看及作者流程](https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/fable_52_built_this_scene_in_blender/) | — | — |
 | **The Edge**<br><a href="https://x.com/rileybrown/status/2119902109709537708"><img src="https://pbs.twimg.com/amplify_video_thumb/2119897796736131072/img/uYa4QI709MAYcBH3.jpg" alt="预览：The Edge" width="180"></a> | Riley Brown | 一部 Blender 短片，其中房间和角色的代码与动画由 Fable 制作；音乐和音效使用 ElevenLabs。 | [观看](https://x.com/rileybrown/status/2119902109709537708) | — | X：794,609 次浏览，6,745 次点赞，359 次转发，247 条回复<br>2026-11-11 11:32 UTC |
 | **TORQK**<br><a href="https://x.com/higgsfield_ai/status/2120007830065614926"><img src="https://pbs.twimg.com/amplify_video_thumb/2120007518940549120/img/-kDCXtkme65vRzj6.jpg" alt="预览：TORQK" width="180"></a> | Higgsfield | 一部在 Blender 中制作的机器人关节发射短片，代码由 Fable 5.2 和辅助智能体编写。 | [观看](https://x.com/higgsfield_ai/status/2120007830065614926) | — | X：20,538 次浏览，228 次点赞，23 次转发，44 条回复<br>2026-11-11 11:32 UTC |
 | **Area 51 UFO visit**<br><a href="https://x.com/danteeonsol/status/2119887623070077213"><img src="https://pbs.twimg.com/amplify_video_thumb/2119887223810076672/img/U6vhrrrWqJgYtSjf.jpg" alt="预览：Area 51 UFO visit" width="180"></a> | danteeonsol | 一部使用 Three.js 和 Remotion 编写的电影感外星人降临短片。 | [观看](https://x.com/danteeonsol/status/2119887623070077213) | — | X：202 次浏览，3 次点赞，0 次转发，0 条回复<br>2026-11-11 11:32 UTC |
