@@ -10,6 +10,9 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 
 ### Agent Skills
 
+<details>
+<summary>Show Agent Skills</summary>
+
 | Resource | Best for | Notes |
 | --- | --- | --- |
 | [ForgeSkills: procedural modeling](https://github.com/sekaikx/ForgeSkills/blob/main/skills/gamedev-procedural-modeling/SKILL.md) · [Collection](https://github.com/sekaikx/ForgeSkills) | Create parametric game assets and use related workflows for reference matching, animation and visual iteration. | Apache-2.0 repository and skill; Blender Python API required for modeling. Check external assets and dependencies separately; not independently run. |
@@ -50,6 +53,8 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 | [Spline Agent Skill](https://docs.spline.design/generate/spline-agent-skill) | Use Spline MCP to create and maintain editable interactive 3D scenes. | Vendor documentation; requires the Spline integration. Skill license not independently confirmed. |
 | [Varg video skills](https://github.com/vargHQ/skills) | Explore the repository's code-film, 3D explainer and Three.js animatic skills. | MIT; a vendor collection with optional paid services. Individual skills and their external dependencies have not been run here. |
 
+</details>
+
 Read each skill and its dependencies before use. Linking a skill does not install it or establish that it suits every engine version or project. Licenses cover the linked repositories, not automatically any assets or games made using them.
 
 
@@ -58,6 +63,9 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 这些是通用资源，不一定使用了 Fable 5.2。来源链接与下文记载的限制核查于 2026 年 11 月 12—13 日（UTC+8）；使用前请核对当前访问条件和条款。
 
 ### Agent Skills
+
+<details>
+<summary>展开 Agent Skills</summary>
 
 | 资源 | 适合做什么 | 说明 |
 | --- | --- | --- |
@@ -98,5 +106,7 @@ Read each skill and its dependencies before use. Linking a skill does not instal
 | [Unity agent plugin](https://docs.unity.com/en-us/ai/unity-plugin/about-unity-plugin) | Unity 官方为编程智能体提供的 Skills，涵盖 UI、多人、渲染等任务。 | 需要 Unity 6.0 或更新版本；具体能力以各 Skill 为准。 |
 | [Spline Agent Skill](https://docs.spline.design/generate/spline-agent-skill) | 通过 Spline MCP 制作和维护可编辑的交互式 3D 场景。 | 厂商文档；需要连接 Spline。Skill 许可尚未独立核实。 |
 | [Varg video skills](https://github.com/vargHQ/skills) | 查找代码影片、3D 解说和 Three.js 动态预演相关技能。 | MIT；厂商技能集合，部分服务可能收费；具体 Skill 与外部依赖尚未运行测试。 |
+
+</details>
 
 使用前应阅读具体 Skill 和依赖。收录链接不等于安装，也不保证其适合所有引擎版本或项目。标注的许可仅指链接仓库，不自动覆盖用它制作的资产或游戏。

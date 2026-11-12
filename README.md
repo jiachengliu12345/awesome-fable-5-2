@@ -6,6 +6,11 @@ A collection of code-created 3D games, interactive worlds, films, and animations
 
 **Explore:** [Works](#browse-the-catalog) · [Code](#code-index) · [Resources](RESOURCES.md#english) · [3D assets](CODE-ASSETS.md#english) · [Making and maintaining](LIFECYCLE.md#english) · [Community](COMMUNITY-FEEDBACK.md#english)
 
+Select a section's arrow to expand or collapse its contents.
+
+<details>
+<summary>Show rankings at a glance</summary>
+
 <!-- rankings-preview:start -->
 ## Rankings at a glance
 
@@ -86,6 +91,8 @@ Up to three sources per platform; equal values share a rank, with stable orderin
 Only works with at least one vote appear here. Add 👍 to a work's designated bot comment; removing it withdraws the vote. One account can support multiple works.
 <!-- rankings-preview:end -->
 
+</details>
+
 [Run the local ranking and voting preview](LOCAL.md): `python3 scripts/local_app.py`
 
 ## Browse the catalog
@@ -105,6 +112,9 @@ Popularity figures are snapshots of the linked post, video, or repository, not t
 ## Code index
 
 As of 12 November 2026, **65 works** meet the verified-code criteria; **19 index entries** remain pending and **3** are outside the requested scope. Entries marked as unverified are retained as leads and do not count toward the verified-code target. The index also preserves entries awaiting further audit; it is not itself a verified total. See the [work-by-work audit](CODE-AUDIT.md) and [search and verification log](SEARCH-LOG.md).
+
+<details>
+<summary>Show Code index</summary>
 
 | Work | Code | Type / license |
 | --- | --- | --- |
@@ -196,7 +206,12 @@ As of 12 November 2026, **65 works** meet the verified-code criteria; **19 index
 | Karakoram Highway | [HTML](https://karakoram-highway.vercel.app/) | Single-file HTML · License unknown |
 | Siege Wing | [Delivered HTML](https://html-classic.itch.zone/html/20442416/index.html?v=1794407879) | Browser code · License unknown |
 
+</details>
+
 ## Games
+
+<details>
+<summary>Show Games</summary>
 
 | Work | Creator | Description | Watch / play | Code | Popularity (last checked, UTC) |
 | --- | --- | --- | --- | --- | --- |
@@ -287,11 +302,16 @@ As of 12 November 2026, **65 works** meet the verified-code criteria; **19 index
 | **Dawnward** | GavinLOrio | A 3D action game about relighting six beacons on an island trapped in an endless night. Runs locally from the repository’s HTML file. | [Creator’s build commit](https://github.com/GavinLOrio/Fable-5.2-random-game/commit/6051b625701c68e9fcef4bef30f2476f287830e5) | [HTML source](https://github.com/GavinLOrio/Fable-5.2-random-game/blob/6051b625701c68e9fcef4bef30f2476f287830e5/index.html)<br>Project code · License unknown | GitHub: 0 stars, 0 forks<br>2026-11-11 16:13 UTC |
 | **ringfall**<br><a href="https://x.com/rehan_shei/status/2119994607291584962"><img src="https://pbs.twimg.com/amplify_video_thumb/2119993937079459841/img/xg4Sk4HhxFQa7XAd.jpg" alt="Preview: ringfall" width="180"></a> | Rehan Sheikh | A Destiny-inspired FPS set in a shipbreaking yard beneath a ringed planet. Destroy three pylons and defeat the foreman inside a wreck. | [Play](https://patch.gg/play/rehan/ringfall) · [Project page](https://patch.gg/games/rehan/ringfall) · [Creator’s post](https://x.com/rehan_shei/status/2119994607291584962) | [Git repository](https://git.patch.gg/rehan/ringfall.git)<br>Project code · License unknown | X: 6,480 views, 61 like, 8 reposts, 8 replies<br>2026-11-11 16:13 UTC |
 
+</details>
+
 ### Related games
 
 - **海克斯大乱斗 (Hextech ARAM)** is a fan-made browser version of League of Legends’ Howling Abyss mode, with champion selection, Hextech augments, and online multiplayer. The developer, 守望星空はは, credits **GPT-6** for the original build. [Play](https://lol.hanyue.io/) · [Creator’s demo on Bilibili](https://www.bilibili.com/video/BV1Z7Y768EpR/)
 
 ## Interactive worlds and simulations
+
+<details>
+<summary>Show Interactive worlds and simulations</summary>
 
 | Work | Creator | Description | Watch / play | Code | Popularity (last checked, UTC) |
 | --- | --- | --- | --- | --- | --- |
@@ -343,7 +363,12 @@ As of 12 November 2026, **65 works** meet the verified-code criteria; **19 index
 | **Oil paint**<br><a href="https://x.com/BlendiByl/status/2120341251178594532"><img src="https://pbs.twimg.com/amplify_video_thumb/2120339928337031168/img/aHdhdY_SsCUmvUpc.jpg" alt="Preview: Oil paint" width="180"></a> | Blendi Byl | A walk through an autumn wood or along a snowy ridge under the aurora. Procedural brushstrokes stay pinned to the Three.js scene as you move. | [Explore](https://patch.gg/blendi/oil-paint) · [Creator’s post](https://x.com/BlendiByl/status/2120341251178594532) | [Git repository](https://git.patch.gg/blendi/oil-paint.git)<br>Project code · MIT | X: 196,866 views, 4,039 likes, 197 reposts, 233 replies<br>2026-11-11 16:13 UTC |
 | **Karakoram Highway**<br><a href="https://karakoram-highway.vercel.app/"><img src="https://karakoram-highway.vercel.app/og.jpg" alt="Preview: Karakoram Highway" width="180"></a> | Umair | A single-file 3D scenic drive from Attabad Lake to Khunjerab Pass, with changing weather and time of day. | [Explore](https://karakoram-highway.vercel.app/) · [Creator’s post](https://x.com/twenty3kb/status/2120122631144034492) | [HTML](https://karakoram-highway.vercel.app/)<br>Single-file HTML · License unknown | X: 464 views, 4 likes, 1 reposts, 1 replies<br>2026-11-11 16:13 UTC |
 
+</details>
+
 ## 3D films and animations
+
+<details>
+<summary>Show 3D films and animations</summary>
 
 | Work | Creator | Description | Watch / play | Code | Popularity (last checked, UTC) |
 | --- | --- | --- | --- | --- | --- |
@@ -358,9 +383,14 @@ As of 12 November 2026, **65 works** meet the verified-code criteria; **19 index
 | **Path-traced voxel creature**<br><a href="https://x.com/fuoeba/status/2119906486017307074"><img src="https://pbs.twimg.com/amplify_video_thumb/2119906227853602816/img/R_jG8jKmHBnp4SS1.jpg" alt="Preview: Path-traced voxel creature" width="180"></a> | fuoeba | A 3D animation rendered with a custom code-written path tracer, accompanied by synthesized sound. | [Watch](https://x.com/fuoeba/status/2119906486017307074) | — | X: 217 views, 0 likes, 0 reposts, 0 replies<br>2026-11-11 11:32 UTC |
 | **The Life of Qin Shi Huang**<br><a href="https://www.bilibili.com/video/BV1ByWM6mE1D/"><img src="https://i0.hdslb.com/bfs/archive/92861dfd46a1dd8468754e366d630191efc3be4e.jpg" alt="Preview: The Life of Qin Shi Huang" width="180"></a> | 卡其ya_ | A historical short with Three.js scenes and code-synthesized music; narration uses speech synthesis. | [Watch](https://www.bilibili.com/video/BV1ByWM6mE1D/) | — | Bilibili: 116 views, 1 like, 0 comments<br>2026-11-11 11:35 UTC |
 
+</details>
+
 ## Community feedback and discussion
 
 These are individual observations, not a representative survey. Engagement figures refer to the linked discussion or to the individual comment as labeled, and are snapshots in UTC.
+
+<details>
+<summary>Show Community feedback and discussion</summary>
 
 | Topic | What people are saying | Source | Popularity (last checked, UTC) |
 | --- | --- | --- | --- |
@@ -375,6 +405,8 @@ These are individual observations, not a representative survey. Engagement figur
 | 3D experiments on Xiaohongshu | An AI-generated roundup indexes a post titled “Fable 5.2 3D test”; the original page and its comments could not be checked. | [Indexed Xiaohongshu post](https://www.xiaohongshu.com/explore/6af2fe51000000001802aed8) · [Roundup](https://post.smzdm.com/p/axkd4r5d/) | Original post metrics unavailable<br>2026-11-11 12:36 UTC |
 | Usage limits on Xiaohongshu | An AI-generated roundup indexes a post whose title reports using 45% of an allowance in 20 minutes. This is an unverified individual report, not a general usage rate. | [Indexed Xiaohongshu post](https://www.xiaohongshu.com/explore/6af2fcfd000000002c00d5ec) · [Roundup](https://post.smzdm.com/p/axkd4r5d/) | Original post metrics unavailable<br>2026-11-11 12:36 UTC |
 | Cost concerns on Xiaohongshu | An AI-generated roundup indexes a post titled “strong but unaffordable”; its original text and comments could not be checked. | [Indexed Xiaohongshu post](https://www.xiaohongshu.com/explore/6af2a5d5000000002501c9a4) · [Roundup](https://post.smzdm.com/p/axkd4r5d/) | Original post metrics unavailable<br>2026-11-11 12:36 UTC |
+
+</details>
 
 ## More collections
 

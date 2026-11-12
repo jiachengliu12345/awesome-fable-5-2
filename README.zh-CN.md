@@ -6,6 +6,11 @@
 
 **快速浏览：**[作品](#浏览作品目录) · [代码](#代码索引) · [资源](RESOURCES.md#简体中文) · [3D 资产](CODE-ASSETS.md#简体中文) · [制作与维护](LIFECYCLE.md#简体中文) · [社区](COMMUNITY-FEEDBACK.md#简体中文)
 
+点击分类前的箭头，即可展开或收起内容。
+
+<details>
+<summary>展开榜单速览</summary>
+
 <!-- rankings-preview:start -->
 ## 榜单速览
 
@@ -86,6 +91,8 @@
 这里仅展示至少获得一票的作品。在指定机器人评论上点 👍 即投票，取消即可撤票，每个账号可支持多个作品。
 <!-- rankings-preview:end -->
 
+</details>
+
 [运行本地排行榜与投票预览](LOCAL.md)：`python3 scripts/local_app.py`
 
 ## 浏览作品目录
@@ -107,6 +114,9 @@
 截至 2026 年 11 月 12 日，**65 个作品**已符合代码核验标准，另有 **19 条索引**待核、**3 条**不在目标范围内。逐项状态及保守计数见[代码与模型证据核验](CODE-AUDIT.md)。
 
 标为尚未核实的条目作为线索保留，不计入已核实代码作品目标。索引也保留仍待进一步审查的条目，不能直接作为合格总数。详见[检索与核验记录](SEARCH-LOG.md)。
+
+<details>
+<summary>展开 代码索引</summary>
 
 | 作品 | 代码 | 类型 / 许可协议 |
 | --- | --- | --- |
@@ -198,7 +208,12 @@
 | Karakoram Highway | [HTML](https://karakoram-highway.vercel.app/) | 单文件 HTML · 许可协议未知 |
 | Siege Wing | [网页交付的 HTML](https://html-classic.itch.zone/html/20442416/index.html?v=1794407879) | 浏览器端代码 · 许可协议未知 |
 
+</details>
+
 ## 游戏
+
+<details>
+<summary>展开 游戏</summary>
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- | --- | --- |
@@ -289,11 +304,16 @@
 | **Dawnward** | GavinLOrio | 3D 动作游戏。玩家要在一座陷入永夜的岛上点燃六座烽火。仓库中的 HTML 文件可在本地运行。 | [作者的制作提交](https://github.com/GavinLOrio/Fable-5.2-random-game/commit/6051b625701c68e9fcef4bef30f2476f287830e5) | [HTML 源文件](https://github.com/GavinLOrio/Fable-5.2-random-game/blob/6051b625701c68e9fcef4bef30f2476f287830e5/index.html)<br>项目代码 · 许可协议未知 | GitHub：0 星标，0 次复刻<br>2026-11-11 16:13 UTC |
 | **ringfall**<br><a href="https://x.com/rehan_shei/status/2119994607291584962"><img src="https://pbs.twimg.com/amplify_video_thumb/2119993937079459841/img/xg4Sk4HhxFQa7XAd.jpg" alt="预览：ringfall" width="180"></a> | Rehan Sheikh | 受《Destiny》启发的 FPS，场景设在一颗带行星环的星球下的拆船场。玩家要摧毁三座塔，再进入残骸击败工头。 | [试玩](https://patch.gg/play/rehan/ringfall) · [项目页](https://patch.gg/games/rehan/ringfall) · [作者原帖](https://x.com/rehan_shei/status/2119994607291584962) | [Git 仓库](https://git.patch.gg/rehan/ringfall.git)<br>项目代码 · 许可协议未知 | X：6,480 次浏览，61 次点赞，8 次转发，8 条回复<br>2026-11-11 16:13 UTC |
 
+</details>
+
 ### 相关游戏
 
 - **海克斯大乱斗 (Hextech ARAM)** 是《英雄联盟》嚎哭深渊模式的同人网页游戏，支持选英雄、海克斯强化和联机对战。开发者守望星空はは在演示中注明原版使用 **GPT-6** 制作。[试玩](https://lol.hanyue.io/) · [B 站作者演示](https://www.bilibili.com/video/BV1Z7Y768EpR/)
 
 ## 交互世界与模拟体验
+
+<details>
+<summary>展开 交互世界与模拟体验</summary>
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- | --- | --- |
@@ -345,7 +365,12 @@
 | **Oil paint**<br><a href="https://x.com/BlendiByl/status/2120341251178594532"><img src="https://pbs.twimg.com/amplify_video_thumb/2120339928337031168/img/aHdhdY_SsCUmvUpc.jpg" alt="预览：Oil paint" width="180"></a> | Blendi Byl | 可漫步穿过秋林，也能沿着极光下的雪岭前行。程序生成的油画笔触固定在 Three.js 场景表面，随视角移动呈现。 | [体验](https://patch.gg/blendi/oil-paint) · [作者原帖](https://x.com/BlendiByl/status/2120341251178594532) | [Git 仓库](https://git.patch.gg/blendi/oil-paint.git)<br>项目代码 · MIT | X：196,866 次浏览，4,039 次点赞，197 次转发，233 条回复<br>2026-11-11 16:13 UTC |
 | **Karakoram Highway**<br><a href="https://karakoram-highway.vercel.app/"><img src="https://karakoram-highway.vercel.app/og.jpg" alt="预览：Karakoram Highway" width="180"></a> | Umair | 单文件 3D 公路驾驶体验，从阿塔巴德湖开往红其拉甫口岸，沿途有天气和昼夜变化。 | [体验](https://karakoram-highway.vercel.app/) · [作者原帖](https://x.com/twenty3kb/status/2120122631144034492) | [HTML](https://karakoram-highway.vercel.app/)<br>单文件 HTML · 许可协议未知 | X：464 次浏览，4 次点赞，1 次转发，1 条回复<br>2026-11-11 16:13 UTC |
 
+</details>
+
 ## 3D 影片与动画
+
+<details>
+<summary>展开 3D 影片与动画</summary>
 
 | 作品 | 创作者 | 简介 | 观看 / 体验 | 代码 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- | --- | --- |
@@ -360,9 +385,14 @@
 | **Path-traced voxel creature**<br><a href="https://x.com/fuoeba/status/2119906486017307074"><img src="https://pbs.twimg.com/amplify_video_thumb/2119906227853602816/img/R_jG8jKmHBnp4SS1.jpg" alt="预览：Path-traced voxel creature" width="180"></a> | fuoeba | 一段使用自编路径追踪器渲染的 3D 动画，并配有合成音效。 | [观看](https://x.com/fuoeba/status/2119906486017307074) | — | X：217 次浏览，0 次点赞，0 次转发，0 条回复<br>2026-11-11 11:32 UTC |
 | **The Life of Qin Shi Huang**<br><a href="https://www.bilibili.com/video/BV1ByWM6mE1D/"><img src="https://i0.hdslb.com/bfs/archive/92861dfd46a1dd8468754e366d630191efc3be4e.jpg" alt="预览：The Life of Qin Shi Huang" width="180"></a> | 卡其ya_ | 一部历史题材短片，包含 Three.js 场景和代码合成的音乐，旁白由语音合成生成。 | [观看](https://www.bilibili.com/video/BV1ByWM6mE1D/) | — | Bilibili：116 次浏览，1 次点赞，0 条评论<br>2026-11-11 11:35 UTC |
 
+</details>
+
 ## 社区反馈与讨论
 
 以下是个别用户的观察，不代表抽样调查结果。热度数据按标注分别对应讨论帖或单条评论，均为 UTC 时间的快照。
+
+<details>
+<summary>展开 社区反馈与讨论</summary>
 
 | 话题 | 讨论内容 | 来源 | 热度数据（最近查询时间，UTC） |
 | --- | --- | --- | --- |
@@ -377,6 +407,8 @@
 | 小红书上的 3D 实验 | 一篇 AI 生成的汇总文章收录了一条标题为“Fable 5.2 3D 测试”的帖子；原帖页面及评论均未能核实。 | [被索引的小红书帖子](https://www.xiaohongshu.com/explore/6af2fe51000000001802aed8) · [汇总文章](https://post.smzdm.com/p/axkd4r5d/) | 原帖热度数据暂不可用<br>2026-11-11 12:36 UTC |
 | 小红书上的用量限制 | 一篇 AI 生成的汇总文章收录了一条帖子，其标题称 20 分钟内用掉了额度的 45%。这是一条未经核实的个人说法，不能视为普遍用量。 | [被索引的小红书帖子](https://www.xiaohongshu.com/explore/6af2fcfd000000002c00d5ec) · [汇总文章](https://post.smzdm.com/p/axkd4r5d/) | 原帖热度数据暂不可用<br>2026-11-11 12:36 UTC |
 | 小红书上的成本顾虑 | 一篇 AI 生成的汇总文章收录了一条标题为“很强，但用不起”的帖子；原文和评论均未能核实。 | [被索引的小红书帖子](https://www.xiaohongshu.com/explore/6af2a5d5000000002501c9a4) · [汇总文章](https://post.smzdm.com/p/axkd4r5d/) | 原帖热度数据暂不可用<br>2026-11-11 12:36 UTC |
+
+</details>
 
 ## 更多精选合集
 

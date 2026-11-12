@@ -12,6 +12,9 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 
 For editable procedural assets and research datasets, see [3D assets as code](../CODE-ASSETS.md#english).
 
+<details>
+<summary>Show Asset libraries and production tools</summary>
+
 | Resource | Use | Access and license |
 | --- | --- | --- |
 | [Astrocade MCP](https://www.astrocade.com/blog/introducing-astrocade-mcp) · [Setup](https://www.astrocade.com/create/mcp) | Connect a coding agent to create, revise and submit games for publication on Astrocade. | Hosted service; account and authorization required, published games are reviewed. The [terms](https://www.astrocade.com/terms-of-service) state personal, non-commercial service use; check current terms and any separate creator-program agreement. Game code export, MCP fees and output rights were not confirmed. Not independently connected or tested. |
@@ -41,6 +44,8 @@ For editable procedural assets and research datasets, see [3D assets as code](..
 | [Unreal MCP](https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor?lang=en-US) | Let a compatible agent work with Unreal Editor tools, including scenes, materials and animation. | Epic labels this feature experimental; API and formats can change. |
 | [Blender](https://www.blender.org/) | Model, animate and render 3D scenes and assets. | Free/open-source production software; its license does not establish the rights to third-party assets. |
 
+</details>
+
 **Sand3D dataset sources:** [Objaverse](https://huggingface.co/datasets/Sandflow/sand3d-objaverse), [CAD](https://huggingface.co/datasets/Sandflow/sand3d-cad), [Articraft](https://huggingface.co/datasets/Sandflow/sand3d-articraft), [AutoMate](https://huggingface.co/datasets/Sandflow/sand3d-automate), and [NVIDIA SimReady](https://huggingface.co/datasets/Sandflow/sand3d-simready). The publisher says each record includes its `source_license` and `attribution`; check these and retain the required notices and modification information. The CADFS portion of CAD and AutoMate derive from public Onshape designs whose authors may hold rights not covered by the source license, according to their dataset cards. The 106,094-object total is the publisher's reported snapshot, not an independently counted inventory; the explorer is a sample, not the complete collection, and was paused when checked on 12 November 2026 (UTC+8).
 
 
@@ -51,6 +56,9 @@ For editable procedural assets and research datasets, see [3D assets as code](..
 ### 资产库与制作工具
 
 可编辑的程序化资产和研究数据集见[代码构建的 3D 资产](../CODE-ASSETS.md#简体中文)。
+
+<details>
+<summary>展开 资产库与制作工具</summary>
 
 | 资源 | 用途 | 访问与许可 |
 | --- | --- | --- |
@@ -80,5 +88,7 @@ For editable procedural assets and research datasets, see [3D assets as code](..
 | [Roblox 模型生成](https://create.roblox.com/docs/parts/model-generation) | 通过提示词生成 3D 资产，并用预设行为脚本制作可交互模型。 | 适用于 Roblox；所支持的模型结构和访问条件可能变化。 |
 | [Unreal MCP](https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor?lang=en-US) | 让兼容智能体调用 Unreal Editor 工具，操作场景、材质和动画等。 | Epic 将其标为实验性功能，API 和数据格式可能变化。 |
 | [Blender](https://www.blender.org/) | 制作模型、动画并渲染 3D 场景和资产。 | 免费开源制作软件；软件许可不等于第三方资产的使用许可。 |
+
+</details>
 
 **Sand3D 数据集来源：**[Objaverse](https://huggingface.co/datasets/Sandflow/sand3d-objaverse)、[CAD](https://huggingface.co/datasets/Sandflow/sand3d-cad)、[Articraft](https://huggingface.co/datasets/Sandflow/sand3d-articraft)、[AutoMate](https://huggingface.co/datasets/Sandflow/sand3d-automate) 和 [NVIDIA SimReady](https://huggingface.co/datasets/Sandflow/sand3d-simready)。发布方说明每条记录包含 `source_license` 和 `attribution`；使用时应检查并保留所需的许可、署名与修改说明。CAD 中的 CADFS 部分和 AutoMate 来自公开的 Onshape 设计，其数据卡提示原设计作者可能拥有来源许可证未覆盖的权利。106,094 是发布方报告的数量快照，并非本项目独立清点；在线浏览器展示的是样例，不是完整资产库；2026 年 11 月 12 日（UTC+8）检查时该 Space 处于暂停状态。

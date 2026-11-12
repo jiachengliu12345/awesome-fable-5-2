@@ -10,6 +10,9 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 
 ### Reddit: workflows and critiques
 
+<details>
+<summary>Show Reddit: workflows and critiques</summary>
+
 | Source | Practical takeaways | Scope and limits |
 | --- | --- | --- |
 | [Sketch, annotate, render, repeat](https://www.reddit.com/r/aigamedev/comments/1x8x7v2/a_nice_workflow_for_generating_basic_3d_assets_i/) · u/HuWeiliu | Send a sketch to a local queue, inspect the Blender render, draw changes over it and repeat. | Individual workflow using Claude and Blender; the creator says simple static assets work better than animals, which need more iterations. Specific model not stated. |
@@ -21,7 +24,12 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 | [Browser FPS with code-generated models](https://www.reddit.com/r/ClaudeAI/comments/1x8dg94/i_made_a_browser_fps_with_claude_code_every_3d/) · u/Inevitable_Salad_128 | The creator iterated a Three.js FPS over about a month and generated models in code; the discussion considers mobile, controller support and alternative asset pipelines. | Creator names Opus 5.5 and Sonnet 5.5, not Fable 5.2. Other commenters' pipelines are their own, not the author's. |
 | [Image-to-3D reference and rebuild workflow](https://www.reddit.com/r/aigamedev/comments/1xa3gju/new_crazy_workflow_for_making_3d_assets/) · u/FearlessCounty3487 and u/mr_undeadpickle77 | The original poster describes importing a generated rough model into Godot and rebuilding it; a commenter documented a separate Meshy → Godot → interactive preview workflow and published a skill. | Both are individual accounts. The commenter names Opus 5.5, GPT Image 2.5 and Meshy 7; generated assets and services have their own terms. |
 
+</details>
+
 ### X and developer tutorials
+
+<details>
+<summary>Show X and developer tutorials</summary>
 
 | Source | Practical use | Scope and limits |
 | --- | --- | --- |
@@ -45,6 +53,8 @@ These general resources are not necessarily Fable 5.2 examples. Source links and
 | [Playloop: AI agent and Blender asset pipeline](https://playloop.gg/learn/3d-pipeline) | Follow a reference-image → 3D generation → Blender cleanup → GLB workflow, with visual checks. | Vendor tutorial; example uses paid Tripo and lists a local alternative. Not independently reproduced. |
 | [Serafin Sanchez / Meshy: Game assets with Blender MCP](https://www.meshy.ai/developers/blog/blender-mcp-meshy-game-assets/) | Set a shared visual style, specify scale, use multiple views for important objects and define triangle budgets before export. | Vendor tutorial using Claude Code and Meshy; paid service and product-specific claims. Its stated results are one workflow, not an independent comparison. |
 
+</details>
+
 For community feedback on the catalog's works, see [Community Feedback & Trends](../COMMUNITY-FEEDBACK.md#english). Search and access limitations for the case collection are in the [search log](../SEARCH-LOG.md).
 
 
@@ -53,6 +63,9 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 这些是通用资源，不一定使用了 Fable 5.2。来源链接与下文记载的限制核查于 2026 年 11 月 12 日（UTC+8）；使用前请核对当前访问条件和条款。
 
 ### Reddit：工作流与反面意见
+
+<details>
+<summary>展开 Reddit：工作流与反面意见</summary>
 
 | 来源 | 值得参考的做法 | 适用范围与限制 |
 | --- | --- | --- |
@@ -65,7 +78,12 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 | [浏览器 FPS：模型由代码生成](https://www.reddit.com/r/ClaudeAI/comments/1x8dg94/i_made_a_browser_fps_with_claude_code_every_3d/) · u/Inevitable_Salad_128 | 作者用约一个月迭代 Three.js FPS，直接用代码生成模型；讨论还涉及手机、手柄和其他资产制作流程。 | 作者提及 Opus 5.5 和 Sonnet 5.5，而非 Fable 5.2。其他评论者的资产管线属于其个人经验，不应归给原作者。 |
 | [用图生粗模作参考，再重建 3D 资产](https://www.reddit.com/r/aigamedev/comments/1xa3gju/new_crazy_workflow_for_making_3d_assets/) · u/FearlessCounty3487 与 u/mr_undeadpickle77 | 原帖作者介绍先把生成粗模导入 Godot 再重建；另一位评论者记录了自己的 Meshy → Godot → 交互预览流程，并发布了对应 Skill。 | 均为个人经验；评论者注明使用 Opus 5.5、GPT Image 2.5 和 Meshy 7。生成资产及服务需分别核对条款。 |
 
+</details>
+
 ### X 与开发者教程
+
+<details>
+<summary>展开 X 与开发者教程</summary>
 
 | 来源 | 值得参考的内容 | 适用范围与限制 |
 | --- | --- | --- |
@@ -88,5 +106,7 @@ For community feedback on the catalog's works, see [Community Feedback & Trends]
 | [3D Valley：用资产库制作可玩岛屿](https://3dvalley.com/tutorials/make-a-3d-game-with-ai) | 为 Three.js 原型挑选素材时，对照素材包、尺寸、绑定和动画信息。 | 厂商教程；应分别核对原素材与访问条件。 |
 | [Playloop：AI 智能体与 Blender 资产流程](https://playloop.gg/learn/3d-pipeline) | 按参考图、3D 生成、Blender 清理和 GLB 导出的顺序制作资产，并检查渲染结果。 | 厂商教程；示例使用付费 Tripo，也列出本地替代方案。尚未独立复现。 |
 | [Serafin Sanchez / Meshy：用 Blender MCP 制作游戏资产](https://www.meshy.ai/developers/blog/blender-mcp-meshy-game-assets/) | 统一视觉风格、指定尺寸，为重要物体准备多视图，并在导出前设定三角面预算。 | 厂商教程，使用 Claude Code 和 Meshy；涉及付费服务及产品特定说明。文中结果只是一次工作流，不是独立对照实验。 |
+
+</details>
 
 案例库内的作品反馈见[社区反馈与趋势](../COMMUNITY-FEEDBACK.md#简体中文)；案例检索与访问限制见[检索记录](../SEARCH-LOG.md)。

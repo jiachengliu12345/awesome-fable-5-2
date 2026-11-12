@@ -10,6 +10,9 @@ A selection of editable code, procedural generators and research datasets for 3D
 
 These licenses permit commercial use of the cited project code or assets under their terms; check separate third-party assets and outputs where noted. Nothing here was independently run.
 
+<details>
+<summary>Show Open-source, commercial-use code and node assets</summary>
+
 | Resource | Editable material | License and practical notes |
 | --- | --- | --- |
 | [Hesiod](https://github.com/ottolink-dev/Hesiod) · [FAQ](https://hesiodengine.com/docs/faq/) | Desktop node-based procedural terrain editor with heightmap and texture exports. | GPL-3.0 code; comply with distribution terms. The current FAQ permits commercial use of assets generated from your own inputs; imported assets and presets retain their own terms. Work in progress; not independently run. |
@@ -45,7 +48,12 @@ These licenses permit commercial use of the cited project code or assets under t
 | [ZENO](https://github.com/zenustech/zeno) | Node-based procedural modeling and simulation with editable example graphs. | Code MPL-2.0, which permits commercial use subject to its file-level conditions; example-asset and output rights need separate confirmation. |
 | [TopoTopo](https://github.com/topotopo-dev/topotopo) | Editable JSON node graphs and a procedural geometry engine, with example graphs and exports to 3D tools. | Apache-2.0 code; check third-party notices and asset rights. An engine and examples rather than a finished game-asset pack. |
 
+</details>
+
 ### Create or customize assets
+
+<details>
+<summary>Show Create or customize assets</summary>
 
 | Resource | What is available | Requirements and license |
 | --- | --- | --- |
@@ -62,9 +70,14 @@ These licenses permit commercial use of the cited project code or assets under t
 | [Dungeon Forge](https://github.com/majidmanzarpour/threejs-procedural-dungeon) | Editable Three.js code generates themed dungeon scenes and procedural geometry from adjustable seeds. | Repository MIT; a scene generator rather than a general model library. Not independently run. |
 | [OpenSCAD MCAD](https://github.com/openscad/MCAD) | Editable OpenSCAD modules for gears, bearings, motors and other parametric mechanical parts. | Primarily LGPL 2.1; individual files may allow more permissive terms. Engineering/CAD-oriented; game use may require mesh conversion and materials. |
 
+</details>
+
 ### Visual node and parameter libraries
 
 These tools expose editable nodes or parameters; their application source code is not established as public. Pricing and terms can change.
+
+<details>
+<summary>Show Visual node and parameter libraries</summary>
 
 | Resource | What is available | Requirements and license |
 | --- | --- | --- |
@@ -72,7 +85,12 @@ These tools expose editable nodes or parameters; their application source code i
 | [Metropolygonia](https://metropolygonia.com/) · [asset license](https://metropolygonia.com/legal/asset-license/) | Adjustable procedural buildings and cities, with model exports. | Free Beta exports require login and are non-commercial; public projects require attribution and raw-asset redistribution is prohibited. Check the license attached to the particular export. |
 | [OmniKit3D](https://www.omnikit3d.com/) · [plans and terms](https://www.omnikit3d.com/pricing) | Blender Geometry Nodes, shaders and scene setups; paid plans provide editable Blender source files. | Catalog previews are free but the source ZIP is paid. Paid plans state a commercial license for a named creator or seat; check the seller's exact terms and third-party rights. |
 
+</details>
+
 ### Research and evaluation datasets
+
+<details>
+<summary>Show Research and evaluation datasets</summary>
 
 | Resource | What is available | Requirements and license |
 | --- | --- | --- |
@@ -84,6 +102,8 @@ These tools expose editable nodes or parameters; their application source code i
 | [3DCodeBench](https://huggingface.co/datasets/3dcodebench/3dcodebench) · [expanded corpus](https://huggingface.co/datasets/YipengGao/3DCodeBench) | 212 benchmark tasks with Blender Python scripts, prompts, reference renders and exported GLB meshes. | Dataset card marks procedural code, meshes, reference renders and captions BSD-3-Clause. Benchmark data rather than a curated game-ready pack; the card says its upload is anonymous pending review. The dataset viewer was unavailable when checked. The expanded corpus reports 12,720 instances; its Infinigen-derived scripts retain BSD-3-Clause while its card labels other materials MIT. |
 | [3DCodeVerse-2M](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m) · [project](https://3dcodeverse.com/) | A research corpus spanning Blender Python, CadQuery, Three.js, GLSL, OpenSCAD and URDF, with renders and some meshes. | Dataset card labels the collection CC BY-NC-SA 4.0 for non-commercial research; source licenses vary and stricter terms apply. It is not a blanket commercial game-asset license. The dataset viewer was unavailable when checked. |
 
+</details>
+
 The publisher describes about 2.03 million code–condition pairs drawn from 269,597 executable programs for 3DCodeVerse; pairs are not necessarily distinct models. This catalog lists original locations and does not redistribute the material.
 
 ## 简体中文
@@ -93,6 +113,9 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 ### 可商用的开源代码与节点资产
 
 下列项目代码或素材的许可允许按各自条款商用；涉及第三方素材和生成结果时，仍需分别查看。项目尚未由我们独立运行。
+
+<details>
+<summary>展开 可商用的开源代码与节点资产</summary>
 
 | 资源 | 可编辑内容 | 许可与使用说明 |
 | --- | --- | --- |
@@ -129,7 +152,12 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 | [ZENO](https://github.com/zenustech/zeno) | 节点式程序化建模与仿真工具，附可编辑示例节点图。 | 代码为 MPL-2.0，允许按其文件级条件商用；示例素材与生成结果的权利须单独确认。 |
 | [TopoTopo](https://github.com/topotopo-dev/topotopo) | 可编辑 JSON 节点图与程序化几何引擎，附示例图并支持导出到 3D 工具。 | 代码为 Apache-2.0；需查看第三方声明与素材权利。这是引擎和示例，而非成品游戏素材包。 |
 
+</details>
+
 ### 创建和定制资产
+
+<details>
+<summary>展开 创建和定制资产</summary>
 
 | 资源 | 可获得什么 | 依赖与许可 |
 | --- | --- | --- |
@@ -146,9 +174,14 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 | [Dungeon Forge](https://github.com/majidmanzarpour/threejs-procedural-dungeon) | 可编辑的 Three.js 代码通过可调随机种子生成不同主题的地牢场景及程序化几何体。 | 仓库为 MIT；这是场景生成器，并非通用模型库。尚未独立运行。 |
 | [OpenSCAD MCAD](https://github.com/openscad/MCAD) | 可编辑的 OpenSCAD 参数化齿轮、轴承、电机等机械零件模块。 | 主要采用 LGPL 2.1，个别文件可能提供更宽松条款。偏工程 CAD，用于游戏时可能需要转换网格和制作材质。 |
 
+</details>
+
 ### 可编辑节点和参数素材库
 
 这些工具提供可调整的节点或参数；尚未确认其应用程序源码公开。价格与条款可能变化。
+
+<details>
+<summary>展开 可编辑节点和参数素材库</summary>
 
 | 资源 | 可获得什么 | 依赖与许可 |
 | --- | --- | --- |
@@ -156,7 +189,12 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 | [Metropolygonia](https://metropolygonia.com/) · [资产许可](https://metropolygonia.com/legal/asset-license/) | 可调整的程序化建筑和城市，支持模型导出。 | 免费 Beta 导出需要登录且仅限非商业用途；公开作品须署名，禁止单独再分发原始资产。以具体导出时附带的许可为准。 |
 | [OmniKit3D](https://www.omnikit3d.com/) · [方案与条款](https://www.omnikit3d.com/pricing) | Blender 几何节点、着色器与场景素材；付费方案提供可编辑的 Blender 源文件。 | 素材目录可免费预览，源码 ZIP 需付费。付费方案说明包含针对指定创作者或席位的商业许可；购买前核对卖家具体条款和第三方权利。 |
 
+</details>
+
 ### 研究与评测数据集
+
+<details>
+<summary>展开 研究与评测数据集</summary>
 
 | 资源 | 可获得什么 | 依赖与许可 |
 | --- | --- | --- |
@@ -167,5 +205,7 @@ The publisher describes about 2.03 million code–condition pairs drawn from 269
 | [FoldNet](https://huggingface.co/datasets/Bowie375/FoldNet) · [生成代码](https://github.com/chen01yx/FoldNet_code) | 程序化生成的服装资产研究数据及相关重建代码。 | 数据卡标为 CC BY 4.0；未找到生成代码的独立许可证。检查时完整数据集浏览器报告生成错误；文件和生成器尚未独立测试。 |
 | [3DCodeBench](https://huggingface.co/datasets/3dcodebench/3dcodebench) · [扩展语料](https://huggingface.co/datasets/YipengGao/3DCodeBench) | 212 个评测任务，包含 Blender Python 脚本、提示词、参考渲染图与导出的 GLB 网格。 | 数据卡将程序代码、网格、参考渲染图和文本标为 BSD-3-Clause。这是评测数据，不是专门筛选的游戏素材包；数据卡说明投稿评审期间匿名，检查时数据集浏览器不可用。扩展语料报告有 12,720 个实例；其源自 Infinigen 的脚本保留 BSD-3-Clause，数据卡将其他材料标为 MIT。 |
 | [3DCodeVerse-2M](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m) · [项目主页](https://3dcodeverse.com/) | 覆盖 Blender Python、CadQuery、Three.js、GLSL、OpenSCAD 和 URDF 的研究代码数据，附渲染图和部分网格。 | 数据卡将整体标为 CC BY-NC-SA 4.0，仅供非商业研究；不同来源许可不同，适用更严格的条款。不能据此认为整库可用于商业游戏；检查时数据集浏览器不可用。 |
+
+</details>
 
 3DCodeVerse 发布方称，约 203 万条代码与条件配对来自 269,597 个可执行程序；配对数不等于独立模型数。本目录只链接原始位置，不复制素材。

@@ -6,6 +6,9 @@
 
 This is a small, purposive sample of discussion about code-made experiences, observed on 11–12 November 2026 (China Standard Time, UTC+8). Post and comment metrics are separate snapshots. These are individual observations, not a representative survey; a recurring signal requires at least three independent comments across two posts. A cross-platform signal additionally requires more than one platform. A question or a creator statement is not evidence that most users share the same view.
 
+<details>
+<summary>Show English</summary>
+
 | Type | Source and observation | Comment snapshot | Post snapshot |
 | --- | --- | --- | --- |
 | Specific feedback | [Xiaohongshu: HarryMonkeyEXE’s Oil paint post](https://www.xiaohongshu.com/explore/6af458ca000000002b03bb3a). User **添加一个名字** said they had been considering a similar visual style, initially via a filter. The comment appeared on 11 November at 23:35 CST. Locate it by the author and time in the comments. | 1 like; 3 replies shown | 143 likes, 111 saves, 11 comments |
@@ -17,6 +20,8 @@ This is a small, purposive sample of discussion about code-made experiences, obs
 | Specific feedback | [Hacker News: al_borland on Saltline](https://news.ycombinator.com/item?id=50445119) found the drones annoying and reported that the iOS direction pad did not work, prompting a switch to desktop. Published 10 November 19:32 UTC. | Score not public in the item API | Parent: 69 points, 87 comments |
 | Specific feedback | [Hacker News: leothetechguy on Saltline](https://news.ycombinator.com/item?id=50446441) found it fun and praised performance and cover, while noting fixed controls and visual/collision problems. Published 10 November 21:19 UTC. | Score not public in the item API | Parent: 69 points, 87 comments |
 | Specific feedback | [Hacker News: bajard on Saltline](https://news.ycombinator.com/item?id=50452627) argued that engaging mechanics and opponents matter more than graphics. Published 11 November 12:26 UTC. | Score not public in the item API | Parent: 69 points, 87 comments |
+
+</details>
 
 The first three rows were viewed in the logged-in browser on 12 November between approximately 02:00 and 02:04 CST; the exact minute was not retained. Counters change. Access to the Xiaohongshu post may require a logged-in session or the platform’s search link.
 
@@ -36,6 +41,9 @@ Reddit was read around 18:16–18:18 UTC on 11 November; Hacker News comments an
 
 本页整理 2026 年 11 月 11–12 日（北京时间，UTC+8）观察到的少量、定向选取的讨论。帖子与评论各自的热度分开记录。这不是代表性调查：至少两个不同帖子中的三条独立评论才作为“反复出现的信号”；跨平台信号还需来自多个平台。提问或创作者说明不能证明多数人持相同意见。
 
+<details>
+<summary>展开 简体中文</summary>
+
 | 类型 | 来源与观点 | 评论自身快照 | 原帖快照 |
 | --- | --- | --- | --- |
 | 具体反馈 | [小红书：HarryMonkeyEXE 的 Oil paint 帖子](https://www.xiaohongshu.com/explore/6af458ca000000002b03bb3a)下，**添加一个名字**说自己也曾考虑类似风格，原本想到用滤镜。评论显示发布于 11 月 11 日 23:35；可按作者和时间定位。 | 1 赞，显示 3 条回复 | 143 赞、111 收藏、11 条评论 |
@@ -47,6 +55,8 @@ Reddit was read around 18:16–18:18 UTC on 11 November; Hacker News comments an
 | 具体反馈 | [Hacker News：al_borland 讨论 Saltline](https://news.ycombinator.com/item?id=50445119)，觉得无人机战斗烦人，并报告 iOS 方向键不能用，后来换到桌面试玩。发布于 11 月 10 日 19:32 UTC。 | 单条评论 API 未公开分数 | 原帖 69 分、87 条评论 |
 | 具体反馈 | [Hacker News：leothetechguy 讨论 Saltline](https://news.ycombinator.com/item?id=50446441)，觉得游戏有趣，称赞性能与掩体，同时指出按键不能重新绑定和画面、碰撞问题。发布于 11 月 10 日 21:19 UTC。 | 单条评论 API 未公开分数 | 原帖 69 分、87 条评论 |
 | 具体反馈 | [Hacker News：bajard 讨论 Saltline](https://news.ycombinator.com/item?id=50452627)，认为有意思的机制和敌人比画面更重要。发布于 11 月 11 日 12:26 UTC。 | 单条评论 API 未公开分数 | 原帖 69 分、87 条评论 |
+
+</details>
 
 以上前三条于 11 月 12 日约 02:00–02:04 在已登录浏览器中读取，未记录精确到分钟的时间。互动数字会变化；访问小红书帖子可能需要登录或从平台搜索结果进入。
 
