@@ -17,7 +17,7 @@ from pathlib import Path
 from readme_rankings import render_homepages
 
 ROOT = Path(__file__).resolve().parents[1]
-REPOSITORY = "jiachengliu12345/awesome-fable-5-2-code-native-3d"
+REPOSITORY = "jiachengliu12345/awesome-code-native-3d"
 SECTIONS = {"Games", "Interactive worlds and simulations", "3D films and animations"}
 PLATFORMS = ("X", "GitHub", "Bilibili", "YouTube")
 ISSUE_MARKER = "<!-- awesome-fable-reader-votes:v1 -->"

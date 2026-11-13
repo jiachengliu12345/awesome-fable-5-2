@@ -1,4 +1,4 @@
-# Awesome Fable 5.2: Code-Native 3D Worlds & Assets
+# Awesome Code-Native 3D Worlds & Assets
 
 English | [简体中文](README.zh-CN.md)
 
