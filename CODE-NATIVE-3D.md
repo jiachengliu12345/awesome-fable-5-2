@@ -4,7 +4,7 @@
 
 ## English
 
-These resources provide **editable source code that generates or defines 3D objects, scenes, materials or effects**. They are general resources for a Fable 5.2 workflow; inclusion does not establish that Fable created them. A model file without its generating code, an image-only demo, and a visual node graph without editable source are outside this selection. Code licenses and the rights to bundled assets or generated output are separate; verify both for your intended use. Projects were not independently run.
+These resources provide **editable source code that generates or defines 3D objects, scenes, materials or effects**. They are general resources for code-based 3D workflows; inclusion does not establish that any particular model created them. A model file without its generating code, an image-only demo, and a visual node graph without editable source are outside this selection. Code licenses and the rights to bundled assets or generated output are separate; verify both for your intended use. Projects were not independently run.
 
 For the broader collection, including node graphs and datasets, see [3D assets as code](CODE-ASSETS.md#english).
 
@@ -29,6 +29,8 @@ For the broader collection, including node graphs and datasets, see [3D assets a
 | Resource and source | What the code generates | License and constraints |
 | --- | --- | --- |
 | [Dungeon Forge](https://github.com/majidmanzarpour/threejs-procedural-dungeon) | Seeded Three.js dungeon scenes and geometry. | MIT repository; check third-party and output rights separately. |
+| [OpenSCAD terrain generator](https://github.com/lpostiguy/procedural-terrain-generator) · [Python source](https://github.com/lpostiguy/procedural-terrain-generator/blob/main/terrain_gen.py) | A 231-line Python script builds editable OpenSCAD terrain, trees and rocks. | README declares MIT; early example; requires OpenSCAD. Not independently run. |
+| [Makone](https://github.com/wormholeportal/Makone) · [world source](https://github.com/wormholeportal/Makone/tree/main/worlds) | Three.js objects, scenes and games built in editable JavaScript. | MIT code; check dependencies and output rights. Already listed in the skills guide. |
 | [Infinigen](https://github.com/princeton-vl/infinigen) | Blender/Python generators for natural and indoor scenes and objects. | BSD-3-Clause code; output and third-party rights require separate checks. |
 | [Cartoon Terrain Studio](https://github.com/idlerunner00/cartoon-terrain-studio) | Godot C# and shaders for editable stylized 2.5D terrain; the maintainer describes its visuals as code-generated. | MIT repository; check dependencies and output rights. Requires Godot .NET. |
 | [Architectural Design Pipeline](https://github.com/Mhrnqaruni/architectural-design-pipeline) | Python parametric house design generates CAD and a furnished Three.js model. | MIT project code; PDF/PNG pipeline uses PyMuPDF, with separate AGPL/commercial terms. Check all dependency and output rights. |
@@ -41,6 +43,7 @@ For the broader collection, including node graphs and datasets, see [3D assets a
 | Resource and source | What the code generates | License and constraints |
 | --- | --- | --- |
 | [WebGL Shader Lab](https://github.com/PSCactux/webgl-shader-lab) | Editable Three.js / React Three Fiber shader, particle, terrain and geometry examples. | MIT repository; Node 20+ and WebGL2; verify third-party and output rights. |
+| [GLSL Shader Collection](https://github.com/lostjared/shaders) | Standalone GLSL effects, including material examples; many target video post-processing. | Repository declares MIT; verify each shader’s provenance and third-party rights before reuse. Not independently run. |
 
 </details>
 
@@ -57,7 +60,7 @@ For the broader collection, including node graphs and datasets, see [3D assets a
 
 ## 简体中文
 
-这里收集**以可编辑源码生成或定义 3D 物件、场景、材质或特效**的资源，可供 Fable 5.2 工作流参考；收录不代表这些项目由 Fable 制作。只有模型文件而没有生成代码、只有图片演示、或只有可视化节点图而没有可编辑源码的项目，不放入本精选。代码、附带素材和生成结果的权利应分别核对；本次没有独立运行这些项目。
+这里收集**以可编辑源码生成或定义 3D 物件、场景、材质或特效**的资源，可供代码驱动的 3D 工作流参考；收录不代表这些项目由特定模型制作。只有模型文件而没有生成代码、只有图片演示、或只有可视化节点图而没有可编辑源码的项目，不放入本精选。代码、附带素材和生成结果的权利应分别核对；本次没有独立运行这些项目。
 
 更广泛的节点素材与数据集见 [代码构建的 3D 资产](CODE-ASSETS.md#简体中文)。
 
@@ -82,6 +85,8 @@ For the broader collection, including node graphs and datasets, see [3D assets a
 | 资源与源码 | 代码生成什么 | 许可与限制 |
 | --- | --- | --- |
 | [Dungeon Forge](https://github.com/majidmanzarpour/threejs-procedural-dungeon) | 根据种子生成 Three.js 地牢场景和几何体。 | 仓库 MIT；第三方素材及输出权利需分别核对。 |
+| [OpenSCAD 地形生成器](https://github.com/lpostiguy/procedural-terrain-generator) · [Python 源码](https://github.com/lpostiguy/procedural-terrain-generator/blob/main/terrain_gen.py) | 231 行 Python 脚本生成可编辑的 OpenSCAD 地形、树木与岩石。 | README 声明 MIT；早期示例，需使用 OpenSCAD，尚未独立运行。 |
+| [Makone](https://github.com/wormholeportal/Makone) · [世界源码](https://github.com/wormholeportal/Makone/tree/main/worlds) | 用可编辑 JavaScript 构建 Three.js 物件、场景与游戏。 | 代码 MIT；依赖和输出权利需核对。已在技能指南收录。 |
 | [Infinigen](https://github.com/princeton-vl/infinigen) | Blender/Python 自然与室内场景及物体生成器。 | 代码 BSD-3-Clause；输出和第三方素材的权利需单独核对。 |
 | [Cartoon Terrain Studio](https://github.com/idlerunner00/cartoon-terrain-studio) | 用 Godot C# 和着色器生成可编辑的风格化 2.5D 地形；维护者说明画面由代码生成。 | 仓库 MIT；需核对依赖和输出权利，使用 Godot .NET。 |
 | [Architectural Design Pipeline](https://github.com/Mhrnqaruni/architectural-design-pipeline) | Python 参数化住宅设计生成 CAD 图纸和带家具的 Three.js 模型。 | 项目代码 MIT；PDF/PNG 流程使用 PyMuPDF，适用其单独的 AGPL 或商业条款。依赖和输出权利需核对。 |
@@ -94,6 +99,7 @@ For the broader collection, including node graphs and datasets, see [3D assets a
 | 资源与源码 | 代码生成什么 | 许可与限制 |
 | --- | --- | --- |
 | [WebGL Shader Lab](https://github.com/PSCactux/webgl-shader-lab) | 可编辑的 Three.js / React Three Fiber 着色器、粒子、地形和几何体示例。 | 仓库 MIT；需要 Node 20+ 和 WebGL2，第三方素材及输出权利需核对。 |
+| [GLSL 着色器集](https://github.com/lostjared/shaders) | 可独立阅读的 GLSL 特效，含材质示例；不少用于视频后期。 | 仓库声明 MIT；复用前应核对各着色器的来源及第三方权利。尚未独立运行。 |
 
 </details>
 

@@ -195,3 +195,13 @@ Reddit 上的一条 Patch 线索引出上述两个 MIT 树木生成器，专区�
 | 3 | Hugging Face: `site:huggingface.co/datasets procedural threejs executable asset programs MIT` | CCORE code dataset already cataloged / CCORE 代码数据集已收录 |
 | 4 | Bilibili: `site:bilibili.com 代码生成 三维资产 threejs 源码 MIT 程序化` | Tutorials and examples without newly verified qualifying code and terms / 教程与示例未核实新的合格源码及条款 |
 | 5 | YouTube: `site:youtube.com/watch three.js procedural model generation source github MIT` | Tutorials; no newly verified qualifying asset source and license / 教程未核实新的合格资产源码与许可 |
+
+## Concise code-based 3D / 简洁的代码式 3D — 2026-11-13
+
+Luna workers checked compact code-defined 3D resources and compared candidates against the existing catalog. Added the OpenSCAD terrain generator (its Python source was 231 lines when checked) and GLSL Shader Collection; cross-linked Makone, which was already in the skills guide. Shader collection MIT is a repository-level statement; individual file provenance needs checking. The terrain project declares MIT in its README. We did not run either project. CropCraft uses external/packaged assets and was not selected as a pure-code asset; a single-file Fracture World example was about 4,719 lines and not selected as concise. A new code dataset's median answer length was tens of thousands of characters, so it was not selected for this pass.
+
+Luna 子任务检索简洁的代码式 3D 资源，并对照现有目录去重。新增 OpenSCAD 地形生成器（检查时 Python 源码为 231 行）和 GLSL 着色器集；另补充已在技能指南收录的 Makone 源码入口。着色器集的 MIT 声明适用于仓库层面，单个文件的来源仍需核对；地形项目在 README 声明 MIT。两个新增项目均未独立运行。CropCraft 涉及外部或打包素材，未作为纯代码资产精选；Fracture World 虽为单文件，但约 4,719 行，未按简洁代码收录。另一个代码数据集的答案中位长度达数万字符，本次未选入。
+
+Five completed public-index searches around 16:20–16:22 UTC+8 found no further qualifying concise addition: Reddit (`procedural 3d assets short javascript code open source MIT`), X (`procedural 3d generator minimal source code github MIT`), Hugging Face (`small threejs procedural asset code MIT`), Bilibili (`代码生成 3D 资产 短小 开源 源码`), and GitHub (`small javascript procedural 3d object generation single file license MIT`). A YouTube-index request failed and was not counted. Direct raw-file retrieval also failed; the source-file link and 231-line metadata were checked on the GitHub page. These limited queries do not exhaust the platforms.
+
+约 16:20–16:22（UTC+8）连续完成五次公开索引检索，未发现进一步符合简洁标准的新增：Reddit、X、Hugging Face、B 站和 GitHub，查询范围见上文。YouTube 索引请求失败，未计入轮次；源码原始文件请求也失败，文件链接及 231 行元数据改由 GitHub 页面核查。上述查询范围有限，不能代表平台上的全部资源。
