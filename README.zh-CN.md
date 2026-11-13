@@ -1,10 +1,10 @@
-# Awesome Fable 5.2 3D Creations
+# Awesome Fable 5.2: Code-Native 3D Worlds & Assets
 
 简体中文 | [English](README.md)
 
 这里汇集了使用 [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview) 编写代码制作的 3D 游戏、交互世界、影片和动画，并附有创作者及原始作品链接。
 
-**快速浏览：**[作品](#浏览作品目录) · [代码](#代码索引) · [资源](RESOURCES.md#简体中文) · [3D 资产](CODE-ASSETS.md#简体中文) · [制作与维护](LIFECYCLE.md#简体中文) · [社区](COMMUNITY-FEEDBACK.md#简体中文)
+**快速浏览：**[作品](#浏览作品目录) · [代码](#代码索引) · [资源](RESOURCES.md#简体中文) · [代码原生 3D](CODE-NATIVE-3D.md#简体中文) · [3D 资产](CODE-ASSETS.md#简体中文) · [制作与维护](LIFECYCLE.md#简体中文) · [社区](COMMUNITY-FEEDBACK.md#简体中文)
 
 点击分类前的箭头，即可展开或收起内容。
 

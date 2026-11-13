@@ -1,10 +1,10 @@
-# Awesome Fable 5.2 3D Creations
+# Awesome Fable 5.2: Code-Native 3D Worlds & Assets
 
 English | [简体中文](README.zh-CN.md)
 
 A collection of code-created 3D games, interactive worlds, films, and animations made with [Claude Fable 5.2](https://platform.claude.com/docs/en/models/fable-5-2/overview), with links to their creators and original work.
 
-**Explore:** [Works](#browse-the-catalog) · [Code](#code-index) · [Resources](RESOURCES.md#english) · [3D assets](CODE-ASSETS.md#english) · [Making and maintaining](LIFECYCLE.md#english) · [Community](COMMUNITY-FEEDBACK.md#english)
+**Explore:** [Works](#browse-the-catalog) · [Code](#code-index) · [Resources](RESOURCES.md#english) · [Code-native 3D](CODE-NATIVE-3D.md#english) · [3D assets](CODE-ASSETS.md#english) · [Making and maintaining](LIFECYCLE.md#english) · [Community](COMMUNITY-FEEDBACK.md#english)
 
 Select a section's arrow to expand or collapse its contents.
 

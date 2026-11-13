@@ -4,6 +4,8 @@
 
 ## English
 
+[Code-native 3D assets](CODE-NATIVE-3D.md#english) — a focused selection of editable asset-generating programs.
+
 A selection of editable code, procedural generators and research datasets for 3D objects. These are **general 3D resources**, not claims of Fable 5.2 use. Sources were checked on 12–13 November 2026 (UTC+8); see the [search log](CODE-ASSET-SEARCH-LOG.md). Projects and assets were not independently run or rendered. Check the license of each codebase, dataset, third-party asset and output separately.
 
 ### Open-source, commercial-use code and node assets
@@ -110,6 +112,8 @@ These tools expose editable nodes or parameters; their application source code i
 The publisher describes about 2.03 million code–condition pairs drawn from 269,597 executable programs for 3DCodeVerse; pairs are not necessarily distinct models. This catalog lists original locations and does not redistribute the material.
 
 ## 简体中文
+
+[代码原生 3D 资产](CODE-NATIVE-3D.md#简体中文) — 精选可编辑的资产生成程序。
 
 这里收录可编辑代码、程序化生成器和 3D 对象研究数据集。这些都是**通用 3D 资源**，不代表项目使用了 Fable 5.2。来源核查于 2026 年 11 月 12—13 日（UTC+8），详见[检索记录](CODE-ASSET-SEARCH-LOG.md)；本项目未独立运行或渲染这些资源。代码库、数据集、第三方素材与生成结果的许可应分别核对。
 

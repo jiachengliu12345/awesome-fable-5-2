@@ -177,3 +177,21 @@ Following the last addition, five sequential public-web index searches around 04
 | 3 | Hugging Face: `site:huggingface.co/datasets procedural generated 3d models source code license` | Existing code datasets; other indexed collection is generated model files rather than a procedural code asset library / 既有代码数据集；其他检索结果是生成后的模型文件，并非程序化代码资产库 |
 | 4 | Bilibili: `site:bilibili.com 程序化 3D 模型 生成器 开源 github 几何节点` | CADAM already listed; other results lacked verified qualifying source and terms / CADAM 已收录；其他结果未核实符合条件的源码及条款 |
 | 5 | YouTube: `site:youtube.com Blender procedural generator open source github geometry nodes assets` | Index returned largely unrelated service terms, with no qualifying new lead / 索引主要返回不相关的服务条款，未发现合格的新线索 |
+
+## Code-native 3D assets / 代码原生 3D 资产 — 2026-11-13
+
+Luna workers searched code-defined objects, worlds, effects and the existing catalog. The focused bilingual [code-native selection](CODE-NATIVE-3D.md) adds six previously uncataloged resources: Arch Generator, Cartoon Terrain Studio, Architectural Design Pipeline, WebGL Shader Lab, Lowpoly Tree Generator and EZ-Tree. It also cross-indexes earlier resources, including CCORE's Three.js dataset. These are general-purpose resources; no Fable 5.2 authorship is implied. We checked original project descriptions and licenses, without independently running them. Code, dependencies, inputs and outputs can have different terms.
+
+Luna 子任务检索代码定义的物件、世界和特效，并盘点已有目录。[代码原生双语专区](CODE-NATIVE-3D.md)新增六项此前未收录的资源：Arch Generator、Cartoon Terrain Studio、Architectural Design Pipeline、WebGL Shader Lab、Lowpoly Tree Generator 和 EZ-Tree，同时交叉索引 CCORE Three.js 数据集等既有资源。这些是通用资源，不能据此认定由 Fable 5.2 制作。我们核对了项目原始说明和许可，但没有独立运行；代码、依赖、输入和输出可能适用不同条款。
+
+A Reddit lead to Patch identified the two MIT tree generators at their original GitHub repositories. Patch's collection has item-specific rights; we did not infer an open commercial license for the entire collection. CCORE's conversations configuration contains HTML/Three.js source; its MIT declaration extends only to the publisher's rights and item-level provenance is unverified. It was already cataloged, so is not counted as a new resource. After the last new qualified addition, five sequential public-index queries around 15:56–15:57 UTC+8 returned no further qualified addition. Index coverage is incomplete, especially for X and platform-native search; access restrictions were not bypassed.
+
+Reddit 上的一条 Patch 线索引出上述两个 MIT 树木生成器，专区直接链接其原始 GitHub 仓库。Patch 集合的权利因条目而异，不能据此推断整库均可开放商用。CCORE 的 conversations 配置包含 HTML/Three.js 源码；其 MIT 声明仅限发布者持有的权利，逐项来源未核实。该数据集此前已收录，不计作新增。最后一次新增后，约 15:56–15:57（UTC+8）依次完成五轮公开索引检索，未发现新的合格增量。索引覆盖并不完整，尤其 X 和平台站内搜索；没有绕过访问限制。
+
+| Round | Platform and query / 平台与查询 | Outcome / 结果 |
+| --- | --- | --- |
+| 1 | Reddit: `site:reddit.com/r/threejs procedural asset generator open source code library javascript MIT` | Patch lead, previously found upstream trees, and existing resources / Patch 线索、已发现的上游树木代码和既有资源 |
+| 2 | X: `site:x.com threejs procedural model generator open source MIT` | No additional source with verified qualifying code and rights / 未发现进一步核实源码和权利的合格项目 |
+| 3 | Hugging Face: `site:huggingface.co/datasets procedural threejs executable asset programs MIT` | CCORE code dataset already cataloged / CCORE 代码数据集已收录 |
+| 4 | Bilibili: `site:bilibili.com 代码生成 三维资产 threejs 源码 MIT 程序化` | Tutorials and examples without newly verified qualifying code and terms / 教程与示例未核实新的合格源码及条款 |
+| 5 | YouTube: `site:youtube.com/watch three.js procedural model generation source github MIT` | Tutorials; no newly verified qualifying asset source and license / 教程未核实新的合格资产源码与许可 |
